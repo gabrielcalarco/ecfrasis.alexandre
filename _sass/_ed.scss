@@ -109,17 +109,24 @@ body {
 }
 
 /* Links */
-a, .text-title a {
+
+
+
+a {
   color: $link-color;
   text-decoration: none;
 }
 
-
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
 a:focus {
-  text-decoration: underline;
+  
+  text-shadow: 0 0 8px $link-color;
+  transition: 0.3s;
+  text-decoration: none;
+  // text-decoration: underline;
 }
+
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
@@ -269,9 +276,9 @@ tbody tr:nth-child(odd) th {
   background-image: url("Tower_of_Babe.jpg");
   background-size: cover;
   border-bottom: 1px solid #eee;
-  margin-bottom: 3rem;
-  padding-top: 208px;
-  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  padding-top: 75px;
+  padding-bottom: 1em;
   text-align: center;
 }
 
@@ -281,17 +288,17 @@ tbody tr:nth-child(odd) th {
   background-image: url("Ebstorfer-stich2.jpg");
   background-size: cover;
   border-bottom: 1px solid #eee;
-  margin-bottom: 3rem;
-  padding-top: 208px;
+  margin-bottom: 1rem;
+  padding-top: 75px;
   padding-bottom: 1rem;
   text-align: center;
 }
 
 .masthead-title {
 
-  // display: none; 
-  color: #505050;
+  display: none; 
   font-family: $main-font;
+  color:beige;
   font-size: 1.8rem;
   line-height: .777em;
   margin-top: 2em;
@@ -304,6 +311,8 @@ tbody tr:nth-child(odd) th {
 
 @media (min-width: 320px) {
   .masthead-title {
+    // display: none;
+    color: beige;
     background: scroll;
     // background-image: url('Alejandro_Magno_en_submarino.jpg');
     margin-top: 2px;

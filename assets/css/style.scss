@@ -29,6 +29,7 @@ $link-color: #841212;
 @import "syntax";
 // @import "CETEIcean.css";
 
+
 div   {
 margin-top: 0;
 margin-bottom: 1rem;
@@ -36,6 +37,7 @@ margin-bottom: 1rem;
 
 h1 {
   text-align: center;
+  color: $link-color;
 }
 
 
@@ -80,10 +82,8 @@ margin-bottom: 10px;
 margin-bottom: 10px;
 }
 
-a, .text-title a {
-color: $link-color;
-text-decoration: none;
-}
+
+
 
 .clasico
 {
