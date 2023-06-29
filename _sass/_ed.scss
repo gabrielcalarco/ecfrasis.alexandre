@@ -109,34 +109,22 @@ body {
 }
 
 /* Links */
-<<<<<<< HEAD
-
-
-
 a {
   color: $link-color;
   text-decoration: none;
-=======
+}
 a, .text-title a {
     color: rgba(255, 255, 255, 0.9);
     text-decoration: none;
     transition: 0.4s;
->>>>>>> f241b22425b1e92d1aaceab96a3a6a896c5a6259
 }
 
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
 a:focus {
-<<<<<<< HEAD
-  
-  text-shadow: 0 0 8px $link-color;
-  transition: 0.3s;
-  text-decoration: none;
-=======
      text-shadow: 0 0 8px rgba(255, 255, 255, 0.7);
     transition: 0.3s;
     text-decoration: none;
->>>>>>> f241b22425b1e92d1aaceab96a3a6a896c5a6259
   // text-decoration: underline;
 }
 
