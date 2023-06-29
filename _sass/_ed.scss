@@ -109,22 +109,21 @@ body {
 }
 
 /* Links */
+
+
+
 a {
   color: $link-color;
   text-decoration: none;
-}
-a, .text-title a {
-    color: rgba(255, 255, 255, 0.9);
-    text-decoration: none;
-    transition: 0.4s;
 }
 
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
 a:focus {
-     text-shadow: 0 0 8px rgba(255, 255, 255, 0.7);
-    transition: 0.3s;
-    text-decoration: none;
+  
+  text-shadow: 0 0 8px $link-color;
+  transition: 0.3s;
+  text-decoration: none;
   // text-decoration: underline;
 }
 
@@ -310,6 +309,7 @@ tbody tr:nth-child(odd) th {
 }
 
 
+
 @media (min-width: 320px) {
   .masthead-title {
     // display: none;
@@ -361,6 +361,21 @@ tbody tr:nth-child(odd) th {
 }
 
 /* Sidebar content */
+
+
+.sidebarsidebar-nav-item {
+  color: white;
+  text-decoration: none;
+}
+
+.sidebarsidebar-nav-item:hover,
+  .sidebarsidebar-nav-item:focus {
+  
+  text-shadow: 0 0 8px white;
+  transition: 0.3s;
+  text-decoration: none;
+}
+
 .sidebar {
   background-color: $link-color;
 }
@@ -368,6 +383,14 @@ tbody tr:nth-child(odd) th {
 .sidebar a {
   font-weight: normal;
   color: #fff;
+}
+
+.sidebar a:hover,
+.sidebar a:focus {
+  
+  text-shadow: 0 0 8px  #fff;
+  transition: 0.3s;
+  text-decoration: none;
 }
 
 .sidebar-item {
