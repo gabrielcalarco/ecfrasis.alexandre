@@ -22,7 +22,7 @@ $regular-font-size: 1.25em; /* 20px / 16px = 1.25em; support text resizing in al
 */
 
 $text-color: #454545;
-$heading-color: #404040;
+$heading-color: #180a49;
 $link-color: #841212;
 
 @import "ed";
@@ -37,7 +37,7 @@ margin-bottom: 1rem;
 
 h1 {
   text-align: center;
-  color: $link-color;
+  // color: $link-color;
 }
 
 
