@@ -289,7 +289,19 @@ tbody tr:nth-child(odd) th {
   background-size: cover;
   border-bottom: 1px solid #eee;
   margin-bottom: 1rem;
-  padding-top: 75px;
+  padding-top: 175px;
+  padding-bottom: 1rem;
+  text-align: center;
+}
+
+.masthead3 {
+  // display: none;
+  background:fixed;
+  background-image: url("Tower_of_Babe.jpg");
+  background-size: cover;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 1rem;
+  padding-top: 175px;
   padding-bottom: 1rem;
   text-align: center;
 }
