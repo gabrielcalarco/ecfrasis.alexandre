@@ -193,7 +193,7 @@ p {
 
 /* Lists */
 ul {
-  list-style: circle;
+  list-style: none
 }
 
 ul, ol {
@@ -282,7 +282,7 @@ tbody tr:nth-child(odd) th {
   text-align: center;
 }
 
-.masthead2 {
+.masthead_textos {
   // display: none;
   background:fixed;
   background-image: url("Ebstorfer-stich2.jpg");
@@ -294,7 +294,19 @@ tbody tr:nth-child(odd) th {
   text-align: center;
 }
 
-.masthead3 {
+.masthead_vocab_ctrl {
+  // display: none;
+  background:fixed;
+  background-image: url("Tower_of_Babe.jpg");
+  background-size: cover;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 1rem;
+  padding-top: 175px;
+  padding-bottom: 1rem;
+  text-align: center;
+}
+
+.masthead_investigacion {
   // display: none;
   background:fixed;
   background-image: url("Tower_of_Babe.jpg");
@@ -308,7 +320,7 @@ tbody tr:nth-child(odd) th {
 
 .masthead-title {
 
-  // display: none; 
+  display: none; 
   font-family: $main-font;
   color:beige;
   font-size: 1.8rem;

@@ -4,30 +4,26 @@
   {% include head.html %}
 
   <body class="theme-base-{{site.color-scheme}}">
-
-    <!-- This if statement decides which sidebar to use -->
+    
     {% if page.toc %}
     {% include sidebar-toc.html %}
     {% else %}
     {% include sidebar.html %}
     {% endif %}
 
-    <!--
-      Wrap is the content to shift when toggling the sidebar. We wrap the content to avoid any CSS
-      collisions with our real content.
-    -->
     <div class="wrap">
       <header class="masthead_textos">
-        <div class="container2">
+        <div class="container">
           <h3 class="masthead-title">
-            <a href="{{ site.baseurl }}/" title="Home">{{ site.title | newline_to_br }}</a>
-            <br><small>{{ site.tagline }}</small>
-            
+            <!-- <a href="{{ site.baseurl }}/" title="Home">{{ site.title | newline_to_br }}</a>
+            <br><small>{{ site.tagline }}</small> -->
           </h3>
         </div>
       </header>
 
-      <main class="container2 content" id="main" style="text-align: center;">
+
+
+      <main class="container content" id="main">
         {{ content }}
       </main>
     </div>

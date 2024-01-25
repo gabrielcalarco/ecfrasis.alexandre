@@ -17,7 +17,7 @@
       collisions with our real content.
     -->
     <div class="wrap">
-      <header class="masthead_textos">
+      <header class="masthead2">
         <div class="container2">
           <h3 class="masthead-title">
             <a href="{{ site.baseurl }}/" title="Home">{{ site.title | newline_to_br }}</a>
