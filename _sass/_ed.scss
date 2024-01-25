@@ -294,6 +294,18 @@ tbody tr:nth-child(odd) th {
   text-align: center;
 }
 
+.masthead_busquedas {
+  // display: none;
+  background:fixed;
+  background-image: url("Ebstorfer-stich.jpg");
+  background-size: cover;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 1rem;
+  padding-top: 175px;
+  padding-bottom: 1rem;
+  text-align: center;
+}
+
 .masthead_vocab_ctrl {
   // display: none;
   background:fixed;

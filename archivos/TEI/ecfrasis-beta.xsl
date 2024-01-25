@@ -19,7 +19,7 @@
         
         <div>
             <ul>
-                <li><a href="textos">Volver</a></li>
+                <li><a href="edicion">Volver</a></li>
                 </ul>
             </div>
 
