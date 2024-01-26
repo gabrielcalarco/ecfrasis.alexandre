@@ -920,3 +920,29 @@ li.prose-indent {
 .theme-base-brown .related-posts li a:hover {
   color: #8f5536;
 }
+
+
+// Búsqueda alfabética
+
+#alphabet-search {
+  text-align: center;
+}
+
+.f-char{
+  border-radius: 6px;
+  position: relative;
+  float: left; // Collapse white-space
+  padding: 8px 16px;
+  line-height: 1.63;
+  text-decoration: none;
+  color: #337ab7;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  margin-left: -1px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.f-char:hover {
+  background-color: #eee;  
+}
