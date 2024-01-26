@@ -105,3 +105,17 @@ color: #B812CA;
 color: #186ec4;
 }
 
+// Listas desplegables
+
+#menu * { list-style:none;}
+#menu li{ line-height:180%;}
+#menu li a{text-decoration:none;}
+// #menu li a:before{ content:"\025b8"; margin-right:4px;}
+#menu input[name="list"] {
+	position: absolute;
+	left: -1000em;
+	}
+#menu label:before{ content:"\025b8"; margin-right:4px;}
+#menu input:checked ~ label:before{ content:"\025be";}
+#menu .interior{display: none;}
+#menu input:checked ~ ul{display:block;}

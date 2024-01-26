@@ -1,16 +1,61 @@
 ---
-layout: vocabctrllayout
+layout: vocabctrllistalayout
 title: Vocabulario Controlado
 permalink: vocab_ctrl
 ---
-## Búsqueda
+
 <div id="alphabet-search">
 </div>
 <br/>
+<br/>
+<br/>
 
-<ul class="text-list">
-<li><a>agentes</a></li>
-<li><a>ecfrasis</a></li>
-<li><a>motivos</a></li>
-</ul>
-<script src="{{site.baseurl}}/assets/js/alphabetical-search.js"/>
+
+<ul id="menu"  class="text-list">
+    <li class="termino"><input type="checkbox" name="list" id="nivel1-1"><label for="nivel1-1"><a href="vc1" target="_blank">Agentes de producción</a></label>
+    <ul class="interior">
+            <li class="termino"><input type="checkbox" name="list" id="nivel2-1"><label for="nivel2-1"><a href="vc15" target="_blank">Cualidades de los agentes</a></label>
+        
+            <li class="termino"><input type="checkbox" name="list" id="nivel2-2"><label for="nivel2-2"><a href="vc84" target="_blank">Herramienta</a></label>
+
+            <li class="termino"><input type="checkbox" name="list" id="nivel2-3"><label for="nivel2-3"><a href="vc24" target="_blank">Tareas</a></label>
+
+            <li class="termino"><input type="checkbox" name="list" id="nivel2-4"><label for="nivel2-4"><a href="vc2" target="_blank">Tareas</a></label>
+
+            <ul class="interior">
+              <li class="termino"><a href="#r">Nivel 3</a></li>
+              <li class="termino"><a href="#r">Nivel 3</a></li>
+             </ul>
+          </li>
+          <li class="termino"><input type="checkbox" name="list" id="nivel2-2"><label for="nivel2-2">Nivel 2</label>
+            <ul class="interior">
+              <li class="termino"><a href="#r">Nivel 3</a></li>
+              <li class="termino"><a href="#r">Nivel 3</a></li>
+              <li class="termino"><a href="#r">Nivel 3</a></li>
+              <li class="termino"><a href="#r">Nivel 3</a></li>
+             </ul>
+          </li>
+          <li class="termino"><a href="#r">Nivel 2</a></li>
+       </ul>
+    </li>
+    <li class="termino"><input type="checkbox" name="list" id="nivel1-2" checked=""><label for="nivel1-2">Nivel 1</label>
+       <ul class="interior">
+          <li class="termino"><a href="#r">Nivel 2</a></li>
+          <li class="termino"><input type="checkbox" name="list" id="nivel2-3"><label for="nivel2-3">Nivel 2</label>
+            <ul class="interior">
+              <li class="termino"><a href="#r">Nivel 3</a></li>
+              <li class="termino"><a href="#r">Nivel 3</a></li>
+             </ul>
+          </li>
+          <li class="termino"><input type="checkbox" name="list" id="nivel2-4"><label for="nivel2-4">Nivel 2</label>
+          <ul class="interior">
+              <li class="termino"><a href="#r">Nivel 3</a></li>
+              <li class="termino"><a href="#r">Nivel 3</a></li>
+              <li class="termino"><a href="#r">Nivel 3</a></li>
+             </ul>
+          </li>
+       </ul>
+    </li>
+    <li class="termino"><a href="#r">Nivel 1</a></li>
+ </ul>
+ 
