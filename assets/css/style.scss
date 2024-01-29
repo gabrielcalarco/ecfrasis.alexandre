@@ -119,3 +119,22 @@ color: #186ec4;
 #menu input:checked ~ label:before{ content:"\025be";}
 #menu .interior{display: none;}
 #menu input:checked ~ ul{display:block;}
+
+
+/* Layout utilities */
+
+		  
+.col-left {
+  /* padding-right:  $spacer-2; */
+  float: left;
+  width: 60%;
+  }
+  .col-right {
+  float: right;
+  width: 40%;
+  }
+  /* Clear floats after the columns */
+  .row {
+  padding-right: 0px;
+  /* max-width: 100em ; */
+  }
