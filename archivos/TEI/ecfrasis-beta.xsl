@@ -15,7 +15,7 @@
         layout: default
         title: <xsl:apply-templates select="$doc_id"/>
         permalink: <xsl:apply-templates select="$doc_id"/>
-        ---
+       ---
         
         <div>
             <ul>
