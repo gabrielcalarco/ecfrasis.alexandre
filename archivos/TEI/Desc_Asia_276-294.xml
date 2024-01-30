@@ -211,11 +211,11 @@
             
                 <lg n="287" type="terástico" met="4x14" rhyme="AAAA" ana="#mapamundi">
                     <note type="motivo" target="https://vocabularyserver.com/alexandre/index.php?tema=12" subtype="enciclopedico">Mapamundi</note>    
-                    <note type="motivo" target="https://vocabularyserver.com/alexandre/index.php?tema=157" subtype="enciclopedico">Lapidario</note>
+                    <note type="motivo" target="https://vocabularyserver.com/alexandre/index.php?tema=157" subtype="enciclopedico">Piedras preciosas</note>
                     <note type="motivo" target="https://vocabularyserver.com/alexandre/index.php?tema=278" subtype="enciclopedico">Animales</note>
                     <l xml:id="L45">Ixen del <placeName ref="https://vocabularyserver.com/alexandre/index.php?tema=577" type="religioso">Paraíso</placeName> 
                     <caesura/>las quatro <term ref="https://vocabularyserver.com/alexandre/index.php?tema=229" type="enciclopedico">aguas</term> santas;</l>
-                    <l xml:id="L46" ana="#lapidario">ý son las buenas piedras <caesura/>
+                    <l xml:id="L46" ana="#piedras_preciosas">ý son las buenas piedras <caesura/>
                     <term ref="https://vocabularyserver.com/alexandre/index.php?tema=448" type="enciclopedico">jaspes</term> e 
                     <term ref="https://vocabularyserver.com/alexandre/index.php?tema=451" type="enciclopedico">dïamantas</term>;</l>	
                     <l xml:id="L47" ana="#animales">en 
