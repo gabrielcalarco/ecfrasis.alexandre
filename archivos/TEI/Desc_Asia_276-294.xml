@@ -211,7 +211,7 @@
             
                 <lg n="287" type="terástico" met="4x14" rhyme="AAAA" ana="#mapamundi">
                     <note type="motivo" target="https://vocabularyserver.com/alexandre/index.php?tema=12" subtype="enciclopedico">Mapamundi</note>    
-                    <note type="motivo" target="https://vocabularyserver.com/alexandre/index.php?tema=431" subtype="enciclopedico">Lapidario</note>
+                    <note type="motivo" target="https://vocabularyserver.com/alexandre/index.php?tema=157" subtype="enciclopedico">Lapidario</note>
                     <note type="motivo" target="https://vocabularyserver.com/alexandre/index.php?tema=278" subtype="enciclopedico">Animales</note>
                     <l xml:id="L45">Ixen del <placeName ref="https://vocabularyserver.com/alexandre/index.php?tema=577" type="religioso">Paraíso</placeName> 
                     <caesura/>las quatro <term ref="https://vocabularyserver.com/alexandre/index.php?tema=229" type="enciclopedico">aguas</term> santas;</l>
