@@ -7,7 +7,7 @@
             
             <titleStmt>
                 <title type="main">Libro de Alexandre</title>
-                <title type="sub" xml:id="sepul_aquiles" ref="https://vocabularyserver.com/alexandre/index.php?tema=701">Sepulcro de Aquiles</title>
+                <title type="sub" xml:id="sepul_aquiles" ref="/ecfrasis.alexandre/vc701">Sepulcro de Aquiles</title>
                 <author ref="#ANM">Anónimo</author>
                 <editor xml:id="GAC">Gabriel A. Calarco</editor>
             </titleStmt>
@@ -85,52 +85,52 @@
                 
                 <lg n="329" type="terástico" met="4x14" rhyme="AAAA">
                     <l xml:id="L1">Falló en un bel campo <caesura/>una grant 
-                    <term ref="https://vocabularyserver.com/alexandre/index.php?tema=64" type="artistico">sepultura</term>,</l>
+                    <term ref="/ecfrasis.alexandre/vc64" type="artistico">sepultura</term>,</l>
                     <l xml:id="L2">do yazié soterrada <caesura/>la gente de su natura,</l>		
                     <l xml:id="L3">que tenié cadaúno <caesura/>de suso su 
-                    <term ref="https://vocabularyserver.com/alexandre/index.php?tema=147" type="artistico">escriptur</term>a,</l>		
-                    <l xml:id="L4">que <term ref="https://vocabularyserver.com/alexandre/index.php?tema=384" type="artistico">dizié</term> 
+                    <term ref="/ecfrasis.alexandre/vc147" type="artistico">escriptur</term>a,</l>		
+                    <l xml:id="L4">que <term ref="/ecfrasis.alexandre/vc384" type="artistico">dizié</term> 
                     cadaúno <caesura/>quí fuera su mestura.</l>
             </lg> 
             
                 <lg n="330" type="terástico" met="4x14" rhyme="AAAA">
                     <l xml:id="L5">Falló entre los otros <caesura/>un 
-                    <term ref="https://vocabularyserver.com/alexandre/index.php?tema=64" type="artistico">sepulcro honrado</term>,</l>
-                    <l xml:id="L6">todo de buenos <term ref="https://vocabularyserver.com/alexandre/index.php?tema=691" type="artistico">viessos</term> 
-                    <caesura/>en derredor <term ref="https://vocabularyserver.com/alexandre/index.php?tema=692" type="artistico">orlado</term>;</l>	
-                    <l xml:id="L7">qui lo <term ref="https://vocabularyserver.com/alexandre/index.php?tema=693" type="artistico">versificó</term> 
-                    <caesura/>fue omne bien <term ref="https://vocabularyserver.com/alexandre/index.php?tema=21" type="artistico">letrado</term>,</l>	
-                    <l xml:id="L8">ca puso grant <term ref="https://vocabularyserver.com/alexandre/index.php?tema=389" type="artistico">razón</term> 
-                    <caesura/>en poco de <term ref="https://vocabularyserver.com/alexandre/index.php?tema=694" type="artistico">dictado</term>:</l>
+                    <term ref="/ecfrasis.alexandre/vc64" type="artistico">sepulcro honrado</term>,</l>
+                    <l xml:id="L6">todo de buenos <term ref="/ecfrasis.alexandre/vc691" type="artistico">viessos</term> 
+                    <caesura/>en derredor <term ref="/ecfrasis.alexandre/vc692" type="artistico">orlado</term>;</l>	
+                    <l xml:id="L7">qui lo <term ref="/ecfrasis.alexandre/vc693" type="artistico">versificó</term> 
+                    <caesura/>fue omne bien <term ref="/ecfrasis.alexandre/vc21" type="artistico">letrado</term>,</l>	
+                    <l xml:id="L8">ca puso grant <term ref="/ecfrasis.alexandre/vc389" type="artistico">razón</term> 
+                    <caesura/>en poco de <term ref="/ecfrasis.alexandre/vc694" type="artistico">dictado</term>:</l>
                 </lg> 
             
                 <lg n="331" type="terástico" met="4x14" rhyme="AAAA" ana="#troya">
-                    <note type="motivo" target="https://vocabularyserver.com/alexandre/index.php?tema=205" subtype="clasico">Guerra de Troya</note>
-                    <l xml:id="L9">«<persName ref="https://vocabularyserver.com/alexandre/index.php?tema=210" type="clasico">Aquiles</persName> 
+                    <note type="motivo" target="/ecfrasis.alexandre/vc205" subtype="clasico">Guerra de Troya</note>
+                    <l xml:id="L9">«<persName ref="/ecfrasis.alexandre/vc210" type="clasico">Aquiles</persName> 
                     só, que yago <caesura/>so este 
-                    <term ref="https://vocabularyserver.com/alexandre/index.php?tema=152" type="artistico">mármol</term> çerrado,</l>
+                    <term ref="/ecfrasis.alexandre/vc152" type="artistico">mármol</term> çerrado,</l>
                     <l xml:id="L10">el que ovo a 
-                    <persName ref="https://vocabularyserver.com/alexandre/index.php?tema=211" type="clasico">Éctor</persName> 
+                    <persName ref="/ecfrasis.alexandre/vc211" type="clasico">Éctor</persName> 
                     <caesura/>el troyano rancado;</l>		
                     <l xml:id="L11">matome por la planta <caesura/>
-                    <persName ref="https://vocabularyserver.com/alexandre/index.php?tema=209" type="clasico">Paris</persName> el perjurado,</l>		
+                    <persName ref="/ecfrasis.alexandre/vc209" type="clasico">Paris</persName> el perjurado,</l>		
                     <l xml:id="L12">a furto, sin sospecha, <caesura/>yaziendo desarmado».</l>
                 </lg> 
             
                 <lg n="332" type="terástico" met="4x14" rhyme="AAAA">
                     <l xml:id="L13">Quando ovo 
-                    <persName ref="https://vocabularyserver.com/alexandre/index.php?tema=618" type="alexandre">el rëy</persName> 
-                    <caesura/>el <term ref="https://vocabularyserver.com/alexandre/index.php?tema=114" type="artistico">pitafio</term> 
-                    <term ref="https://vocabularyserver.com/alexandre/index.php?tema=201" type="artistico">catado</term>,</l>
+                    <persName ref="/ecfrasis.alexandre/vc618" type="alexandre">el rëy</persName> 
+                    <caesura/>el <term ref="/ecfrasis.alexandre/vc114" type="artistico">pitafio</term> 
+                    <term ref="/ecfrasis.alexandre/vc201" type="artistico">catado</term>,</l>
                     <l xml:id="L14">dizié que de dos 
-                    <term ref="https://vocabularyserver.com/alexandre/index.php?tema=691" type="artistico">viessos</term> 
+                    <term ref="/ecfrasis.alexandre/vc691" type="artistico">viessos</term> 
                     <caesura/>nunca fue tan pagado;</l>	
                     <l xml:id="L15">tovo que fue 
-                    <persName ref="https://vocabularyserver.com/alexandre/index.php?tema=210" type="clasico">Aquiles</persName> 
+                    <persName ref="/ecfrasis.alexandre/vc210" type="clasico">Aquiles</persName> 
                     <caesura/>omne aventurado,</l>		
-                    <l xml:id="L16">que ovo de su <term ref="https://vocabularyserver.com/alexandre/index.php?tema=148" type="artistico">gesta</term> 
-                    <caesura/><term ref="https://vocabularyserver.com/alexandre/index.php?tema=695" type="artistico">dictador</term> 
-                    tan <term ref="https://vocabularyserver.com/alexandre/index.php?tema=392" type="artistico">honrado</term>.</l>
+                    <l xml:id="L16">que ovo de su <term ref="/ecfrasis.alexandre/vc148" type="artistico">gesta</term> 
+                    <caesura/><term ref="/ecfrasis.alexandre/vc695" type="artistico">dictador</term> 
+                    tan <term ref="/ecfrasis.alexandre/vc392" type="artistico">honrado</term>.</l>
                 </lg>                
            </lg>
         </body>
