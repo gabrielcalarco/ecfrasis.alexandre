@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schemas/myTEI-taxonomy-.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Taxonomías</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Gabriel Calarco</authority>
+                <availability>
+                    <licence>
+                        <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                            Attribution-NonCommercial-ShareAlike 4.0 International</ref>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital</p>
+            </sourceDesc>
+        </fileDesc>
+
+        <encodingDesc>
+            <classDecl>
+                
+                
+                
+        <taxonomy n="écfrasis">
+        
+            <category n="vc1" ana="Agentes_de_producción" >
+                        <category n="vc15" ana="Cualidades_de_los_agentes">
+                            <category n="vc23" ana="Acordado"/>
+                            <category n="vc20" ana="Contado"/>
+                            <category n="vc22" ana="Decorado"/>
+                            <category n="vc16" ana="Entendido"/>
+                            <category n="vc21" ana="Letrado"/>
+                            <category n="vc17" ana="Ortado"/>
+                            <category n="vc383" ana="Sabidor"/>
+                            <category n="vc373" ana="Sapiencia"/>
+                            <category n="vc19" ana="Seso"/>
+                            <category n="vc18" ana="Sutil"/>
+                            <category n="vc392" ana="Honrado"/>
+                        </category>
+                        
+                        <category n="vc84" ana="Herramientas">
+                            <category n="vc85" ana="Buril"/>
+                            <category n="vc86" ana="Cuadra"/>
+                            <category n="vc87" ana="Instrumentos_musicales">
+                                    <category n="vc540" ana="Albogues"/>
+                                    <category n="vc537" ana="Arpa"/>
+                                    <category n="vc543" ana="Cítara"/>
+                                    <category n="vc542" ana="Cítola"/>
+                                    <category n="vc89" ana="Claves"/>
+                                    <category n="vc88" ana="Cuerdas_musical"/>
+                                    <category n="vc538" ana="Giga"/>
+                                    <category n="vc539" ana="Rota"/>
+                                    <category n="vc541" ana="Salterio"/>
+                                    <category n="vc544" ana="Viola"/>
+                                    <category n="vc536" ana="Zanfonia"/>
+                            </category>
+                        </category>
+
+                        <category n="vc24" ana="Tareas">
+                            <category n="vc25" ana="Manuales">
+                                    <category n="vc46" ana="Acabar"/>
+                                    <category n="vc32" ana="Alzar"/>
+                                    <category n="vc354" ana="Asentar"/>
+                                    <category n="vc42" ana="Bruñir"/>
+                                    <category n="vc40" ana="Compasar"/>
+                                    <category n="vc597" ana="Coser"/>
+                                    <category n="vc28" ana="Dibujar"/>
+                                    <category n="vc45" ana="Encerrar"/>
+                                    <category n="vc49" ana="Enderezar"/>
+                                    <category n="vc35" ana="Engastar"/>
+                                    <category n="vc34" ana="Enlazar"/>
+                                    <category n="vc41" ana="Enlucir"/>
+                                    <category n="vc39" ana="Formar"/>
+                                    <category n="vc388" ana="Guarnir"/>
+                                    <category n="vc33" ana="Juntar"/>
+                                    <category n="vc320" ana="Labor"/>
+                                    <category n="vc30" ana="Labrar"/>
+                                    <category n="vc382" ana="Levantar"/>
+                                    <category n="vc47" ana="Mesurar"/>
+                                    <category n="vc37" ana="Meter"/>
+                                    <category n="vc26" ana="Obrar"/>
+                                    <category n="vc31" ana="Ondar"/>
+                                    <category n="vc27" ana="Pintar"/>
+                                    <category n="vc38" ana="Poner"/>
+                                    <category n="vc50" ana="Prender_tela"/>
+                                    <category n="vc36" ana="Soldar"/>
+                                    <category n="vc48" ana="Tajar"/>
+                                    <category n="vc29" ana="Tallar"/>
+                                    <category n="vc43" ana="Tejer"/>
+                                    <category n="vc44" ana="Templar"/>
+                            </category>
+                            
+                            <category n="vc52" ana="Musicales">
+                                    <category n="vc53" ana="Acordar"/>
+                                    <category n="vc60" ana="Alzar_musical"/>
+                                    <category n="vc54" ana="Atemprar"/>
+                                    <category n="vc55" ana="Cantar"/>
+                                    <category n="vc39" ana="Formar"/>
+                                    <category n="vc57" ana="Modular"/>
+                                    <category n="vc58" ana="Premir"/>
+                                    <category n="vc56" ana="Volver"/>
+                            </category>
+
+                            <category n="vc51" ana="Verbales">
+                                    <category n="vc82" ana="Alabar"/>
+                                    <category n="vc81" ana="Contar"/>
+                                    <category n="vc384" ana="Decir"/>
+                                    <category n="vc83" ana="Departir"/>
+                                    <category n="vc79" ana="Destajar"/>
+                                    <category n="vc75" ana="Dictar"/>
+                                    <category n="vc76" ana="Escribir"/>
+                                    <category n="vc80" ana="Exponer"/>
+                                    <category n="vc312" ana="Hablar"/>
+                                    <category n="vc77" ana="Notar"/>
+                                    <category n="vc589" ana="Retraer"/>
+                                    <category n="vc78" ana="Tomar-prender"/>
+                                    <category n="vc693" ana="Versificar"/>
+                            </category>
+                        </category>
+                        
+                        <category n="vc2" ana="Tipos_de_agentes">
+                        <category n="vc579" ana="Autor"/>
+                        <category n="vc8" ana="Clérigo"/>
+                        <category n="vc695" ana="Dictador"/>
+                        <category n="vc10" ana="Escolar"/>
+                        <category n="vc301" ana="Hadas"/>
+                        <category n="vc9" ana="Juglar"/>
+                        <category n="vc3" ana="Maestro"/>
+                        <category n="vc297" ana="Nombres_propios">
+                                    <category n="vc300" ana="Apeles"/>
+                                    <category n="vc652" ana="Catón"/>
+                                    <category n="vc298" ana="Filosofía"/>
+                                    <category n="vc634" ana="Gautier_de_Chatillion"/>
+                                    <category n="vc636" ana="Homero"/>
+                                    <category n="vc664" ana="Orfeo"/>
+                                    <category n="vc633" ana="San_Isidoro_de_Sevilla"/>
+                                    <category n="vc299" ana="Vulcán"/>
+                                    <category n="vc223" ana="Daniel"/>
+                                    <category n="vc651" ana="San_Pablo"/>
+                        </category>
+                        </category>
+            </category>
+
+            <category n="vc4" ana="Écfrasis">
+                    <category n="vc163" ana="Cualidades_de_la_obra">
+                        <category n="vc165" ana="Acabado"/>
+                        <category n="vc330" ana="Adïanas"/>
+                        <category n="vc171" ana="Auténtico"/>
+                        <category n="vc177" ana="Bello"/>
+                        <category n="vc189" ana="Bondad"/>
+                        <category n="vc196" ana="Cabdales"/>
+                        <category n="vc323" ana="Cabeada"/>
+                        <category n="vc169" ana="Cierto"/>
+                        <category n="vc328" ana="Claro"/>
+                        <category n="vc423" ana="Cumplido"/>
+                        <category n="vc329" ana="Delgado"/>
+                        <category n="vc180" ana="Derecho"/>
+                        <category n="vc356" ana="Desatado"/>
+                        <category n="vc182" ana="Desfeado"/>
+                        <category n="vc190" ana="Dulce"/>
+                        <category n="vc188" ana="Encantado"/>
+                        <category n="vc318" ana="Entecado"/>
+                        <category n="vc176" ana="Esmerado"/>
+                        <category n="vc195" ana="Extraño"/>
+                        <category n="vc372" ana="Femencia"/>
+                        <category n="vc178" ana="Firme"/>
+                        <category n="vc167" ana="Granado"/>
+                        <category n="vc164" ana="Hermoso"/>
+                        <category n="vc392" ana="Honrado"/>
+                        <category n="vc355" ana="Igual"/>
+                        <category n="vc368" ana="Inconsútil"/>
+                        <category n="vc322" ana="Listado"/>
+                        <category n="vc313" ana="Liviano"/>
+                        <category n="vc187" ana="Lozano"/>
+                        <category n="vc175" ana="Maestría"/>
+                        <category n="vc179" ana="Mancillado"/>
+                        <category n="vc166" ana="Menudo"/>
+                        <category n="vc194" ana="Noble"/>
+                        <category n="vc170" ana="Orellano"/>
+                        <category n="vc692" ana="Orlado"/>
+                        <category n="vc168" ana="Oscuro"/>
+                        <category n="vc185" ana="Parejo"/>
+                        <category n="vc359" ana="Pintado"/>
+                        <category n="vc363" ana="Plano"/>
+                        <category n="vc193" ana="Plorant"/>
+                        <category n="vc192" ana="Por_razón"/>
+                        <category n="vc172" ana="Precioso"/>
+                        <category n="vc186" ana="Raso"/>
+                        <category n="vc389" ana="Razón"/>
+                        <category n="vc184" ana="Reluciente"/>
+                        <category n="vc183" ana="Rico"/>
+                        <category n="vc146" ana="Señal"/>
+                        <category n="vc191" ana="Suave"/>
+                        <category n="vc174" ana="Terliz"/>
+                        <category n="vc173" ana="Valor"/>
+                        <category n="vc314" ana="Venturoso"/>
+                        <category n="vc321" ana="Vil"/>
+                        <category n="vc293" ana="Virtud"/>
+                        <category n="vc181" ana="Vuelto"/>
+                    </category>
+                    
+                    <category n="vc132" ana="Elementos_del_arte">
+                        <category n="vc309" ana="Arte_verbal">
+                                <category n="vc424" ana="Alegoría"/>
+                                <category n="vc311" ana="Brevario"/>
+                                <category n="vc546" ana="Disputación"/>
+                                <category n="vc694" ana="Dictado"/>
+                                <category n="vc568" ana="Ejemplo"/>
+                                <category n="vc147" ana="Escrito"/>
+                                <category n="vc580" ana="Estribot"/>
+                                <category n="vc588" ana="Fazaña"/>
+                                <category n="vc148" ana="Gesta"/>
+                                <category n="vc555" ana="Letanía"/>
+                                <category n="vc534" ana="Loquelle"/>
+                                <category n="vc545" ana="Materia"/>
+                                <category n="vc310" ana="Palabra"/>
+                                <category n="vc533" ana="Sermón"/>
+                                <category n="vc691" ana="Verso"/>
+                        </category>
+
+                        <category n="vc134" ana="Música">
+                                <category n="vc136" ana="Cantares"/>
+                                <category n="vc138" ana="Debailadas"/>
+                                <category n="vc140" ana="Dobla"/>
+                                <category n="vc141" ana="Media_música"/>
+                                <category n="vc143" ana="Par"/>
+                                <category n="vc139" ana="Semitono"/>
+                                <category n="vc137" ana="Sones"/>
+                                <category n="vc142" ana="Tercia"/>
+                                <category n="vc135" ana="Voces_acordadas"/>
+                        </category>
+
+                        <category n="vc133" ana="Pintura">
+                                <category n="vc326" ana="Blanqueado"/>
+                                <category n="vc327" ana="Color"/>
+                                <category n="vc148" ana="Gesta"/>
+                                <category n="vc144" ana="Historia"/>
+                                <category n="vc360" ana="Lazos"/>
+                                <category n="vc361" ana="Redes"/>
+                                <category n="vc146" ana="Señal"/>
+                                <category n="vc145" ana="Título"/>
+                        </category>
+                    </category>
+
+                    <category n="vc357" ana="Fragmentos_ecfrásticos">
+                        <category n="vc705" ana="Lugares">
+                                <category n="vc426" ana="Asia">
+                                    <category n="vc577" ana="Paraíso"/>
+                                </category>
+
+                                <category n="vc402" ana="Babilonia">
+                                    <category n="vc402" ana="Alrededores">
+                                            <category n="vc585" ana="Florestas"/>
+                                            <category n="vc583" ana="Molinos"/>
+                                            <category n="vc371" ana="Árboles"/>
+                                            <category n="vc432" ana="Especias">
+                                                <category n="vc441" ana="Bálsamo"/>
+                                                <category n="vc435" ana="Canela"/>
+                                                <category n="vc438" ana="Çetüal"/>
+                                                <category n="vc440" ana="Cinamomo"/>
+                                                <category n="vc437" ana="Clavo"/>
+                                                <category n="vc446" ana="Comino"/>
+                                                <category n="vc434" ana="Garengal"/>
+                                                <category n="vc436" ana="Gengibre"/>
+                                                <category n="vc442" ana="Girofe"/>
+                                                <category n="vc439" ana="Incienso"/>
+                                                <category n="vc444" ana="Nardo"/>
+                                                <category n="vc443" ana="Nuez moscada"/>
+                                                <category n="vc445" ana="Pebre"/>
+                                                <category n="vc433" ana="Pimienta"/>
+                                            </category>
+
+                                            <category n="vc157" ana="Piedras_preciosas">
+                                                <category n="vc469" ana="Absicto"/>
+                                                <category n="vc468" ana="Acates"/>
+                                                <category n="vc473" ana="Astrïón"/>
+                                                <category n="vc462" ana="Astrites"/>
+                                                <category n="vc467" ana="Çinedia"/>
+                                                <category n="vc457" ana="Coral"/>
+                                                <category n="vc158" ana="Cristal"/>
+                                                <category n="vc451" ana="Diamante"/>
+                                                <category n="vc470" ana="Dïonisia"/>
+                                                <category n="vc474" ana="Electria"/>
+                                                <category n="vc455" ana="Elitropia"/>
+                                                <category n="vc475" ana="Endros"/>
+                                                <category n="vc447" ana="Esmaragdo_verde"/>
+                                                <category n="vc452" ana="Estopaçion"/>
+                                                <category n="vc471" ana="Exocontálitos"/>
+                                                <category n="vc449" ana="Gagantes"/>
+                                                <category n="vc453" ana="Galacia"/>
+                                                <category n="vc464" ana="Galaçio"/>
+                                                <category n="vc463" ana="Galatites"/>
+                                                <category n="vc477" ana="Girgonças"/>
+                                                <category n="vc458" ana="Hematites"/>
+                                                <category n="vc472" ana="Iris"/>
+                                                <category n="vc459" ana="Jaçinto"/>
+                                                <category n="vc448" ana="Jaspis"/>
+                                                <category n="vc450" ana="Magnetes"/>
+                                                <category n="vc460" ana="Margarita"/>
+                                                <category n="vc454" ana="Melozio"/>
+                                                <category n="vc461" ana="Pedorus"/>
+                                                <category n="vc476" ana="Safires"/>
+                                                <category n="vc456" ana="Sagda"/>
+                                                <category n="vc466" ana="Selenites"/>
+                                                <category n="vc465" ana="Solgema"/>
+                                            </category>
+
+                                            <category n="vc321" ana="Ríos"/>
+                                    </category>
+
+                                    <category n="vc430" ana="Entrada_de_Alejandro">
+                                            <category n="vc535" ana="Procesiones"/>
+                                    </category>
+
+                                    <category n="vc429" ana="Interior_de_la_ciudad">
+                                            <category n="vc531" ana="Baños"/>
+                                            <category n="vc522" ana="Calles"/>
+                                            <category n="vc523" ana="Foso"/>
+                                            <category n="vc497" ana="Muro"/>
+                                            <category n="vc119" ana="Puertas">
+                                                <category n="vc528" ana="Postigos"/>
+                                            </category>
+                                            <category n="vc529" ana="Real_de_Babilonia">
+                                                <category n="vc530" ana="Espejos"/>
+                                                <category n="vc118" ana="Columnas">
+                                                        <category n="vc115" ana="Basas"/>
+                                                        <category n="vc123" ana="Capiteles"/>
+                                                </category>
+                                            
+                                            </category>
+                                            <category n="vc524" ana="Torres"/>
+                                            <category n="vc316" ana="Torre_de_Babel">
+                                                <category n="vc317" ana="Confusión_de_las_lenguas"/>
+                                                <category n="vc315" ana="Gigantes"/>
+                                            </category>
+                                    </category>
+                                </category>
+
+                                <category n="vc427" ana="Infierno">
+                                    <category n="vc561" ana="Islas"/>
+                                    <category n="vc562" ana="Raval">
+                                            <category n="vc563" ana="Pecados_capitales">
+                                                <category n="vc578" ana="Acedia"/>
+                                                <category n="vc565" ana="Codicia">
+                                                        <category n="vc566" ana="Ambición"/>
+                                                        <category n="vc564" ana="Avaricia"/>
+                                                </category>
+                                                <category n="vc567" ana="Envidia">
+                                                        <category n="vc569" ana="Ejemplo_del_envidioso"/>
+                                                </category>
+                                                <category n="vc574" ana="Gula">
+                                                        <category n="vc576" ana="Beodez"/>
+                                                        <category n="vc575" ana="Glotonería"/>
+                                                </category>
+                                                <category n="vc570" ana="Ira">
+                                                        <category n="vc571" ana="Odio"/>
+                                                </category>
+                                                <category n="vc572" ana="Lujuria">
+                                                        <category n="vc573" ana="Inmundicia"/>
+                                                </category>
+                                                <category n="vc581" ana="Vanagloria">
+                                                        <category n="vc659" ana="Zósimo"/>
+                                                </category>
+                                            </category>
+                                            <category n="vc582" ana="Soberbia"/>
+                                    </category>
+                                    <category n="vc647" ana="Real_del_Infierno"/>
+                                </category>
+                        </category>
+
+                        <category n="vc706" ana="Obras">
+                                
+                            <category n="vc62" ana="Armas">
+                                    <category n="vc696" ana="Armas_de_Alexandre">
+                                            <category n="vc61" ana="Adobos_Vestimenta)">
+                                                <category n="vc68" ana="Brial"/>
+                                                <category n="vc72" ana="Calzas"/>
+                                                <category n="vc67" ana="Camisa"/>
+                                                <category n="vc71" ana="Cinta"/>
+                                                <category n="vc496" ana="Cisclaton"/>
+                                                <category n="vc70" ana="Hebilla"/>
+                                                <category n="vc73" ana="Guantes"/>
+                                                <category n="vc69" ana="Manto"/>
+                                                <category n="vc74" ana="Zapatos"/>
+                                            </category>
+                                            <category n="vc98" ana="Escudo">
+                                                <category n="vc304" ana="Tabla"/>
+                                            </category>
+                                            <category n="vc97" ana="Espada"/>
+                                            <category n="vc92" ana="Espuelas"/>
+                                    </category>
+                                    <category n="vc697" ana="Armas_de_Aquiles">
+                                            <category n="vc93" ana="Almofre"/>
+                                            <category n="vc95" ana="Brafoneras"/>
+                                            <category n="vc98" ana="Escudo">
+                                                <category n="vc304" ana="Tabla"/>
+                                            </category>
+                                            <category n="vc97" ana="Espada"/>
+                                            <category n="vc92" ana="Espuelas"/>
+                                            <category n="vc91" ana="Loriga"/>
+                                            <category n="vc96" ana="Trabugueras"/>
+                                            <category n="vc94" ana="Yelmo"/>
+                                    </category>
+                                    <category n="vc698" ana="Armas_de_Darío">
+                                            <category n="vc98" ana="Escudo">
+                                                <category n="vc304" ana="Tabla"/>
+                                            </category>
+                                    </category>
+                            </category>
+                                
+                                <category n="vc699" ana="Carro_de_Darío">
+                                    <category n="vc104" ana="Cabeçón"/>
+                                    <category n="vc99" ana="Eje"/>
+                                    <category n="vc107" ana="Escaño">
+                                            <category n="vc110" ana="Anillos"/>
+                                            <category n="vc109" ana="Brazos"/>
+                                            <category n="vc108" ana="Pies"/>
+                                    </category>
+                                    <category n="vc106" ana="Laçada"/>
+                                    <category n="vc101" ana="Rayos">
+                                            <category n="vc102" ana="Bastones"/>
+                                    </category>
+                                    <category n="vc100" ana="Ruedas"/>
+                                    <category n="vc103" ana="Ventril"/>
+                                    <category n="vc105" ana="Yugo"/>
+                                
+                                </category>
+                                
+                                <category n="vc700" ana="Palacio_de_Poro">
+                                    <category n="vc120" ana="Cámaras">
+                                            <category n="vc366" ana="Maderos"/>
+                                            <category n="vc365" ana="Sobrados"/>
+                                    </category>
+                                    <category n="vc116" ana="Cimientos"/>
+                                    <category n="vc122" ana="Claustro">
+                                            <category n="vc294" ana="Árbol_autómata"/>
+                                    </category>
+                                    <category n="vc118" ana="Columnas">
+                                            <category n="vc115" ana="Basas"/>
+                                            <category n="vc123" ana="Capiteles"/>
+                                    </category>
+                                    <category n="vc362" ana="Entalles"/>
+                                    <category n="vc117" ana="Paredes">
+                                            <category n="vc386" ana="Sábanas"/>
+                                            <category n="vc387" ana="Tapices"/>
+                                    </category>
+                                    <category n="vc381" ana="Plaza"/>
+                                    <category n="vc119" ana="Puertas">
+                                            <category n="vc528" ana="Postigos"/>
+                                    </category>
+                                    <category n="vc369" ana="Sala"/>
+                                    <category n="vc358" ana="Techo"/>
+                                </category>
+                                
+                                <category n="vc64" ana="Sepulcros">
+                                    <category n="vc701" ana="Sepulcro_de_Aquiles">
+                                            <category n="vc114" ana="Epitafio"/>
+                                    </category>
+                                    <category n="vc703" ana="Sepulcro_de_Darío">
+                                            <category n="vc113" ana="Cobertura"/>
+                                            <category n="vc114" ana="Epitafio"/>
+                                            <category n="vc112" ana="Tumba"/>
+                                    </category>
+                                    <category n="vc702" ana="Sepulcro_de_Endrona"/>
+                                </category>
+                                
+                                <category n="vc704" ana="Tienda_de_Alexandre">
+                                    <category n="vc130" ana="Cátedra"/>
+                                    <category n="vc129" ana="Corona"/>
+                                    <category n="vc131" ana="Cuerdas"/>
+                                    <category n="vc128" ana="Estacas"/>
+                                    <category n="vc390" ana="Fastiales"/>
+                                    <category n="vc127" ana="Lazadas"/>
+                                    <category n="vc124" ana="Paño"/>
+                                    <category n="vc126" ana="Poma"/>
+                                    <category n="vc125" ana="Tendal"/>
+                                </category>
+                        </category>
+
+                        <category n="vc425" ana="Viajes">
+                                <category n="vc590" ana="Viaje_aéreo">
+                                    <category n="vc593" ana="Dispositivo_volador">
+                                            <category n="vc594" ana="Cuero"/>
+                                            <category n="vc596" ana="Filado"/>
+                                            <category n="vc595" ana="Pértiga"/>
+                                    </category>
+                                </category>
+                                <category n="vc591" ana="Viaje_submarino">
+                                    <category n="vc592" ana="Cuba_de_vidrio"/>
+                                </category>
+                        </category>
+                    </category>
+
+                    <category n="vc149" ana="Materiales">
+                        <category n="vc159" ana="Acero_colado"/>
+                        <category n="vc525" ana="Argamasa"/>
+                        <category n="vc556" ana="Azufre"/>
+                        <category n="vc557" ana="Bitumen"/>
+                        <category n="vc156" ana="Boiri"/>
+                        <category n="vc710" ana="Cal"/>
+                        <category n="vc527" ana="Canto"/>
+                        <category n="vc153" ana="Ciprés"/>
+                        <category n="vc162" ana="Cobre"/>
+                        <category n="vc709" ana="Cordal"/>
+                        <category n="vc160" ana="Costilla_de_ballena"/>
+                        <category n="vc594" ana="Cuero"/>
+                        <category n="vc161" ana="Marfil"/>
+                        <category n="vc152" ana="Mármol"/>
+                        <category n="vc708" ana="Mortero"/>
+                        <category n="vc150" ana="Oro"/>
+                        <category n="vc526" ana="Pedreña"/>
+                        <category n="vc157" ana="Piedras_preciosas">
+                                <category n="vc469" ana="Absicto"/>
+                                <category n="vc468" ana="Acates"/>
+                                <category n="vc473" ana="Astrïón"/>
+                                <category n="vc462" ana="Astrites"/>
+                                <category n="vc467" ana="Çinedia"/>
+                                <category n="vc457" ana="Coral"/>
+                                <category n="vc158" ana="Cristal"/>
+                                <category n="vc451" ana="Diamante"/>
+                                <category n="vc470" ana="Dïonisia"/>
+                                <category n="vc474" ana="Electria"/>
+                                <category n="vc455" ana="Elitropia"/>
+                                <category n="vc475" ana="Endros"/>
+                                <category n="vc447" ana="Esmaragdo_verde"/>
+                                <category n="vc452" ana="Estopaçion"/>
+                                <category n="vc471" ana="Exocontálitos"/>
+                                <category n="vc449" ana="Gagantes"/>
+                                <category n="vc453" ana="Galacia"/>
+                                <category n="vc464" ana="Galaçio"/>
+                                <category n="vc463" ana="Galatites"/>
+                                <category n="vc477" ana="Girgonças"/>
+                                <category n="vc458" ana="Hematites"/>
+                                <category n="vc472" ana="Iris"/>
+                                <category n="vc459" ana="Jaçinto"/>
+                                <category n="vc448" ana="Jaspis"/>
+                                <category n="vc450" ana="Magnetes"/>
+                                <category n="vc460" ana="Margarita"/>
+                                <category n="vc454" ana="Melozio"/>
+                                <category n="vc461" ana="Pedorus"/>
+                                <category n="vc476" ana="Safires"/>
+                                <category n="vc456" ana="Sagda"/>
+                                <category n="vc466" ana="Selenites"/>
+                                <category n="vc465" ana="Solgema"/>
+                        </category>
+                        <category n="vc151" ana="Plata"/>
+                        <category n="vc154" ana="Seda"/>
+                        <category n="vc532" ana="Vidrio"/>
+                        <category n="vc155" ana="Xamit"/>
+                    </category>
+
+                    <category n="vc197" ana="Recepción">
+                        <category n="vc200" ana="Asmar"/>
+                        <category n="vc201" ana="Catar"/>
+                        <category n="vc303" ana="Divisar"/>
+                        <category n="vc367" ana="Entender"/>
+                        <category n="vc547" ana="Leer"/>
+                        <category n="vc199" ana="Maravillar"/>
+                        <category n="vc204" ana="Oir"/>
+                        <category n="vc202" ana="Parecer"/>
+                        <category n="vc331" ana="Pausana"/>
+                        <category n="vc422" ana="Percibir"/>
+                        <category n="vc203" ana="Semejar"/>
+                        <category n="vc198" ana="Ver"/>
+                    </category>
+            </category>
+
+            <category n="vc5" ana="Temas_representados">
+                    <category n="vc7" ana="Clásicos">
+                        <category n="vc207" ana="Dioses_paganos">
+                                <category n="vc665" ana="Amón"/>
+                                <category n="vc298" ana="Filosofía"/>
+                                <category n="vc650" ana="Plutón"/>
+                                <category n="vc299" ana="Vulcán"/>
+                        </category>
+
+                        <category n="vc205" ana="Guerra_de_Troya">
+                                <category n="vc210" ana="Aquiles"/>
+                                <category n="vc211" ana="Héctor"/>
+                                <category n="vc680" ana="Helena"/>
+                                <category n="vc209" ana="Paris"/>
+                                <category n="vc679" ana="Troya"/>
+                        </category>
+                
+                        <category n="vc656" ana="Personajes_mitológicos">
+                                <category n="vc678" ana="Anteón"/>
+                                <category n="vc658" ana="Filis"/>
+                                <category n="vc206" ana="Hércules"/>
+                                <category n="vc657" ana="Níobe"/>
+                                <category n="vc664" ana="Orfeo"/>
+                                <category n="vc662" ana="Ticio"/>
+                        </category>
+                    </category>
+
+                    <category n="vc11" ana="Enciclopédicos">
+                        <category n="vc353" ana="Cuenta_del_tiempo">
+                                <category n="vc248" ana="Astronomía">
+                                    <category n="vc252" ana="Cuerpos_celestes">
+                                            <category n="vc257" ana="Estrellas"/>
+                                            <category n="vc255" ana="Luna"/>
+                                            <category n="vc256" ana="Planetas"/>
+                                            <category n="vc254" ana="Sol"/>
+                                    </category>
+                                    <category n="vc253" ana="Grados"/>
+                                    <category n="vc251" ana="Signos_zodiacales"/>
+                                </category>
+
+                                <category n="vc249" ana="Calendario">
+                                    <category n="vc391" ana="Días"/>
+                                    <category n="vc260" ana="Estaciones">
+                                            <category n="vc262" ana="Invierno"/>
+                                            <category n="vc265" ana="Otoño"/>
+                                            <category n="vc263" ana="Primavera"/>
+                                            <category n="vc264" ana="Verano"/>
+                                    </category>
+
+                                    <category n="vc261" ana="Meses">
+                                            <category n="vc269" ana="Abril"/>
+                                            <category n="vc273" ana="Agosto"/>
+                                            <category n="vc277" ana="Diciembre"/>
+                                            <category n="vc266" ana="Enero"/>
+                                            <category n="vc267" ana="Febrero"/>
+                                            <category n="vc272" ana="Julio"/>
+                                            <category n="vc271" ana="Junio"/>
+                                            <category n="vc268" ana="Marzo"/>
+                                            <category n="vc270" ana="Mayo"/>
+                                            <category n="vc276" ana="Noviembre"/>
+                                            <category n="vc275" ana="Octubre"/>
+                                            <category n="vc274" ana="Septiembre"/>
+                                    </category>
+                                </category>
+
+                                <category n="vc247" ana="Edad_del_mundo"/>
+                        </category>
+
+                        <category n="vc12" ana="Mapamundi">
+                                <category n="vc229" ana="Aguas"/>
+                                <category n="vc240" ana="Caminos"/>
+                                <category n="vc239" ana="Castillos"/>
+                                <category n="vc238" ana="Ciudades">
+                                    <category n="vc686" ana="Almería"/>
+                                    <category n="vc351" ana="Atenas"/>
+                                    <category n="vc402" ana="Babilonia"/>
+                                    <category n="vc409" ana="Bayona"/>
+                                    <category n="vc419" ana="Bergoña"/>
+                                    <category n="vc421" ana="Boloña"/>
+                                    <category n="vc410" ana="Burdeos"/>
+                                    <category n="vc403" ana="Burgos"/>
+                                    <category n="vc627" ana="Damiata"/>
+                                    <category n="vc643" ana="Iconium"/>
+                                    <category n="vc622" ana="Jerusalem"/>
+                                    <category n="vc408" ana="León"/>
+                                    <category n="vc407" ana="Lisboa"/>
+                                    <category n="vc350" ana="Marrakech"/>
+                                    <category n="vc413" ana="Mián"/>
+                                    <category n="vc404" ana="Pamplona"/>
+                                    <category n="vc414" ana="París"/>
+                                    <category n="vc412" ana="Pavía"/>
+                                    <category n="vc617" ana="Pisa"/>
+                                    <category n="vc352" ana="Roma"/>
+                                    <category n="vc405" ana="Soria"/>
+                                    <category n="vc624" ana="Tabarea"/>
+                                    <category n="vc683" ana="Tebas"/>
+                                    <category n="vc684" ana="Tiro"/>
+                                    <category n="vc406" ana="Toledo"/>
+                                    <category n="vc411" ana="Tours"/>
+                                    <category n="vc623" ana="Trípol"/>
+                                    <category n="vc679" ana="Troya"/>
+                                    <category n="vc420" ana="Viana"/>
+                                </category>
+
+                                <category n="vc243" ana="Condados"/>
+                                <category n="vc601" ana="Continentes">
+                                    <category n="vc246" ana="África">
+                                            <category n="vc688" ana="Mahoma"/>
+                                            <category n="vc689" ana="Moros"/>
+                                    </category>
+                                    <category n="vc426" ana="Asia">
+                                            <category n="vc577" ana="Paraíso"/>
+                                    </category>
+                                    <category n="vc245" ana="Europa"/>
+                                </category>
+
+                                <category n="vc242" ana="Imperios"/>
+                                <category n="vc230" ana="Mares"/>
+
+                                <category n="vc399" ana="Montes">
+                                    <category n="vc603" ana="Cáucaso"/>
+                                    <category n="vc400" ana="Cogolla"/>
+                                    <category n="vc401" ana="Moncayo"/>
+                                    <category n="vc614" ana="Sinaí"/>
+                                </category>
+                                <category n="vc232" ana="Naves">
+                                    <category n="vc600" ana="Galeas"/>
+                                </category>
+                                <category n="vc241" ana="Oteros"/>
+                                <category n="vc235" ana="Pueblos">
+                                    <category n="vc339" ana="Alemanes"/>
+                                    <category n="vc520" ana="Almozones"/>
+                                    <category n="vc503" ana="Amorreos"/>
+                                    <category n="vc500" ana="Árabes"/>
+                                    <category n="vc335" ana="Bretones">
+                                            <category n="vc660" ana="Arturo"/>
+                                    </category>
+                                    <category n="vc499" ana="Caldeos"/>
+                                    <category n="vc519" ana="Cananitanos"/>
+                                    <category n="vc516" ana="Capadocios"/>
+                                    <category n="vc518" ana="Cireneos"/>
+                                    <category n="vc521" ana="Citanos"/>
+                                    <category n="vc510" ana="Pánfilos"/>
+                                    <category n="vc508" ana="Samaritanos"/>
+                                    <category n="vc502" ana="Egipcios"/>
+                                    <category n="vc515" ana="Elamitanos"/>
+                                    <category n="vc504" ana="Escoceses"/>
+                                    <category n="vc347" ana="Españoles"/>
+                                    <category n="vc334" ana="Franceses"/>
+                                    <category n="vc512" ana="Frigios"/>
+                                    <category n="vc332" ana="Griegos"/>
+                                    <category n="vc498" ana="Hebreos"/>
+                                    <category n="vc507" ana="Indios"/>
+                                    <category n="vc337" ana="Ingleses"/>
+                                    <category n="vc511" ana="Ircanos"/>
+                                    <category n="vc505" ana="Irlandeses"/>
+                                    <category n="vc715" ana="Israelitas"/>
+                                    <category n="vc333" ana="Latinos"/>
+                                    <category n="vc513" ana="Libios"/>
+                                    <category n="vc338" ana="Lombardos"/>
+                                    <category n="vc509" ana="Medos"/>
+                                    <category n="vc698" ana="Moros"/>
+                                    <category n="vc517" ana="Ninivitanos"/>
+                                    <category n="vc336" ana="Normandos"/>
+                                    <category n="vc514" ana="Partos"/>
+                                    <category n="vc506" ana="Persas"/>
+                                    <category n="vc501" ana="Sabeos"/>
+                                </category>
+                                <category n="vc599" ana="Puertos"/>
+                                <category n="vc548" ana="Puntos_cardinales">
+                                    <category n="vc552" ana="Meridión"/>
+                                    <category n="vc550" ana="Occidente"/>
+                                    <category n="vc549" ana="Oriente"/>
+                                    <category n="vc551" ana="Septentrión"/>
+                                </category>
+                                <category n="vc302" ana="Reinos"/>
+
+                                <category n="vc231" ana="Ríos">
+                                    <category n="vc394" ana="Duero"/>
+                                    <category n="vc395" ana="Ebro"/>
+                                    <category n="vc396" ana="Garona"/>
+                                    <category n="vc604" ana="Indo"/>
+                                    <category n="vc397" ana="Loire"/>
+                                    <category n="vc348" ana="Nilo"/>
+                                    <category n="vc398" ana="Ródano"/>
+                                    <category n="vc393" ana="Tajo"/>
+                                    <category n="vc349" ana="Tíber"/>
+                                </category>
+
+                                <category n="vc233" ana="Tierras">
+                                    <category n="vc640" ana="Alemaña"/>
+                                    <category n="vc612" ana="Arabia"/>
+                                    <category n="vc613" ana="Armenia"/>
+                                    <category n="vc605" ana="Asiria"/>
+                                    <category n="vc639" ana="Bretaña"/>
+                                    <category n="vc611" ana="Caldea"/>
+                                    <category n="vc642" ana="Capadocia"/>
+                                    <category n="vc345" ana="Champaña"/>
+                                    <category n="vc341" ana="Egipto"/>
+                                    <category n="vc344" ana="España"/>
+                                    <category n="vc416" ana="Francia"/>
+                                    <category n="vc606" ana="Frigia"/>
+                                    <category n="vc415" ana="Gascuña"/>
+                                    <category n="vc343" ana="Grecia"/>
+                                    <category n="vc342" ana="India"/>
+                                    <category n="vc716" ana="Israel"/>
+                                    <category n="vc615" ana="Judea"/>
+                                    <category n="vc340" ana="Libia"/>
+                                    <category n="vc417" ana="Lombardía"/>
+                                    <category n="vc610" ana="Media"/>
+                                    <category n="vc609" ana="Mesopotamia"/>
+                                    <category n="vc616" ana="Palestina"/>
+                                    <category n="vc607" ana="Panfilia"/>
+                                    <category n="vc608" ana="Persia"/>
+                                    <category n="vc346" ana="Saba"/>
+                                    <category n="vc641" ana="Samaria"/>
+                                    <category n="vc602" ana="Siria"/>
+                                    <category n="vc418" ana="Toscana"/>
+                                </category>
+                                <category n="vc598" ana="Valles"/>
+                                <category n="vc244" ana="Vientos"/>
+                                <category n="vc237" ana="Villas"/>
+                                <category n="vc236" ana="Yermos_y_poblados"/>
+                        </category>
+
+                        <category n="vc250" ana="Naturaleza">
+                                <category n="vc278" ana="Animales">
+                                    <category n="vc282" ana="Aves">
+                                            <category n="vc285" ana="Águila"/>
+                                            <category n="vc490" ana="Ánades"/>
+                                            <category n="vc288" ana="Calandria"/>
+                                            <category n="vc491" ana="Cercetas"/>
+                                            <category n="vc286" ana="Cigarra"/>
+                                            <category n="vc488" ana="Garza"/>
+                                            <category n="vc290" ana="Gavión"/>
+                                            <category n="vc287" ana="Gayo"/>
+                                            <category n="vc283" ana="Grifo"/>
+                                            <category n="vc492" ana="Papagayo"/>
+                                            <category n="vc487" ana="Perdiz"/>
+                                            <category n="vc489" ana="Picos_lorigados"/>
+                                            <category n="vc291" ana="Ruiseñor"/>
+                                            <category n="vc289" ana="Tordo"/>
+                                    </category>
+                                    
+                                    <category n="vc284" ana="Bestias">
+                                            <category n="vc554" ana="Elefante"/>
+                                            <category n="vc586" ana="Ganado"/>
+                                            <category n="vc484" ana="Jabalí"/>
+                                            <category n="vc280" ana="León"/>
+                                            <category n="vc495" ana="Mula"/>
+                                            <category n="vc483" ana="Oso"/>
+                                            <category n="vc494" ana="Palafrén"/>
+                                            <category n="vc493" ana="Tigre"/>
+                                            <category n="vc480" ana="Venados">
+                                                <category n="vc482" ana="Ciervo"/>
+                                                <category n="vc481" ana="Gamo"/>
+                                            </category>
+                                    </category>
+                                    <category n="vc478" ana="Gusanos"/>
+                                    <category n="vc281" ana="Peces"/>
+                                    <category n="vc717" ana="Sierpes_reptiles">
+                                            <category n="vc479" ana="Rana"/>
+                                            <category n="vc324" ana="Serpiente"/>
+                                    </category>
+                                </category>
+
+                                <category n="vc157" ana="Piedras_preciosas">
+                                    <category n="vc469" ana="Absicto"/>
+                                    <category n="vc468" ana="Acates"/>
+                                    <category n="vc473" ana="Astrïón"/>
+                                    <category n="vc462" ana="Astrites"/>
+                                    <category n="vc467" ana="Çinedia"/>
+                                    <category n="vc457" ana="Coral"/>
+                                    <category n="vc158" ana="Cristal"/>
+                                    <category n="vc451" ana="Diamante"/>
+                                    <category n="vc470" ana="Dïonisia"/>
+                                    <category n="vc474" ana="Electria"/>
+                                    <category n="vc455" ana="Elitropia"/>
+                                    <category n="vc475" ana="Endros"/>
+                                    <category n="vc447" ana="Esmaragdo_verde"/>
+                                    <category n="vc452" ana="Estopaçion"/>
+                                    <category n="vc471" ana="Exocontálitos"/>
+                                    <category n="vc449" ana="Gagantes"/>
+                                    <category n="vc453" ana="Galacia"/>
+                                    <category n="vc464" ana="Galaçio"/>
+                                    <category n="vc463" ana="Galatites"/>
+                                    <category n="vc477" ana="Girgonças"/>
+                                    <category n="vc458" ana="Hematites"/>
+                                    <category n="vc472" ana="Iris"/>
+                                    <category n="vc459" ana="Jaçinto"/>
+                                    <category n="vc448" ana="Jaspis"/>
+                                    <category n="vc450" ana="Magnetes"/>
+                                    <category n="vc460" ana="Margarita"/>
+                                    <category n="vc454" ana="Melozio"/>
+                                    <category n="vc461" ana="Pedorus"/>
+                                    <category n="vc476" ana="Safires"/>
+                                    <category n="vc456" ana="Sagda"/>
+                                    <category n="vc466" ana="Selenites"/>
+                                    <category n="vc465" ana="Solgema"/>
+                                </category>
+
+                                <category n="vc279" ana="Plantas">
+                                    <category n="vc371" ana="Árboles"/>
+                                    <category n="vc560" ana="Cardos"/>
+                                    <category n="vc432" ana="Especias">
+                                            <category n="vc441" ana="Bálsamo"/>
+                                            <category n="vc435" ana="Canela"/>
+                                            <category n="vc438" ana="Çetüal"/>
+                                            <category n="vc440" ana="Cinamomo"/>
+                                            <category n="vc437" ana="Clavo"/>
+                                            <category n="vc446" ana="Comino"/>
+                                            <category n="vc434" ana="Garengal"/>
+                                            <category n="vc436" ana="Gengibre"/>
+                                            <category n="vc442" ana="Girofe"/>
+                                            <category n="vc439" ana="Incienso"/>
+                                            <category n="vc444" ana="Nardo"/>
+                                            <category n="vc443" ana="Nuez_moscada"/>
+                                            <category n="vc445" ana="Pebre"/>
+                                            <category n="vc433" ana="Pimienta"/>
+                                    </category>
+                                    <category n="vc559" ana="Espinas"/>
+                                    <category n="vc558" ana="Flores"/>
+
+                                    <category n="vc121" ana="Viña">
+                                            <category n="vc370" ana="Hojas"/>
+                                            <category n="vc292" ana="Uvas">
+                                                <category n="vc376" ana="Alfonsinas_blancas"/>
+                                                <category n="vc377" ana="Alfonsinas_negras"/>
+                                                <category n="vc378" ana="Calagrañas"/>
+                                                <category n="vc375" ana="Migaruelas"/>
+                                                <category n="vc379" ana="Molejas"/>
+                                                <category n="vc374" ana="Tardaniellas"/>
+                                                <category n="vc587" ana="Tempraniellas"/>
+                                                <category n="vc380" ana="Torrontés"/>
+                                            </category>
+                                    </category>
+                                </category>
+                        </category>
+                    </category>
+                    
+                    <category n="vc208" ana="Gestas_de_Alejandro">
+                        <category n="vc618" ana="Alejandro_Magno"/>
+                        <category n="vc635" ana="Antípater"/>
+                        <category n="vc300" ana="Apeles"/>
+                        <category n="vc668" ana="Beso"/>
+                        <category n="vc621" ana="Darío"/>
+                        <category n="vc619" ana="Filipo"/>
+                        <category n="vc685" ana="Memnón"/>
+                        <category n="vc667" ana="Nabarzanes"/>
+                        <category n="vc681" ana="Nicolao"/>
+                        <category n="vc682" ana="Pausanías"/>
+                        <category n="vc687" ana="Poro"/>
+                        <category n="vc620" ana="Xerses"/>
+                    </category>
+
+                    <category n="vc212" ana="Religiosos">
+                        <category n="vc644" ana="Antiguo_Testamento">
+                                <category n="vc213" ana="Caída_de_Lucifer">
+                                    <category n="vc711" ana="Ángeles_caídos"/>
+                                    <category n="vc666" ana="Lucifer"/>
+                                </category>
+
+                                <category n="vc653" ana="Destrucción_de_Sodoma_y_Gomorra">
+                                    <category n="vc654" ana="Lot"/>
+                                    <category n="vc655" ana="Mujer_de_Lot_anónima"/>
+                                </category>
+
+                                <category n="vc645" ana="Diluvio_universal_y_el_arca_de_Noé">
+                                    <category n="vc670" ana="Cam"/>
+                                    <category n="vc671" ana="Jafet"/>
+                                    <category n="vc220" ana="Noé"/>
+                                    <category n="vc669" ana="Sem"/>
+                                </category>
+
+                                <category n="vc661" ana="Ester"/>
+
+                                <category n="vc646" ana="Éxodo">
+                                    <category n="vc674" ana="Aarón"/>
+                                    <category n="vc676" ana="Abiram"/>
+                                    <category n="vc675" ana="Datán"/>
+                                    <category n="vc673" ana="Faraón"/>
+                                    <category n="vc222" ana="Moisés"/>
+                                    <category n="vc713" ana="Plagas"/>
+                                    <category n="vc712" ana="Tabernáculo"/>
+                                    <category n="vc714" ana="Tablas_de_la_Ley"/>
+                                </category>
+                                <category n="vc649" ana="Job"/>
+                                <category n="vc648" ana="Lamech"/>
+
+                                <category n="vc216" ana="Patriarcas">
+                                    <category n="vc221" ana="Abraham"/>
+                                    <category n="vc632" ana="Isaac"/>
+                                    <category n="vc672" ana="Tribus_de_Israel"/>
+                                </category>
+
+                                <category n="vc214" ana="Pecado_original">
+                                    <category n="vc628" ana="Adán"/>
+                                    <category n="vc629" ana="Eva"/>
+                                    <category n="vc577" ana="Paraíso"/>
+                                    <category n="vc663" ana="San_Miguel_Arcangel"/>
+                                    <category n="vc324" ana="Serpiente"/>
+                                </category>
+
+                                <category n="vc217" ana="Profetas">
+                                    <category n="vc674" ana="Aarón"/>
+                                    <category n="vc223" ana="Daniel"/>
+                                    <category n="vc677" ana="Josué"/>
+                                    <category n="vc222" ana="Moisés"/>
+                                </category>
+
+                                <category n="vc218" ana="Reyes_de_Israel">
+                                    <category n="vc224" ana="David"/>
+                                    <category n="vc226" ana="Roboán"/>
+                                    <category n="vc225" ana="Salomón"/>
+                                    <category n="vc638" ana="Saúl_el_viejo"/>
+                                </category>
+
+                                <category n="vc219" ana="Reyes_de_Oriente">
+                                    <category n="vc625" ana="Baltasar"/>
+                                    <category n="vc228" ana="Ciro"/>
+                                    <category n="vc626" ana="Crasus"/>
+                                    <category n="vc227" ana="Nabucodonosor"/>
+                                    <category n="vc637" ana="Semíramis"/>
+                                </category>
+
+                                <category n="vc316" ana="Torre_de_Babel">
+                                    <category n="vc317" ana="Confusión_de_las_lenguas"/>
+                                    <category n="vc315" ana="Gigantes"/>
+                                </category>
+                        </category>
+                        
+                        <category n="vc553" ana="Nuevo_Testamento">
+                                <category n="vc707" ana="Apóstoles"/>
+                                <category n="vc630" ana="Cristo"/>
+                                <category n="vc631" ana="Herodes"/>
+                                <category n="vc651" ana="San_Pablo"/>
+                                <category n="vc690" ana="San_Pedro"/>
+                            
+                        </category>
+
+                        <category n="vc427" ana="Infierno">
+                            <category n="vc561" ana="Islas"/>
+                            <category n="vc562" ana="Raval">
+                                    <category n="vc563" ana="Pecados_capitales">
+                                        <category n="vc578" ana="Acedia"/>
+                                        <category n="vc565" ana="Codicia">
+                                                <category n="vc566" ana="Ambición"/>
+                                                <category n="vc564" ana="Avaricia"/>
+                                        </category>
+                                        <category n="vc567" ana="Envidia">
+                                                <category n="vc569" ana="Ejemplo_del_envidioso"/>
+                                        </category>
+                                        <category n="vc574" ana="Gula">
+                                                <category n="vc576" ana="Beodez"/>
+                                                <category n="vc575" ana="Glotonería"/>
+                                        </category>
+                                        <category n="vc570" ana="Ira">
+                                                <category n="vc571" ana="Odio"/>
+                                        </category>
+                                        <category n="vc572" ana="Lujuria">
+                                                <category n="vc573" ana="Inmundicia"/>
+                                        </category>
+                                        <category n="vc581" ana="Vanagloria">
+                                                <category n="vc659" ana="Zósimo"/>
+                                        </category>
+                                    </category>
+                                    <category n="vc582" ana="Soberbia"/>
+                            </category>
+                            <category n="vc647" ana="Real_del_Infierno"/>
+                        </category>
+                    </category>
+            </category>
+        </taxonomy>
+
+</classDecl>
+</encodingDesc>
+</teiHeader>
+<text>
+<body>
+<p/>
+</body>
+</text>
+</TEI>
