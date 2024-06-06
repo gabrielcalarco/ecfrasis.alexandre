@@ -1,5 +1,5 @@
 const alphaDiv = document.getElementById("alphabet-search")
-const texts = document.querySelectorAll("ul.interior li")
+const texts = document.querySelectorAll("ul.text-list li")
 
 function buildAlphabetBar() {
 

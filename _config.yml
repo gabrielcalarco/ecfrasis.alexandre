@@ -29,7 +29,17 @@ permalink: /:title
 encoding: utf-8
 
 # This is to keep things tidy.
-include: ['_pages']
+include: 
+  - '_pages'
+collections:
+    textosalex:
+      output: true
+    pages:
+      output: true
+    vocabctrl:
+      output: true
+    investigacion:
+      output: true
 
 # Exclude from processing.
 exclude:
