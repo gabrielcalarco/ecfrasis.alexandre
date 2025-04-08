@@ -11,7 +11,7 @@
                     <!-- Recuperamos el id del documento en una variable para nombrar el archivo de salida -->
                     <!-- Redirigir el resultado hacia un archivo -->        
                     <xsl:result-document method="html" encoding="utf-8"
-                        href="_pages/textosalex/{$doc_id}.html" omit-xml-declaration="yes">---
+                        href="_textosalex/{$doc_id}.html" omit-xml-declaration="yes">---
         layout: default
         title: <xsl:apply-templates select="$doc_id"/>
         permalink: <xsl:apply-templates select="$doc_id"/>
@@ -27,7 +27,7 @@
         </h1>
         
         <body>  <br></br>
-            <xsl:apply-templates select="//lg[@type='fragmento']"/>
+            <xsl:apply-templates select="//lg[@type='poema']"/>
         </body>
         </xsl:result-document>
     </xsl:template>
@@ -43,7 +43,7 @@
                     </a>
                 </xsl:template>      
     
-    <xsl:template match="//lg//lg">
+    <xsl:template match="lg[@type='terástico']">
         <div class="estrofa">
             <p class="nrodeestrofa">
                 <xsl:value-of select="@n"/>
