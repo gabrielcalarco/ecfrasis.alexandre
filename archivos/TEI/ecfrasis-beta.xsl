@@ -12,7 +12,7 @@
                     <!-- Redirigir el resultado hacia un archivo -->        
                     <xsl:result-document method="html" encoding="utf-8"
                         href="_textosalex/{$doc_id}.html" omit-xml-declaration="yes">---
-        layout: default
+        layout: textoalex
         title: <xsl:apply-templates select="$doc_id"/>
         permalink: <xsl:apply-templates select="$doc_id"/>
        ---
