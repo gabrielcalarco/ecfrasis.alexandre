@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schemas/TEI_alex.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -20,14 +19,12 @@
                 <p>Born digital</p>
             </sourceDesc>
         </fileDesc>
-
+ 
         <encodingDesc>
             <classDecl>
-
-
-
+ 
                 <taxonomy n="écfrasis">
-
+ 
                     <category n="vc1" ana="Agentes_de_producción">
                         <category n="vc15" ana="Cualidades_de_los_agentes">
                             <category n="vc23" ana="Acordado"/>
