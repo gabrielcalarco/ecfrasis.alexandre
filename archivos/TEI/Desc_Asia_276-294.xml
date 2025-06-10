@@ -7,7 +7,7 @@
             
             <titleStmt>
                 <title type="main">Libro de Alexandre</title>
-                <title type="sub" xml:id="desc_asia" ref="/ecfrasis.alexandre/vc426">Descripción de Asia</title>
+                <title type="sub" xml:id="desc_asia" ref="vc426">Descripción de Asia</title>
                 <author ref="#ANM">Anónimo</author>
                 <editor xml:id="GAC">Gabriel A. Calarco</editor>
             </titleStmt>
@@ -58,13 +58,7 @@
                 <language ident="sp">Castellano</language>
             </langUsage>
         </profileDesc>
-        
-        <revisionDesc>
-            <listChange>
-                <change/>
-            </listChange>
-        </revisionDesc>
-        
+
     </teiHeader>
     
     <text>
@@ -86,19 +80,19 @@
                 
                 <lg n="276" type="terástico" met="4x14" rhyme="AAAA" ana="#mapamundi">
                     <note type="motivo" target="/ecfrasis.alexandre/vc12" subtype="enciclopedico">Mapamundi</note>    
-                    <l xml:id="L1">La <term ref="/ecfrasis.alexandre/vc545" type="artistico">materia</term> 
+                    <l xml:id="L1">La <term ref="vc545" type="artistico">materia</term> 
                     nos manda <caesura/>por fuerça de razón;</l>
                     <l xml:id="L2">avemos nós a fer <caesura/>una 
-                    <term ref="/ecfrasis.alexandre/vc546" type="artistico">desputaçión</term>:</l>	
+                    <term ref="vc546" type="artistico">desputaçión</term>:</l>	
                     <l xml:id="L3">cuémo se part’el mundo <caesura/>por triple partiçión,</l>	
-                    <l xml:id="L4">cuémo faze la <term ref="/ecfrasis.alexandre/vc230" type="enciclopedico">mar</term> 
+                    <l xml:id="L4">cuémo faze la <term ref="vc230" type="enciclopedico">mar</term> 
                     <caesura/>en todas división.</l>
                 </lg>
             
                 <lg n="277" type="terástico" met="4x14" rhyme="AAAA" ana="#mapamundi">
                     <note type="motivo" target="/ecfrasis.alexandre/vc12" subtype="enciclopedico">Mapamundi</note>    
                     <l xml:id="L5">El que partió el mundo <caesura/>fízolo tres partidas;</l>
-                    <l xml:id="L6">son por braços de <term ref="/ecfrasis.alexandre/vc230" type="enciclopedico">mar</term> 
+                    <l xml:id="L6">son por braços de <term ref="vc230" type="enciclopedico">mar</term> 
                     <caesura/>todas tres divididas;</l>	
                     <l xml:id="L7">la una es mayor; <caesura/>las otras dos, más chicas;</l>
                     <l xml:id="L8">la mayor es calient’ <caesura/>e las dos, más frías.</l>
@@ -107,30 +101,30 @@
                 <lg n="278" type="terástico" met="4x14" rhyme="AAAA" ana="#mapamundi">
                     <note type="motivo" target="/ecfrasis.alexandre/vc12" subtype="enciclopedico">Mapamundi</note>    
                     <l xml:id="L9">Más de la meatad <caesura/>es contra 
-                    <term ref="/ecfrasis.alexandre/vc549" type="enciclopedico">Orïente</term>:</l>
+                    <term ref="vc549" type="enciclopedico">Orïente</term>:</l>
                     <l xml:id="L10">fízola una suerte <caesura/>el Rey Omnipotente;</l>	
                     <l xml:id="L11">las otras dos alcançan <caesura/>por medio 
-                    <term ref="/ecfrasis.alexandre/vc550" type="enciclopedico">Oçidente</term>:</l>	
-                    <l xml:id="L12">fiende la <term ref="/ecfrasis.alexandre/vc230" type="enciclopedico">mar</term>  
+                    <term ref="vc550" type="enciclopedico">Oçidente</term>:</l>	
+                    <l xml:id="L12">fiende la <term ref="vc230" type="enciclopedico">mar</term>  
                     por medio <caesura/>ad ambas igualmente.</l>
                 </lg>
             
                 <lg n="279" type="terástico" met="4x14" rhyme="AAAA" ana="#mapamundi">
                     <note type="motivo" target="/ecfrasis.alexandre/vc12" subtype="enciclopedico">Mapamundi</note>    
                     <l xml:id="L13">Es clamada por nombre <caesura/>
-                    <placeName ref="/ecfrasis.alexandre/vc426" type="enciclopedico">Asïa</placeName> la primera;</l>
+                    <placeName ref="vc426" type="enciclopedico">Asïa</placeName> la primera;</l>
                     <l xml:id="L14">la segunda, 
-                    <placeName ref="/ecfrasis.alexandre/vc245" type="enciclopedico">Europa</placeName>; <caesura/>
-                    <placeName ref="/ecfrasis.alexandre/vc246" type="enciclopedico">África</placeName>, la terçera:</l>	
+                    <placeName ref="vc245" type="enciclopedico">Europa</placeName>; <caesura/>
+                    <placeName ref="vc246" type="enciclopedico">África</placeName>, la terçera:</l>	
                     <l xml:id="L15">tiene el cristianismo <caesura/>a 
-                    <placeName ref="/ecfrasis.alexandre/vc245" type="enciclopedico">Europa</placeName> señera;</l>	
+                    <placeName ref="vc245" type="enciclopedico">Europa</placeName> señera;</l>	
                     <l xml:id="L16">¡moros tienen las otras, <caesura/>por nuestra grant dentera!</l>
                 </lg>
             
                 <lg n="280" type="terástico" met="4x14" rhyme="AAAA" ana="#mapamundi">
                     <note type="motivo" target="/ecfrasis.alexandre/vc12" subtype="enciclopedico">Mapamundi</note>    
                     <l xml:id="L17">Qui asmar’ cuémo yazen <caesura/>las 
-                    <term ref="/ecfrasis.alexandre/vc230" type="enciclopedico">mares</term>, de quál guisa</l>
+                    <term ref="vc230" type="enciclopedico">mares</term>, de quál guisa</l>
                     <l xml:id="L18">—la una que comedia, <caesura/>la otra que quartiza—,</l>
                     <l xml:id="L19">verá que tien’ la cruz <caesura/>essa figura misma,</l>	
                     <l xml:id="L20">on’ devién los incrédulos <caesura/>prender la mala çisma.</l>
@@ -139,30 +133,30 @@
                 <lg n="281" type="terástico" met="4x14" rhyme="AAAA" ana="#mapamundi">
                     <note type="motivo" target="/ecfrasis.alexandre/vc12" subtype="enciclopedico">Mapamundi</note>    
                     <l xml:id="L21">Dexemos de las otras: <caesura/>de 
-                    <placeName ref="/ecfrasis.alexandre/vc426" type="enciclopedico">Asia</placeName> nós contemos;</l>
+                    <placeName ref="vc426" type="enciclopedico">Asia</placeName> nós contemos;</l>
                     <l xml:id="L22">a lo que començamos, <caesura/>en esso nos tornemos;</l>	
-                    <l xml:id="L23">lo uno que <term ref="/ecfrasis.alexandre/vc547" type="artistico">leyemos</term> 
-                    <caesura/>e lo ál que <term ref="/ecfrasis.alexandre/vc204" type="artistico">oyemos</term>,</l>		
+                    <l xml:id="L23">lo uno que <term ref="vc547" type="artistico">leyemos</term> 
+                    <caesura/>e lo ál que <term ref="vc204" type="artistico">oyemos</term>,</l>		
                     <l xml:id="L24">de las mayores cosas <caesura/>recabdo vos daremos.</l>
                 </lg>
             
                 <lg n="282" type="terástico" met="4x14" rhyme="AAAA" ana="#mapamundi">
                     <note type="motivo" target="/ecfrasis.alexandre/vc12" subtype="enciclopedico">Mapamundi</note>    
                     <l xml:id="L25">Aún, de sí misma, <caesura/>ave bondat estraña:</l>
-                    <l xml:id="L26">ave mucho buen <term ref="/ecfrasis.alexandre/vc231" type="enciclopedico">río</term>, 
-                    <caesura/>mucha buena <term ref="/ecfrasis.alexandre/vc399" type="enciclopedico">montaña</term>;</l>
+                    <l xml:id="L26">ave mucho buen <term ref="vc231" type="enciclopedico">río</term>, 
+                    <caesura/>mucha buena <term ref="vc399" type="enciclopedico">montaña</term>;</l>
                     <l xml:id="L27">de panes e de vino, <caesura/>non ha tierra calaña.</l>	
                     <l xml:id="L28">¡El bien que d’ella dizen <caesura/>non es sinon 
-                    <term ref="/ecfrasis.alexandre/vc588" type="artistico">fazaña</term>!</l>
+                    <term ref="vc588" type="artistico">fazaña</term>!</l>
                 </lg>
             
                 <lg n="283" type="terástico" met="4x14" rhyme="AAAA" ana="#mapamundi">
                     <note type="motivo" target="/ecfrasis.alexandre/vc12" subtype="enciclopedico">Mapamundi</note>    
                     <l xml:id="L29">Tanto tiene 
-                    <placeName ref="/ecfrasis.alexandre/vc426" type="enciclopedico">Asïa</placeName> 
+                    <placeName ref="vc426" type="enciclopedico">Asïa</placeName> 
                     <caesura/>cuemo todo lo ál</l>
                     <l xml:id="L30">—aún un poquïello <caesura/>passa de la señal—,</l>	
-                    <l xml:id="L31">ond’asmó <persName ref="/ecfrasis.alexandre/vc618" type="alexandre">Alexandre</persName> 
+                    <l xml:id="L31">ond’asmó <persName ref="vc618" type="alexandre">Alexandre</persName> 
                     <caesura/>un seso natural:</l>	
                     <l xml:id="L32">¡que, si prisiesse essa, <caesura/>avrié todo lo ál!</l>
                 </lg>
@@ -171,11 +165,11 @@
                     <note type="motivo" target="/ecfrasis.alexandre/vc12" subtype="enciclopedico">Mapamundi</note>
                     <note type="motivo" target="/ecfrasis.alexandre/vc553" subtype="religioso">Nuevo Testamento</note>   
                     <l xml:id="L33">Es más rica de todas <caesura/>
-                    <placeName ref="/ecfrasis.alexandre/vc426" type="enciclopedico">Asïa</placeName>, e mayor;</l>
+                    <placeName ref="vc426" type="enciclopedico">Asïa</placeName>, e mayor;</l>
                     <l xml:id="L34">aún, cuemo es buena, <caesura/>devié seer mejor:</l>	
                     <l xml:id="L35" ana="#nuevotestamento">devienle reverençia <caesura/>todas dar, e honor,</l>	
                     <l xml:id="L36" ana="#nuevotestamento">ca ý naçió 
-                    <persName ref="/ecfrasis.alexandre/vc630" type="religioso">don Christus</persName>, 
+                    <persName ref="vc630" type="religioso">don Christus</persName>, 
                     <caesura/>el nuestro Redemptor.</l>
                 </lg>
             
@@ -184,16 +178,16 @@
                     <note type="motivo" target="/ecfrasis.alexandre/vc644" subtype="religioso">Antiguo Testamento</note>  
                     <note type="motivo" target="/ecfrasis.alexandre/vc553" subtype="religioso">Nuevo Testamento</note>  
                     <l xml:id="L37" ana="#patriarcas">Dent’ fueron los 
-                    <term ref="/ecfrasis.alexandre/vc216" type="religioso">patriarcas</term>, 
+                    <term ref="vc216" type="religioso">patriarcas</term>, 
                     <caesura/>omnes de santa vida;</l>
                     <l xml:id="L38" ana="#profetas">otrossí los 
-                    <term ref="/ecfrasis.alexandre/vc217" type="religioso">profetas</term>, 
+                    <term ref="vc217" type="religioso">profetas</term>, 
                     <caesura/>una gent’escogida;</l>	
                     <l xml:id="L39" ana="#nuevotestamento">fue del 
-                    <persName ref="/ecfrasis.alexandre/vc630" type="religioso">Fi de la Virgen</persName> 
+                    <persName ref="vc630" type="religioso">Fi de la Virgen</persName> 
                     <caesura/>la su sangre vertida:</l>	
                     <l xml:id="L40" ana="#nuevotestamento">por ent’ fue la fallençia <caesura/>de 
-                    <persName ref="/ecfrasis.alexandre/vc628" type="religioso">Adam</persName> redemida.</l>
+                    <persName ref="vc628" type="religioso">Adam</persName> redemida.</l>
                 </lg>
             
                 <lg n="286" type="terástico" met="4x14" rhyme="AAAA" ana="#mapamundi">
@@ -201,11 +195,11 @@
                     <note type="motivo" target="/ecfrasis.alexandre/vc553" subtype="religioso">Nuevo Testamento</note>   
                     <l xml:id="L41" ana="#nuevotestamento">Toda Santa Iglesia <caesura/>dent’ priso el çimiento;</l>
                     <l xml:id="L42" ana="#nuevotestamento">dent’ fueron los 
-                    <term ref="/ecfrasis.alexandre/vc707" type="religioso">apóstolos</term>, 
+                    <term ref="vc707" type="religioso">apóstolos</term>, 
                     <caesura/>un honrado conviento;</l>
-                    <l xml:id="L43">pero a <placeName ref="/ecfrasis.alexandre/vc245" type="enciclopedico">Ëuropa</placeName> 
+                    <l xml:id="L43">pero a <placeName ref="vc245" type="enciclopedico">Ëuropa</placeName> 
                     <caesura/>Dios le dio alçamiento,</l>		
-                    <l xml:id="L44">ca es <placeName ref="/ecfrasis.alexandre/vc352" type="enciclopedico">Roma</placeName> 
+                    <l xml:id="L44">ca es <placeName ref="vc352" type="enciclopedico">Roma</placeName> 
                     <caesura/>cabeça de tod’ordenamiento.</l>
                 </lg>
             
@@ -213,55 +207,55 @@
                     <note type="motivo" target="/ecfrasis.alexandre/vc12" subtype="enciclopedico">Mapamundi</note>    
                     <note type="motivo" target="/ecfrasis.alexandre/vc157" subtype="enciclopedico">Piedras preciosas</note>
                     <note type="motivo" target="/ecfrasis.alexandre/vc278" subtype="enciclopedico">Animales</note>
-                    <l xml:id="L45">Ixen del <placeName ref="/ecfrasis.alexandre/vc577" type="religioso">Paraíso</placeName> 
-                    <caesura/>las quatro <term ref="/ecfrasis.alexandre/vc229" type="enciclopedico">aguas</term> santas;</l>
+                    <l xml:id="L45">Ixen del <placeName ref="vc577" type="religioso">Paraíso</placeName> 
+                    <caesura/>las quatro <term ref="vc229" type="enciclopedico">aguas</term> santas;</l>
                     <l xml:id="L46" ana="#piedras_preciosas">ý son las buenas piedras <caesura/>
-                    <term ref="/ecfrasis.alexandre/vc448" type="enciclopedico">jaspes</term> e 
-                    <term ref="/ecfrasis.alexandre/vc451" type="enciclopedico">dïamantas</term>;</l>	
+                    <term ref="vc448" type="enciclopedico">jaspes</term> e 
+                    <term ref="vc451" type="enciclopedico">dïamantas</term>;</l>	
                     <l xml:id="L47" ana="#animales">en 
-                    <placeName ref="/ecfrasis.alexandre/vc342" type="enciclopedico">India</placeName> es do son 
-                    <caesura/>las grandes <term ref="/ecfrasis.alexandre/vc554" type="enciclopedico">elefantas</term>,</l>		
+                    <placeName ref="vc342" type="enciclopedico">India</placeName> es do son 
+                    <caesura/>las grandes <term ref="vc554" type="enciclopedico">elefantas</term>,</l>		
                     <l xml:id="L48">do sembran dos vegadas <caesura/>e cogen otras tantas.</l>
                 </lg>
             
                 <lg n="288" type="terástico" met="4x14" rhyme="AAAA" ana="#mapamundi">
                     <note type="motivo" target="/ecfrasis.alexandre/vc12" subtype="enciclopedico">Mapamundi</note>    
-                    <l xml:id="L49"><placeName ref="/ecfrasis.alexandre/vc603" type="enciclopedico">Cáucaso</placeName>, 
-                    un <term ref="/ecfrasis.alexandre/vc399" type="enciclopedico">mont</term>’alto, <caesura/>
+                    <l xml:id="L49"><placeName ref="vc603" type="enciclopedico">Cáucaso</placeName>, 
+                    un <term ref="vc399" type="enciclopedico">mont</term>’alto, <caesura/>
                     li yaz’en un rencón</l>
                     <l xml:id="L50">—cuemo dizen, en part’ <caesura/>yaze de 
-                    <term ref="/ecfrasis.alexandre/vc551" type="enciclopedico">Septentrión</term>—;</l>
-                    <l xml:id="L51">náçenle muchos <term ref="/ecfrasis.alexandre/vc231" type="enciclopedico">ríos</term> 
+                    <term ref="vc551" type="enciclopedico">Septentrión</term>—;</l>
+                    <l xml:id="L51">náçenle muchos <term ref="vc231" type="enciclopedico">ríos</term> 
                     <caesura/>cabdales en fondón,</l>		
-                    <l xml:id="L52">mas <term ref="/ecfrasis.alexandre/vc604" type="enciclopedico">Indos</term> 
+                    <l xml:id="L52">mas <term ref="vc604" type="enciclopedico">Indos</term> 
                     es más frío <caesura/>de quantos que ý son.</l>
                 </lg>
             
                 <lg n="289" type="terástico" met="4x14" rhyme="AAAA" ana="#mapamundi">
                     <note type="motivo" target="/ecfrasis.alexandre/vc12" subtype="enciclopedico">Mapamundi</note>    
-                    <l xml:id="L53">En <placeName ref="/ecfrasis.alexandre/vc246" type="enciclopedico">Asia</placeName> 
-                    yaz’<placeName ref="/ecfrasis.alexandre/vc605" type="enciclopedico">Asiria</placeName>, 
-                    <caesura/><term ref="/ecfrasis.alexandre/vc233" type="enciclopedico">tierra</term> muy abondada;</l>
-                    <l xml:id="L54"><placeName ref="/ecfrasis.alexandre/vc606" type="enciclopedico">Frigia</placeName> e 
-                    <placeName ref="/ecfrasis.alexandre/vc607" type="enciclopedico">Panfilïa</placeName>, <caesura/>
+                    <l xml:id="L53">En <placeName ref="vc246" type="enciclopedico">Asia</placeName> 
+                    yaz’<placeName ref="vc605" type="enciclopedico">Asiria</placeName>, 
+                    <caesura/><term ref="vc233" type="enciclopedico">tierra</term> muy abondada;</l>
+                    <l xml:id="L54"><placeName ref="vc606" type="enciclopedico">Frigia</placeName> e 
+                    <placeName ref="vc607" type="enciclopedico">Panfilïa</placeName>, <caesura/>
                     que non le deven nada;</l>	
-                    <l xml:id="L55">allí son <placeName ref="/ecfrasis.alexandre/vc608" type="enciclopedico">Persia</placeName> 
-                    e <placeName ref="/ecfrasis.alexandre/vc610" type="enciclopedico">Media</placeName>, <caesura/>
-                    <term ref="/ecfrasis.alexandre/vc302" type="enciclopedico">regnos</term> de fuerte entrada;</l>
-                    <l xml:id="L56">non merez’ <placeName ref="/ecfrasis.alexandre/vc609" type="enciclopedico">Mesopótamia</placeName> 
+                    <l xml:id="L55">allí son <placeName ref="vc608" type="enciclopedico">Persia</placeName> 
+                    e <placeName ref="vc610" type="enciclopedico">Media</placeName>, <caesura/>
+                    <term ref="vc302" type="enciclopedico">regnos</term> de fuerte entrada;</l>
+                    <l xml:id="L56">non merez’ <placeName ref="vc609" type="enciclopedico">Mesopótamia</placeName> 
                     <caesura/>que sea olvidada;</l>
                 </lg>
             
                 <lg n="290" type="terástico" met="4x14" rhyme="AAAA" ana="#mapamundi">
                     <note type="motivo" target="/ecfrasis.alexandre/vc12" subtype="enciclopedico">Mapamundi</note>    
-                    <l xml:id="L57"><placeName ref="/ecfrasis.alexandre/vc402" type="enciclopedico">Babilonia</placeName> la magna, 
+                    <l xml:id="L57"><placeName ref="vc402" type="enciclopedico">Babilonia</placeName> la magna, 
                     <caesura/>que todo el mundo val’,</l>
-                    <l xml:id="L58">que val’ más que un <term ref="/ecfrasis.alexandre/vc302" type="enciclopedico">regno</term> 
+                    <l xml:id="L58">que val’ más que un <term ref="vc302" type="enciclopedico">regno</term> 
                     <caesura/>que es emperïal;</l>	
-                    <l xml:id="L59"><placeName ref="/ecfrasis.alexandre/vc611" type="enciclopedico">Caldea</placeName>, 
+                    <l xml:id="L59"><placeName ref="vc611" type="enciclopedico">Caldea</placeName>, 
                     que es tierra <caesura/>de todo comunal;</l>		
-                    <l xml:id="L60">ý son <placeName ref="/ecfrasis.alexandre/vc346" type="enciclopedico">Saba</placeName> 
-                    e <placeName ref="/ecfrasis.alexandre/vc602" type="enciclopedico">Siria</placeName>, 
+                    <l xml:id="L60">ý son <placeName ref="vc346" type="enciclopedico">Saba</placeName> 
+                    e <placeName ref="vc602" type="enciclopedico">Siria</placeName>, 
                     <caesura/>buenos uno con ál;</l>
                 </lg>
             
@@ -270,22 +264,22 @@
                     <note type="motivo" target="/ecfrasis.alexandre/vc553" subtype="religioso">Nuevo Testamento</note>  
                     <note type="motivo" target="/ecfrasis.alexandre/vc645" subtype="religioso">El diluvio universal</note> 
                     <l xml:id="L61" ana="#nuevotstamento">
-                    <placeName ref="/ecfrasis.alexandre/vc612" type="enciclopedico">Arabia</placeName>, do a 
-                    <persName ref="/ecfrasis.alexandre/vc630" type="religioso">Cristo</persName> <caesura/>vinieron con pitança,</l>
+                    <placeName ref="vc612" type="enciclopedico">Arabia</placeName>, do a 
+                    <persName ref="vc630" type="religioso">Cristo</persName> <caesura/>vinieron con pitança,</l>
                     <l xml:id="L62" ana="#nuevotstamento">quando fizo en los niños <caesura/>
-                    <persName ref="/ecfrasis.alexandre/vc631" type="religioso">Herodes</persName> la matança;</l>	
-                    <l xml:id="L63" ana="#noe"><placeName ref="/ecfrasis.alexandre/vc613" type="enciclopedico">Armenia</placeName>, 
+                    <persName ref="vc631" type="religioso">Herodes</persName> la matança;</l>	
+                    <l xml:id="L63" ana="#noe"><placeName ref="vc613" type="enciclopedico">Armenia</placeName>, 
                     que al çielo <caesura/>tañe por demostrança</l>		
-                    <l xml:id="L64" ana="#noe">el arca de <persName ref="/ecfrasis.alexandre/vc220" type="religioso">Noé</persName>, 
+                    <l xml:id="L64" ana="#noe">el arca de <persName ref="vc220" type="religioso">Noé</persName>, 
                     <caesura/>do fizo la folgança;</l>
                 </lg>
             
                 <lg n="292" type="terástico" met="4x14" rhyme="AAAA" ana="#mapamundi #moises">
                     <note type="motivo" target="/ecfrasis.alexandre/vc12" subtype="enciclopedico">Mapamundi</note> 
                     <note type="motivo" target="/ecfrasis.alexandre/vc646" subtype="religioso">Éxodo</note> 
-                    <l xml:id="L65"><placeName ref="/ecfrasis.alexandre/vc341" type="enciclopedico">Egipto</placeName>, 
+                    <l xml:id="L65"><placeName ref="vc341" type="enciclopedico">Egipto</placeName>, 
                     do los fijos <caesura/>de Israel ixieron;</l>
-                    <l xml:id="L66">el <placeName ref="/ecfrasis.alexandre/vc614" type="enciclopedico">monte de Sinäi</placeName>, 
+                    <l xml:id="L66">el <placeName ref="vc614" type="enciclopedico">monte de Sinäi</placeName>, 
                     <caesura/>do la Lëy prisieron;</l>	
                     <l xml:id="L67">el desierto do muchos <caesura/>años estovïeron,</l>	
                     <l xml:id="L68">do muchas sorrostradas <caesura/>e porfaçio ovieron;</l>
@@ -295,12 +289,12 @@
                     <note type="motivo" target="/ecfrasis.alexandre/vc12" subtype="enciclopedico">Mapamundi</note>    
                     <note type="motivo" target="/ecfrasis.alexandre/vc553" subtype="religioso">Nuevo Testamento</note>   
                     <l xml:id="L69">la tierra de 
-                    <placeName ref="/ecfrasis.alexandre/vc615" type="enciclopedico">Judea</placeName>, 
+                    <placeName ref="vc615" type="enciclopedico">Judea</placeName>, 
                     <caesura/>que es mejor de todas,</l>
                     <l xml:id="L70">do con Santa Iglesia <caesura/>
-                    <persName ref="/ecfrasis.alexandre/vc630" type="religioso">Cristo</persName> fizo las bodas;</l>	
+                    <persName ref="vc630" type="religioso">Cristo</persName> fizo las bodas;</l>	
                     <l xml:id="L71">esta, con 
-                    <placeName ref="/ecfrasis.alexandre/vc616" type="enciclopedico">Palestina</placeName>, 
+                    <placeName ref="vc616" type="enciclopedico">Palestina</placeName>, 
                     <caesura/>deve atar las otras:</l>	
                     <l xml:id="L72">contra esta, las otras <caesura/>devién seer devotas.</l>
                 </lg>
@@ -308,11 +302,11 @@
                 <lg n="294" type="terástico" met="4x14" rhyme="AAAA" ana="#mapamundi">
                     <note type="motivo" target="/ecfrasis.alexandre/vc12" subtype="enciclopedico">Mapamundi</note>    
                     <l xml:id="L73">Otras ý ave muchas <caesura/>que 
-                    <term ref="/ecfrasis.alexandre/vc81" type="artistico">contar</term> non sabría;</l>
+                    <term ref="vc81" type="artistico">contar</term> non sabría;</l>
                     <l xml:id="L74">aunque lo sopïesse, <caesura/>nunca lo cumpliría,</l>	
                     <l xml:id="L75">ca serié grant 
-                    <term ref="/ecfrasis.alexandre/vc144" type="artistico">estoria</term> <caesura/>e luenga 
-                    <term ref="/ecfrasis.alexandre/vc555" type="artistico">ledanía</term>.</l>	
+                    <term ref="vc144" type="artistico">estoria</term> <caesura/>e luenga 
+                    <term ref="vc555" type="artistico">ledanía</term>.</l>	
                     <l xml:id="L76">Mas tornemos al curso <caesura/>mientra nos dura’l día.</l>
                 </lg>    
                 

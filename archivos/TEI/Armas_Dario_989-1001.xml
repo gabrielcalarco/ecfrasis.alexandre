@@ -7,7 +7,7 @@
             
             <titleStmt>
                 <title type="main">Libro de Alexandre</title>
-                <title type="sub" xml:id="armas_dario" ref="/ecfrasis.alexandre/vc698">
+                <title type="sub" xml:id="armas_dario" ref="vc698">
                 Armas de Darío</title>
                 <author ref="#ANM">Anónimo</author>
                 <editor xml:id="GAC">Gabriel A. Calarco</editor>
@@ -63,13 +63,7 @@
                 <language ident="sp">Castellano</language>
             </langUsage>
         </profileDesc>
-        
-        <revisionDesc>
-            <listChange>
-                <change/>
-            </listChange>
-        </revisionDesc>
-        
+
     </teiHeader>
     
     <text>
@@ -89,76 +83,76 @@
                 
                 
                  <lg n="989" type="terástico" met="4x14" rhyme="AAAA"> 
-                     <l xml:id="L1">Conviene que <term ref="/ecfrasis.alexandre/vc312" type="artistico">fablemos</term>, 
+                     <l xml:id="L1">Conviene que <term ref="vc312" type="artistico">fablemos</term>, 
                      <caesura/>entre las otras cosas,</l>		
-                     <l xml:id="L2">de las <term ref="/ecfrasis.alexandre/vc62" type="artistico">armas</term> 
-                     de <persName ref="/ecfrasis.alexandre/vc621" type="alexandre">Dario</persName>, 
-                     <caesura/>que fueron muy <term ref="/ecfrasis.alexandre/vc172" type="artistico">preçiosas</term>:</l>
-                     <l xml:id="L3">de <term ref="/ecfrasis.alexandre/vc26" type="artistico">obra</term> 
-                     eran <term ref="/ecfrasis.alexandre/vc178" type="artistico">firmes</term>, 
-                     <caesura/>de <term ref="/ecfrasis.alexandre/vc202" type="artistico">pareçer</term> 
-                     <term ref="/ecfrasis.alexandre/vc164" type="artistico">fermosas</term>,</l>		
-                     <l xml:id="L4">pora traer <term ref="/ecfrasis.alexandre/vc313" type="artistico">livianas</term>, 
-                     <caesura/>¡mas non bien <term ref="/ecfrasis.alexandre/vc314" type="artistico">venturosas</term>!</l>
+                     <l xml:id="L2">de las <term ref="vc62" type="artistico">armas</term> 
+                     de <persName ref="vc621" type="alexandre">Dario</persName>, 
+                     <caesura/>que fueron muy <term ref="vc172" type="artistico">preçiosas</term>:</l>
+                     <l xml:id="L3">de <term ref="vc26" type="artistico">obra</term> 
+                     eran <term ref="vc178" type="artistico">firmes</term>, 
+                     <caesura/>de <term ref="vc202" type="artistico">pareçer</term> 
+                     <term ref="vc164" type="artistico">fermosas</term>,</l>		
+                     <l xml:id="L4">pora traer <term ref="vc313" type="artistico">livianas</term>, 
+                     <caesura/>¡mas non bien <term ref="vc314" type="artistico">venturosas</term>!</l>
                  </lg>
                  <lg n="990" type="terástico" met="4x14" rhyme="AAAA" ana="#reyesdeoriente #torredebabel"> 
                      <note type="motivo" target="/ecfrasis.alexandre/vc316" subtype="religioso">Torre de Babel</note>   
-                     <l xml:id="L5">Avié en el <term ref="/ecfrasis.alexandre/vc98" type="artistico">escudo</term> 
-                     <caesura/>mucha <term ref="/ecfrasis.alexandre/vc177" type="artistico">bella</term> 
-                     <term ref="/ecfrasis.alexandre/vc144" type="artistico">estoria</term>,</l>		
-                     <l xml:id="L6">las <term ref="/ecfrasis.alexandre/vc148" type="artistico">gestas</term> 
+                     <l xml:id="L5">Avié en el <term ref="vc98" type="artistico">escudo</term> 
+                     <caesura/>mucha <term ref="vc177" type="artistico">bella</term> 
+                     <term ref="vc144" type="artistico">estoria</term>,</l>		
+                     <l xml:id="L6">las <term ref="vc148" type="artistico">gestas</term> 
                      que fizieron <caesura/>los 
-                     <term ref="/ecfrasis.alexandre/vc219" type="religioso">reys de 
-                     <placeName ref="/ecfrasis.alexandre/vc402" type="enciclopedico">Babilonia</placeName></term>.</l>	
-                     <l xml:id="L7">Yazié de los <term ref="/ecfrasis.alexandre/vc315" type="religioso">Gigantes</term> 
+                     <term ref="vc219" type="religioso">reys de 
+                     <placeName ref="vc402" type="enciclopedico">Babilonia</placeName></term>.</l>	
+                     <l xml:id="L7">Yazié de los <term ref="vc315" type="religioso">Gigantes</term> 
                      <caesura/>ý toda la memoria,</l>		
-                     <l xml:id="L8">quando de los <term ref="/ecfrasis.alexandre/vc317" type="religioso">lenguajes</term> 
+                     <l xml:id="L8">quando de los <term ref="vc317" type="religioso">lenguajes</term> 
                      <caesura/>prisieron la discordia.</l>
                  </lg>  
                 <lg n="991" type="terástico" met="4x14" rhyme="AAAA" ana="#reyesdeoriente"> 
                     <note type="motivo" target="/ecfrasis.alexandre/vc219" subtype="religioso">Reyes de Oriente</note>
                     <l xml:id="L9">Seyé del otro cabo <caesura/>el rëy de 
-                    <placeName ref="/ecfrasis.alexandre/vc611" type="enciclopedico">Caldea</placeName>,</l>
-                    <l xml:id="L10"><persName ref="/ecfrasis.alexandre/vc227" type="religioso">Nabucodonosor</persName>, 
+                    <placeName ref="vc611" type="enciclopedico">Caldea</placeName>,</l>
+                    <l xml:id="L10"><persName ref="vc227" type="religioso">Nabucodonosor</persName>, 
                     <caesura/>que conquiso 
-                    <placeName ref="/ecfrasis.alexandre/vc615" type="enciclopedico">Judea</placeName>;</l>		
+                    <placeName ref="vc615" type="enciclopedico">Judea</placeName>;</l>		
                     <l xml:id="L11">cuémo priso 
-                    <placeName ref="/ecfrasis.alexandre/vc622" type="enciclopedico">Sïon</placeName>, 
-                    <caesura/><placeName ref="/ecfrasis.alexandre/vc623" type="enciclopedico">Trípol</placeName> e 
-                    <placeName ref="/ecfrasis.alexandre/vc624" type="enciclopedico">Tabarea</placeName></l>
+                    <placeName ref="vc622" type="enciclopedico">Sïon</placeName>, 
+                    <caesura/><placeName ref="vc623" type="enciclopedico">Trípol</placeName> e 
+                    <placeName ref="vc624" type="enciclopedico">Tabarea</placeName></l>
                     <l xml:id="L12">e quántas ontas fizo <caesura/>sobre la gent’ebrea.</l>
                 </lg>
                 <lg n="992" type="terástico" met="4x14" rhyme="AAAA" ana="#reyesdeoriente"> 
                     <note type="motivo" target="/ecfrasis.alexandre/vc219" subtype="religioso">Reyes de Oriente</note>
                     <l xml:id="L13">Cuémo destruyó el templo <caesura/>en la 
-                    <placeName ref="/ecfrasis.alexandre/vc622" type="enciclopedico">Santa Çibdat</placeName>,</l>
+                    <placeName ref="vc622" type="enciclopedico">Santa Çibdat</placeName>,</l>
                      <l xml:id="L14">cuémo fueron los tribos <caesura/>en su cabtividat;</l>
                      <l xml:id="L15">cuémo sobre el rëy	<caesura/>fizo tal crüeldat,</l>	
                      <l xml:id="L16">que li sacó los ojos, <caesura/>ca assí fue verdat.</l>
                 </lg>
                 <lg n="993" type="terástico" met="4x14" rhyme="AAAA" ana="#reyesdeoriente"> 
-                     <l xml:id="L17">Por amor que las <term ref="/ecfrasis.alexandre/vc62" type="artistico">armas</term>	
-                     <caesura/>non fuessen <term ref="/ecfrasis.alexandre/vc179" type="artistico">mazelladas</term>,</l>
-                     <l xml:id="L18">unas <term ref="/ecfrasis.alexandre/vc144" type="artistico">estorias</term> 
-                     <term ref="/ecfrasis.alexandre/vc181" type="artistico">bueltas</term> 
-                     <caesura/>—non fuessen <term ref="/ecfrasis.alexandre/vc318" type="artistico">entecadas</term>—</l>	
-                     <l xml:id="L19">non quiso el <term ref="/ecfrasis.alexandre/vc3" type="artistico">maestro</term> 
-                     <caesura/>que fuessen ý <term ref="/ecfrasis.alexandre/vc27" type="artistico">pintadas</term>,</l>	
-                     <l xml:id="L20">ca serién las <term ref="/ecfrasis.alexandre/vc180" type="artistico">derechas</term> 
-                     <caesura/>por essas <term ref="/ecfrasis.alexandre/vc182" type="artistico">desfeadas</term>.</l>
+                     <l xml:id="L17">Por amor que las <term ref="vc62" type="artistico">armas</term>	
+                     <caesura/>non fuessen <term ref="vc179" type="artistico">mazelladas</term>,</l>
+                     <l xml:id="L18">unas <term ref="vc144" type="artistico">estorias</term> 
+                     <term ref="vc181" type="artistico">bueltas</term> 
+                     <caesura/>—non fuessen <term ref="vc318" type="artistico">entecadas</term>—</l>	
+                     <l xml:id="L19">non quiso el <term ref="vc3" type="artistico">maestro</term> 
+                     <caesura/>que fuessen ý <term ref="vc27" type="artistico">pintadas</term>,</l>	
+                     <l xml:id="L20">ca serién las <term ref="vc180" type="artistico">derechas</term> 
+                     <caesura/>por essas <term ref="vc182" type="artistico">desfeadas</term>.</l>
                 </lg>
                 <lg n="994" type="terástico" met="4x14" rhyme="AAAA" ana="#reyesdeoriente"> 
                     <note type="motivo" target="/ecfrasis.alexandre/vc219" subtype="religioso">Reyes de Oriente</note>
-                     <l xml:id="L21">Non lo vío por <term ref="/ecfrasis.alexandre/vc19" type="artistico">seso</term> 
-                     <caesura/>que fuesse ý <term ref="/ecfrasis.alexandre/vc37" type="artistico">metido</term></l>
-                    <l xml:id="L22"><persName ref="/ecfrasis.alexandre/vc227" type="religioso">Nabucodonosor</persName> 
+                     <l xml:id="L21">Non lo vío por <term ref="vc19" type="artistico">seso</term> 
+                     <caesura/>que fuesse ý <term ref="vc37" type="artistico">metido</term></l>
+                    <l xml:id="L22"><persName ref="vc227" type="religioso">Nabucodonosor</persName> 
                     <caesura/>cuémo fue enloquido,</l>
                      <l xml:id="L23">ca andido siet’años <caesura/>de memoria sallido,</l>
                      <l xml:id="L24">pero tornó en cabo <caesura/>en todo su sentido.</l>
                 </lg>
                 <lg n="995" type="terástico" met="4x14" rhyme="AAAA" ana="#reyesdeoriente">    
                     <note type="motivo" target="/ecfrasis.alexandre/vc219" subtype="religioso">Reyes de Oriente</note>
-                     <l xml:id="L25">Non quiso ý <term ref="/ecfrasis.alexandre/vc38" type="artistico">poner</term> 
+                     <l xml:id="L25">Non quiso ý <term ref="vc38" type="artistico">poner</term> 
                      <caesura/>al fijo perjurado</l>
                      <l xml:id="L26">que fue sobre su padre <caesura/>crudo e denodado;</l>
                      <l xml:id="L27">lo que peor li sovo, <caesura/>óvolo desmembrado,</l>		
@@ -167,27 +161,27 @@
                 <lg n="996" type="terástico" met="4x14" rhyme="AAAA" ana="#reyesdeoriente"> 
                     <note type="motivo" target="/ecfrasis.alexandre/vc219" subtype="religioso">Reyes de Oriente</note>
                      <l xml:id="L29">Mas en cabo estava <caesura/>
-                     <term ref="/ecfrasis.alexandre/vc18" type="artistico">sotilmente</term> 
-                     <term ref="/ecfrasis.alexandre/vc26" type="artistico">obrado</term></l>
+                     <term ref="vc18" type="artistico">sotilmente</term> 
+                     <term ref="vc26" type="artistico">obrado</term></l>
                     <l xml:id="L30">el buen regno de 
-                    <placeName ref="/ecfrasis.alexandre/vc608" type="enciclopedico">Persia</placeName> 
+                    <placeName ref="vc608" type="enciclopedico">Persia</placeName> 
                     <caesura/>cuémo fue empeçado:</l>
                      <l xml:id="L31">la mano que feziera <caesura/>el 
-                     <term ref="/ecfrasis.alexandre/vc168" type="artistico">obscuro</term> 
-                     <term ref="/ecfrasis.alexandre/vc75" type="artistico">ditado</term>,</l>	
-                    <l xml:id="L32">lo que don <persName ref="/ecfrasis.alexandre/vc625" type="religioso">Baltasar</persName> 
+                     <term ref="vc168" type="artistico">obscuro</term> 
+                     <term ref="vc75" type="artistico">ditado</term>,</l>	
+                    <l xml:id="L32">lo que don <persName ref="vc625" type="religioso">Baltasar</persName> 
                     <caesura/>ovo determinado.</l>
                 </lg>
                 <lg n="997" type="terástico" met="4x14" rhyme="AAAA" ana="#reyesdeoriente"> 
                     <note type="motivo" target="/ecfrasis.alexandre/vc219" subtype="religioso">Reyes de Oriente</note>
-                     <l xml:id="L33">La <term ref="/ecfrasis.alexandre/vc144" type="artistico">estoria</term> de 
-                     <persName ref="/ecfrasis.alexandre/vc228" type="religioso">Çiro</persName> 
+                     <l xml:id="L33">La <term ref="vc144" type="artistico">estoria</term> de 
+                     <persName ref="vc228" type="religioso">Çiro</persName> 
                      <caesura/>fue derredor echada,</l>
                      <l xml:id="L34">qué grant conquista fizo <caesura/>todo por su espada;</l>
-                     <l xml:id="L35">cuémo fue <term ref="/ecfrasis.alexandre/vc715" type="enciclopedico">
+                     <l xml:id="L35">cuémo fue <term ref="vc715" type="enciclopedico">
                      la compaña <caesura/>de 
-                     <placeName ref="/ecfrasis.alexandre/vc716" type="enciclopedico">Israel</placeName></term> quitada;</l>
-                    <l xml:id="L36"><persName ref="/ecfrasis.alexandre/vc626" type="religioso">Cresus</persName> 
+                     <placeName ref="vc716" type="enciclopedico">Israel</placeName></term> quitada;</l>
+                    <l xml:id="L36"><persName ref="vc626" type="religioso">Cresus</persName> 
                     en la su guerra <caesura/>cómo non ganó nada.</l>
                 </lg>
                 <lg n="998" type="terástico" met="4x14" rhyme="AAAA" ana="#reyesdeoriente"> 
@@ -206,7 +200,7 @@
                 </lg>
                 <lg n="1000" type="terástico" met="4x14" rhyme="AAAA" ana="#reyesdeoriente"> 
                     <note type="motivo" target="/ecfrasis.alexandre/vc219" subtype="religioso">Reyes de Oriente</note>
-                    <l xml:id="L45"><persName ref="/ecfrasis.alexandre/vc228" type="religioso">Çiro</persName> fue poderoso 
+                    <l xml:id="L45"><persName ref="vc228" type="religioso">Çiro</persName> fue poderoso 
                     <caesura/>en tierra e en mar;</l>
                      <l xml:id="L46">dioli Dios grant ventura, <caesura/>diol’ mucho a ganar,</l>
                      <l xml:id="L47">pero tod’ su ganançia <caesura/>no’l pudo emparar:</l>	

@@ -35,9 +35,7 @@
 
                 <xsl:template match="//title[2]">
                     <a> 
-                        <xsl:attribute name="href">
-                            <xsl:value-of select="@ref"/>
-                        </xsl:attribute>
+            <xsl:attribute name="href">/ecfrasis.alexandre/<xsl:value-of select="@ref"/></xsl:attribute>
                         <xsl:attribute name="target">blank</xsl:attribute>
                         <xsl:apply-templates/>
                     </a>
@@ -55,9 +53,7 @@
                 
                 <xsl:template match="//note[@type='motivo']">
                         <p class="motivo"> <a> 
-                            <xsl:attribute name="href">
-                            <xsl:value-of select="@target"/>
-                            </xsl:attribute>
+                <xsl:attribute name="href">/ecfrasis.alexandre/<xsl:value-of select="@ref"/></xsl:attribute>
                             <xsl:attribute name="target">blank</xsl:attribute>
                             <xsl:attribute name="class">
                                 <xsl:value-of select="@subtype"/>
@@ -82,9 +78,7 @@
     
     <xsl:template match="//term">
         <a> 
-            <xsl:attribute name="href">
-                <xsl:value-of select="@ref"/>
-            </xsl:attribute>
+            <xsl:attribute name="href">/ecfrasis.alexandre/<xsl:value-of select="@ref"/></xsl:attribute>
             <xsl:attribute name="target">blank</xsl:attribute>
             <xsl:attribute name="class">
                 <xsl:value-of select="@type"/>
@@ -96,9 +90,7 @@
 
     <xsl:template match="//placeName">
         <a> 
-            <xsl:attribute name="href">
-                <xsl:value-of select="@ref"/>
-            </xsl:attribute>
+            <xsl:attribute name="href">/ecfrasis.alexandre/<xsl:value-of select="@ref"/></xsl:attribute>
             <xsl:attribute name="target">blank</xsl:attribute>
             <xsl:attribute name="class">
                 <xsl:value-of select="@type"/>
@@ -110,9 +102,7 @@
     
     <xsl:template match="//persName">
         <a> 
-            <xsl:attribute name="href">
-                <xsl:value-of select="@ref"/>
-            </xsl:attribute>
+            <xsl:attribute name="href">/ecfrasis.alexandre/<xsl:value-of select="@ref"/></xsl:attribute>
             <xsl:attribute name="target">blank</xsl:attribute>
             <xsl:attribute name="class">
                 <xsl:value-of select="@type"/>

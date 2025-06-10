@@ -7,7 +7,7 @@
             
             <titleStmt>
                 <title type="main">Libro de Alexandre</title>
-                <title type="sub" xml:id="palacio_poro" ref="/ecfrasis.alexandre/vc700">Palacio de Poro</title>
+                <title type="sub" xml:id="palacio_poro" ref="vc700">Palacio de Poro</title>
                 <author ref="#ANM">Anónimo</author>
                 <editor xml:id="GAC">Gabriel A. Calarco</editor>
             </titleStmt>
@@ -58,13 +58,7 @@
                 <language ident="sp">Castellano</language>
             </langUsage>
         </profileDesc>
-        
-        <revisionDesc>
-            <listChange>
-                <change/>
-            </listChange>
-        </revisionDesc>
-        
+
     </teiHeader>
     
     <text>
@@ -85,125 +79,125 @@
  
 
                 <lg n="2119" type="terástico" met="4x14" rhyme="AAAA">
-                    <l xml:id="L1">La <term ref="/ecfrasis.alexandre/vc26" type="artistico">obra</term> 
-                    del <term ref="/ecfrasis.alexandre/vc700" type="artistico">palaçio</term> 
+                    <l xml:id="L1">La <term ref="vc26" type="artistico">obra</term> 
+                    del <term ref="vc700" type="artistico">palaçio</term> 
                     <caesura/>non es de olvidar,</l>
                     <l xml:id="L2">maguer non la podamos <caesura/>dignamente 
-                    <term ref="/ecfrasis.alexandre/vc81" type="artistico">contar</term>:</l>	
+                    <term ref="vc81" type="artistico">contar</term>:</l>	
                     <l xml:id="L3">por que mucho queramos <caesura/>la verdat 
-                    <term ref="/ecfrasis.alexandre/vc82" type="artistico">alabar</term>,</l>	
+                    <term ref="vc82" type="artistico">alabar</term>,</l>	
                     <l xml:id="L4">aún avrán por esso <caesura/>algunos a dubdar.</l>
                 </lg>
                 
                 <lg n="2120" type="terástico" met="4x14" rhyme="AAAA">
                     <note type="motivo" target="/ecfrasis.alexandre/vc278" subtype="enciclopedico">Animales</note>
                     <l xml:id="L5">El logar era plano, <caesura/>
-                    <term ref="/ecfrasis.alexandre/vc183" type="artistico">ricament’</term> assentado,</l>
+                    <term ref="vc183" type="artistico">ricament’</term> assentado,</l>
                     <l xml:id="L6" ana="#animales">avondado de caça, <caesura/>siquiere de 
-                    <term ref="/ecfrasis.alexandre/vc480" type="enciclopedico">venado</term>;</l>		
+                    <term ref="vc480" type="enciclopedico">venado</term>;</l>		
                     <l xml:id="L7" ana="#animales">las montañas bien çerca, <caesura/>do paçié el 
-                    <term ref="/ecfrasis.alexandre/vc586" type="enciclopedico">ganado</term>;</l>	
+                    <term ref="vc586" type="enciclopedico">ganado</term>;</l>	
                     <l xml:id="L8">verano e ivierno <caesura/>era logar temprado.</l>
                 </lg>
                 
                 <lg n="2121" type="terástico" met="4x14" rhyme="AAAA">
                     <l xml:id="L9">Fueron de buen 
-                    <term ref="/ecfrasis.alexandre/vc3" type="artistico">maestro</term> 
-                    <caesura/>los <term ref="/ecfrasis.alexandre/vc700" type="artistico">palaçios</term> 
-                    <term ref="/ecfrasis.alexandre/vc354" type="artistico">assentados</term>:</l>
-                    <l xml:id="L10">fueron <term ref="/ecfrasis.alexandre/vc3" type="artistico">maestramente</term> 
-                    <caesura/>a <term ref="/ecfrasis.alexandre/vc86" type="artistico">quadra</term> 
-                    <term ref="/ecfrasis.alexandre/vc40" type="artistico">compassados</term>;</l>	
+                    <term ref="vc3" type="artistico">maestro</term> 
+                    <caesura/>los <term ref="vc700" type="artistico">palaçios</term> 
+                    <term ref="vc354" type="artistico">assentados</term>:</l>
+                    <l xml:id="L10">fueron <term ref="vc3" type="artistico">maestramente</term> 
+                    <caesura/>a <term ref="vc86" type="artistico">quadra</term> 
+                    <term ref="vc40" type="artistico">compassados</term>;</l>	
                     <l xml:id="L11">en peña viva fueron <caesura/>los 
-                    <term ref="/ecfrasis.alexandre/vc116" type="artistico">çimientos</term> echados:</l>	
+                    <term ref="vc116" type="artistico">çimientos</term> echados:</l>	
                     <l xml:id="L12">por agua nin por fuego <caesura/>non serién 
-                    <term ref="/ecfrasis.alexandre/vc356" type="artistico">desatados</term>.</l>
+                    <term ref="vc356" type="artistico">desatados</term>.</l>
                 </lg>
                 
                 <lg n="2122" type="terástico" met="4x14" rhyme="AAAA">
                     <l xml:id="L13">Eran bien 
-                    <term ref="/ecfrasis.alexandre/vc41" type="artistico">enluzidas</term> 
-                    <caesura/>e <term ref="/ecfrasis.alexandre/vc178" type="artistico">firmes</term> 
-                    las <term ref="/ecfrasis.alexandre/vc117" type="artistico">paredes</term>;</l>
+                    <term ref="vc41" type="artistico">enluzidas</term> 
+                    <caesura/>e <term ref="vc178" type="artistico">firmes</term> 
+                    las <term ref="vc117" type="artistico">paredes</term>;</l>
                     <l xml:id="L14">non le ý fazién mengua <caesura/>
-                    <term ref="/ecfrasis.alexandre/vc386" type="artistico">sávanas</term> 
-                    nin <term ref="/ecfrasis.alexandre/vc387" type="artistico">tapedes</term>;</l>	
-                    <l xml:id="L15">el <term ref="/ecfrasis.alexandre/vc358" type="artistico">techo</term> 
-                    era <term ref="/ecfrasis.alexandre/vc359" type="artistico">pinto</term> 
-                    <caesura/>a <term ref="/ecfrasis.alexandre/vc360" type="artistico">lazos</term> 
-                    e a <term ref="/ecfrasis.alexandre/vc361" type="artistico">redes</term>,</l>		
-                    <l xml:id="L16">todo de <term ref="/ecfrasis.alexandre/vc150">oro</term> fino, 
+                    <term ref="vc386" type="artistico">sávanas</term> 
+                    nin <term ref="vc387" type="artistico">tapedes</term>;</l>	
+                    <l xml:id="L15">el <term ref="vc358" type="artistico">techo</term> 
+                    era <term ref="vc359" type="artistico">pinto</term> 
+                    <caesura/>a <term ref="vc360" type="artistico">lazos</term> 
+                    e a <term ref="vc361" type="artistico">redes</term>,</l>		
+                    <l xml:id="L16">todo de <term ref="vc150">oro</term> fino, 
                     <caesura/>como en Dios creedes.</l>
                 </lg>
                 
                 <lg n="2123" type="terástico" met="4x14" rhyme="AAAA">
-                    <l xml:id="L17">Las <term ref="/ecfrasis.alexandre/vc119" type="artistico">puertas</term> 
+                    <l xml:id="L17">Las <term ref="vc119" type="artistico">puertas</term> 
                     eran todas <caesura/>de 
-                    <term ref="/ecfrasis.alexandre/vc161" type="artistico">marfil</term> natural,</l>
-                    <l xml:id="L18">blancas e <term ref="/ecfrasis.alexandre/vc184" type="artistico">reluzientes</term> 
-                    <caesura/>como un fin’ <term ref="/ecfrasis.alexandre/vc158" type="enciclopedico">cristal</term>;</l>		
-                    <l xml:id="L19">los <term ref="/ecfrasis.alexandre/vc362" type="artistico">entalles</term>, 
-                    <term ref="/ecfrasis.alexandre/vc18" type="artistico">sotiles</term>; 
+                    <term ref="vc161" type="artistico">marfil</term> natural,</l>
+                    <l xml:id="L18">blancas e <term ref="vc184" type="artistico">reluzientes</term> 
+                    <caesura/>como un fin’ <term ref="vc158" type="enciclopedico">cristal</term>;</l>		
+                    <l xml:id="L19">los <term ref="vc362" type="artistico">entalles</term>, 
+                    <term ref="vc18" type="artistico">sotiles</term>; 
                     <caesura/>bien alto el poyal.</l>		
                     <l xml:id="L20">¡Casa era de rëy, <caesura/>mas bien era real!</l>
                 </lg>
                 
                 <lg n="2124" type="terástico" met="4x14" rhyme="AAAA">
-                    <l xml:id="L21">Quatroçientas <term ref="/ecfrasis.alexandre/vc118" type="artistico">colupnas</term> 
+                    <l xml:id="L21">Quatroçientas <term ref="vc118" type="artistico">colupnas</term> 
                     <caesura/>avié en essas casas,</l>
-                    <l xml:id="L22">todas de <term ref="/ecfrasis.alexandre/vc150" type="artistico">oro</term> 
-                    fino, <caesura/><term ref="/ecfrasis.alexandre/vc123" type="artistico">capiteles</term> e 
-                    <term ref="/ecfrasis.alexandre/vc115" type="artistico">basas</term>:</l>		
-                    <l xml:id="L23">non serién plus <term ref="/ecfrasis.alexandre/vc184" type="artistico">luzientes</term>, 
+                    <l xml:id="L22">todas de <term ref="vc150" type="artistico">oro</term> 
+                    fino, <caesura/><term ref="vc123" type="artistico">capiteles</term> e 
+                    <term ref="vc115" type="artistico">basas</term>:</l>		
+                    <l xml:id="L23">non serién plus <term ref="vc184" type="artistico">luzientes</term>, 
                     <caesura/>si fuessen bivas brasas,</l>
-                    <l xml:id="L24">ca eran bien <term ref="/ecfrasis.alexandre/vc42" type="artistico">broñidas</term>, 
-                    <caesura/>bien <term ref="/ecfrasis.alexandre/vc363" type="artistico">planas</term> 
-                    e bien <term ref="/ecfrasis.alexandre/vc186" type="artistico">rasas</term>.</l>
+                    <l xml:id="L24">ca eran bien <term ref="vc42" type="artistico">broñidas</term>, 
+                    <caesura/>bien <term ref="vc363" type="artistico">planas</term> 
+                    e bien <term ref="vc186" type="artistico">rasas</term>.</l>
                 </lg>
                 
                 <lg n="2125" type="terástico" met="4x14" rhyme="AAAA">
-                    <l xml:id="L25">Muchas eran las <term ref="/ecfrasis.alexandre/vc120" type="artistico">cámaras</term>, 
-                    <caesura/>todas con sus <term ref="/ecfrasis.alexandre/vc365" type="artistico">sobrados</term>;</l>
-                    <l xml:id="L26">de <term ref="/ecfrasis.alexandre/vc153" type="artistico">çiprés</term> 
-                    eran todos <caesura/>los <term ref="/ecfrasis.alexandre/vc366" type="artistico">maderos</term> 
-                    <term ref="/ecfrasis.alexandre/vc26" type="artistico">obrados</term>:</l>		
-                    <l xml:id="L27">eran tan <term ref="/ecfrasis.alexandre/vc18" type="artistico">sotilment’</term> 
-                    <caesura/>entre sí <term ref="/ecfrasis.alexandre/vc34" type="artistico">enlazados</term></l>		
-                    <l xml:id="L28"> que non <term ref="/ecfrasis.alexandre/vc367" type="artistico">entendié</term> 
-                    omne <caesura/><term ref="/ecfrasis.alexandre/vc368" type="artistico">dó eran empeçados</term>.</l>
+                    <l xml:id="L25">Muchas eran las <term ref="vc120" type="artistico">cámaras</term>, 
+                    <caesura/>todas con sus <term ref="vc365" type="artistico">sobrados</term>;</l>
+                    <l xml:id="L26">de <term ref="vc153" type="artistico">çiprés</term> 
+                    eran todos <caesura/>los <term ref="vc366" type="artistico">maderos</term> 
+                    <term ref="vc26" type="artistico">obrados</term>:</l>		
+                    <l xml:id="L27">eran tan <term ref="vc18" type="artistico">sotilment’</term> 
+                    <caesura/>entre sí <term ref="vc34" type="artistico">enlazados</term></l>		
+                    <l xml:id="L28"> que non <term ref="vc367" type="artistico">entendié</term> 
+                    omne <caesura/><term ref="vc368" type="artistico">dó eran empeçados</term>.</l>
                 </lg>
                 
                 <lg n="2126" type="terástico" met="4x14" rhyme="AAAA" ana="#vegetales">
                     <note type="motivo" target="/ecfrasis.alexandre/vc279" subtype="enciclopedico">Vegetales</note>
-                    <l xml:id="L29">Pendié de las <term ref="/ecfrasis.alexandre/vc118" type="artistico">colupnas</term> 
-                    <caesura/>derredor de la <term ref="/ecfrasis.alexandre/vc369" type="artistico">sala</term></l>
-                    <l xml:id="L30">una muy <term ref="/ecfrasis.alexandre/vc183" type="artistico">rica</term> 
-                    <term ref="/ecfrasis.alexandre/vc121" type="enciclopedico">viña</term> 
+                    <l xml:id="L29">Pendié de las <term ref="vc118" type="artistico">colupnas</term> 
+                    <caesura/>derredor de la <term ref="vc369" type="artistico">sala</term></l>
+                    <l xml:id="L30">una muy <term ref="vc183" type="artistico">rica</term> 
+                    <term ref="vc121" type="enciclopedico">viña</term> 
                     <caesura/>—de mejor non nos cala—:</l>	
-                    <l xml:id="L31">levava <term ref="/ecfrasis.alexandre/vc370" type="enciclopedico">fojas</term> 
-                    d’<term ref="/ecfrasis.alexandre/vc150" type="artistico">oro</term>, 
+                    <l xml:id="L31">levava <term ref="vc370" type="enciclopedico">fojas</term> 
+                    d’<term ref="vc150" type="artistico">oro</term>, 
                     <caesura/>grandes como la palma</l>	
                     <l xml:id="L32">—¡querría aver las mías <caesura/>tales, sí Dios me vala!—.</l>
                 </lg>
                 
                 <lg n="2127" type="terástico" met="4x14" rhyme="AAAA" ana="#vegetales">
                     <note type="motivo" target="/ecfrasis.alexandre/vc279" subtype="enciclopedico">Vegetales</note>
-                    <l xml:id="L33">Las <term ref="/ecfrasis.alexandre/vc292" type="enciclopedico">uvas</term> 
-                    de la <term ref="/ecfrasis.alexandre/vc121" type="enciclopedico">viña</term> 
-                    <caesura/>eran de grant <term ref="/ecfrasis.alexandre/vc372" type="artistico">femençia</term>:</l>
-                    <l xml:id="L34"><term ref="/ecfrasis.alexandre/vc157" type="artistico">piedras eran preçiosas</term>, 
+                    <l xml:id="L33">Las <term ref="vc292" type="enciclopedico">uvas</term> 
+                    de la <term ref="vc121" type="enciclopedico">viña</term> 
+                    <caesura/>eran de grant <term ref="vc372" type="artistico">femençia</term>:</l>
+                    <l xml:id="L34"><term ref="vc157" type="artistico">piedras eran preçiosas</term>, 
                     <caesura/>todas de grant potençia;</l>
                     <l xml:id="L35">toda la peor era <caesura/>de grant manifiçençia</l>		
                     <l xml:id="L36">—¡el que plantó la 
-                    <term ref="/ecfrasis.alexandre/vc121" type="enciclopedico">viña</term> 
-                    <caesura/>fue de grant <term ref="/ecfrasis.alexandre/vc373" type="artistico">sapïençia</term>!—.</l>
+                    <term ref="vc121" type="enciclopedico">viña</term> 
+                    <caesura/>fue de grant <term ref="vc373" type="artistico">sapïençia</term>!—.</l>
                 </lg>
                 
                 <lg n="2128" type="terástico" met="4x14" rhyme="AAAA" ana="#vegetales">
                     <note type="motivo" target="/ecfrasis.alexandre/vc279" subtype="enciclopedico">Vegetales</note>
-                    <l xml:id="L37">Como entre las <term ref="/ecfrasis.alexandre/vc292" type="enciclopedico">uvas</term> 
+                    <l xml:id="L37">Como entre las <term ref="vc292" type="enciclopedico">uvas</term> 
                     <caesura/>son diversas naturas,</l>
-                    <l xml:id="L38">assí eran las <term ref="/ecfrasis.alexandre/vc157" type="artistico">piedras</term> 
+                    <l xml:id="L38">assí eran las <term ref="vc157" type="artistico">piedras</term> 
                     <caesura/>de diversas figuras:</l>		
                     <l xml:id="L39">las unas eran verdes; <caesura/>las otras, bien maduras</l>	
                     <l xml:id="L40">—¡nunca les fizo mal <caesura/>gelo nin calenturas!—.</l>
@@ -212,177 +206,177 @@
                 <lg n="2129" type="terástico" met="4x14" rhyme="AAAA" ana="#vegetales">
                     <note type="motivo" target="/ecfrasis.alexandre/vc279" subtype="enciclopedico">Vegetales</note>
                     <l xml:id="L41">Allí trobarié omne <caesura/>las unas 
-                    <term ref="/ecfrasis.alexandre/vc374" type="enciclopedico">tardaniellas</term>;</l>
-                    <l xml:id="L42">las otras <term ref="/ecfrasis.alexandre/vc375" type="enciclopedico">migaruelas</term>, 
-                    <caesura/>que son más <term ref="/ecfrasis.alexandre/vc587" type="enciclopedico">tempraniellas</term>;</l>	
-                    <l xml:id="L43">las <term ref="/ecfrasis.alexandre/vc376" type="enciclopedico">blancas alfonsinas</term>, 
+                    <term ref="vc374" type="enciclopedico">tardaniellas</term>;</l>
+                    <l xml:id="L42">las otras <term ref="vc375" type="enciclopedico">migaruelas</term>, 
+                    <caesura/>que son más <term ref="vc587" type="enciclopedico">tempraniellas</term>;</l>	
+                    <l xml:id="L43">las <term ref="vc376" type="enciclopedico">blancas alfonsinas</term>, 
                     <caesura/>que tornan amariellas;</l>
-                    <l xml:id="L44">las <term ref="/ecfrasis.alexandre/vc377" type="enciclopedico">alfonsinas negras</term>, 
+                    <l xml:id="L44">las <term ref="vc377" type="enciclopedico">alfonsinas negras</term>, 
                     <caesura/>que son más cardeniellas.</l>
                 </lg>
                 
                 <lg n="2130" type="terástico" met="4x14" rhyme="AAAA" ana="#vegetales">
                     <note type="motivo" target="/ecfrasis.alexandre/vc279" subtype="enciclopedico">Vegetales</note>
-                    <l xml:id="L45">Las buenas <term ref="/ecfrasis.alexandre/vc378" type="enciclopedico">calagrañas</term>, 
+                    <l xml:id="L45">Las buenas <term ref="vc378" type="enciclopedico">calagrañas</term>, 
                     <caesura/>que se quieren alçar;</l>
-                    <l xml:id="L46">las otras <term ref="/ecfrasis.alexandre/vc379" type="enciclopedico">molejas</term>, 
+                    <l xml:id="L46">las otras <term ref="vc379" type="enciclopedico">molejas</term>, 
                     <caesura/>que fazen las viejas trotar;</l>	
-                    <l xml:id="L47">la <term ref="/ecfrasis.alexandre/vc380" type="enciclopedico">torrontés</term> umorosa, 
+                    <l xml:id="L47">la <term ref="vc380" type="enciclopedico">torrontés</term> umorosa, 
                     <caesura/>buena pora’l lagar;</l>			
                     <l xml:id="L48">quantas non podrié omne <caesura/>
-                    <term ref="/ecfrasis.alexandre/vc384" type="artistico">dezir</term> nin 
-                    <term ref="/ecfrasis.alexandre/vc385" type="artistico">agrimar</term>.</l>
+                    <term ref="vc384" type="artistico">dezir</term> nin 
+                    <term ref="vc385" type="artistico">agrimar</term>.</l>
                 </lg>
                 
                 <lg n="2131" type="terástico" met="4x14" rhyme="AAAA" ana="#vegetales">
                     <note type="motivo" target="/ecfrasis.alexandre/vc279" subtype="enciclopedico">Vegetales</note>
                     <l xml:id="L49">Dexémosvos la 
-                    <term ref="/ecfrasis.alexandre/vc121" type="enciclopedico">viña</term> 
-                    <caesura/>que era muy <term ref="/ecfrasis.alexandre/vc187" type="artistico">loçana</term>,</l>
+                    <term ref="vc121" type="enciclopedico">viña</term> 
+                    <caesura/>que era muy <term ref="vc187" type="artistico">loçana</term>,</l>
                     <l xml:id="L50">que levava vendimia <caesura/>tardana e temprana;</l>		
-                    <l xml:id="L51">digamos de un <term ref="/ecfrasis.alexandre/vc371" type="enciclopedico">árvol</term> 
-                    <caesura/>que sedié en la <term ref="/ecfrasis.alexandre/vc381" type="artistico">plaça</term>,</l>		
-                    <l xml:id="L52">que yazié ý <term ref="/ecfrasis.alexandre/vc183" type="artistico">riqueza</term> 
+                    <l xml:id="L51">digamos de un <term ref="vc371" type="enciclopedico">árvol</term> 
+                    <caesura/>que sedié en la <term ref="vc381" type="artistico">plaça</term>,</l>		
+                    <l xml:id="L52">que yazié ý <term ref="vc183" type="artistico">riqueza</term> 
                     <caesura/>fiera e adïana.</l>
                 </lg>
                
                 <lg n="2132" type="terástico" met="4x14" rhyme="AAAA" ana="#vegetales">
                     <note type="motivo" target="/ecfrasis.alexandre/vc279" subtype="enciclopedico">Vegetales</note>
-                    <l xml:id="L53">En medio del <term ref="/ecfrasis.alexandre/vc122" type="artistico">enclaustro</term>, 
+                    <l xml:id="L53">En medio del <term ref="vc122" type="artistico">enclaustro</term>, 
                     <caesura/>logar tan acabado,</l>
-                    <l xml:id="L54">sedié un <term ref="/ecfrasis.alexandre/vc183" type="artistico">rico</term> 
-                    <term ref="/ecfrasis.alexandre/vc371" type="enciclopedico">árvol</term> 
-                    <caesura/>en medio <term ref="/ecfrasis.alexandre/vc382" type="artistico">levantado</term>:</l>		
+                    <l xml:id="L54">sedié un <term ref="vc183" type="artistico">rico</term> 
+                    <term ref="vc371" type="enciclopedico">árvol</term> 
+                    <caesura/>en medio <term ref="vc382" type="artistico">levantado</term>:</l>		
                     <l xml:id="L55">nin era müy gruesso <caesura/>nin era muy delgado;</l>		
-                    <l xml:id="L56">de <term ref="/ecfrasis.alexandre/vc150" type="artistico">oro</term> 
-                    fino era, <caesura/><term ref="/ecfrasis.alexandre/vc18" type="artistico">sotilmente</term> 
-                    <term ref="/ecfrasis.alexandre/vc26" type="artistico">obrado</term>.</l>
+                    <l xml:id="L56">de <term ref="vc150" type="artistico">oro</term> 
+                    fino era, <caesura/><term ref="vc18" type="artistico">sotilmente</term> 
+                    <term ref="vc26" type="artistico">obrado</term>.</l>
                 </lg>
                 
                 <lg n="2133" type="terástico" met="4x14" rhyme="AAAA" ana="#animales">
                     <note type="motivo" target="/ecfrasis.alexandre/vc278" subtype="enciclopedico">Animales</note>
-                    <l xml:id="L57">Quantas <term ref="/ecfrasis.alexandre/vc282" type="enciclopedico">aves</term> 
-                    en çielo <caesura/>han <term ref="/ecfrasis.alexandre/vc135" type="artistico">vozes acordadas</term>,</l>
-                    <l xml:id="L58">que <term ref="/ecfrasis.alexandre/vc384" type="artistico">dizen</term> 
-                    <term ref="/ecfrasis.alexandre/vc136" type="artistico">cantos</term> 
-                    <term ref="/ecfrasis.alexandre/vc190" type="artistico">dulçes</term>, <caesura/>
-                    <term ref="/ecfrasis.alexandre/vc166" type="artistico">menudas</term> e 
-                    <term ref="/ecfrasis.alexandre/vc167" type="artistico">granadas</term>,</l>	
-                    <l xml:id="L59">todas en aquel <term ref="/ecfrasis.alexandre/vc371" type="enciclopedico">árvol</term> 
-                    <caesura/><term ref="/ecfrasis.alexandre/vc202" type="artistico">pareçién</term> tragitadas,</l>		
+                    <l xml:id="L57">Quantas <term ref="vc282" type="enciclopedico">aves</term> 
+                    en çielo <caesura/>han <term ref="vc135" type="artistico">vozes acordadas</term>,</l>
+                    <l xml:id="L58">que <term ref="vc384" type="artistico">dizen</term> 
+                    <term ref="vc136" type="artistico">cantos</term> 
+                    <term ref="vc190" type="artistico">dulçes</term>, <caesura/>
+                    <term ref="vc166" type="artistico">menudas</term> e 
+                    <term ref="vc167" type="artistico">granadas</term>,</l>	
+                    <l xml:id="L59">todas en aquel <term ref="vc371" type="enciclopedico">árvol</term> 
+                    <caesura/><term ref="vc202" type="artistico">pareçién</term> tragitadas,</l>		
                     <l xml:id="L60">cadauna por su natura, <caesura/>de 
-                    <term ref="/ecfrasis.alexandre/vc327" type="artistico">color</term> 
-                    <term ref="/ecfrasis.alexandre/vc303" type="artistico">devisadas</term>.</l>
+                    <term ref="vc327" type="artistico">color</term> 
+                    <term ref="vc303" type="artistico">devisadas</term>.</l>
                 </lg>
                 
                 <lg n="2134" type="terástico" met="4x14" rhyme="AAAA">
-                    <l xml:id="L61">Todos los <term ref="/ecfrasis.alexandre/vc87" type="artistico">instrumentes</term> 
-                    <caesura/>que usan los <term ref="/ecfrasis.alexandre/vc9" type="artistico">joglares</term>,</l>
-                    <l xml:id="L62">otros de mayor <term ref="/ecfrasis.alexandre/vc172" type="artistico">preçio</term> 
-                    <caesura/>que usan <term ref="/ecfrasis.alexandre/vc10" type="artistico">escolares</term>,</l>		
+                    <l xml:id="L61">Todos los <term ref="vc87" type="artistico">instrumentes</term> 
+                    <caesura/>que usan los <term ref="vc9" type="artistico">joglares</term>,</l>
+                    <l xml:id="L62">otros de mayor <term ref="vc172" type="artistico">preçio</term> 
+                    <caesura/>que usan <term ref="vc10" type="artistico">escolares</term>,</l>		
                     <l xml:id="L63">de todos avié ý <caesura/>tres o qüatro pares,</l>		
-                    <l xml:id="L64">todos bien <term ref="/ecfrasis.alexandre/vc54" type="artistico">atemprados</term> 
-                    <caesura/>por formar sos <term ref="/ecfrasis.alexandre/vc136" type="artistico">cantares</term>.</l>
+                    <l xml:id="L64">todos bien <term ref="vc54" type="artistico">atemprados</term> 
+                    <caesura/>por formar sos <term ref="vc136" type="artistico">cantares</term>.</l>
                 </lg>
                 
                 <lg n="2135" type="terástico" met="4x14" rhyme="AAAA">
-                    <l xml:id="L65">A la raíz del <term ref="/ecfrasis.alexandre/vc371" type="enciclopedico">árvol</term>, 
+                    <l xml:id="L65">A la raíz del <term ref="vc371" type="enciclopedico">árvol</term>, 
                     <caesura/>bien a quinze estados,</l>
                     <l xml:id="L66">vinién unos cañones <caesura/>que yazién soterrados:</l>	
-                    <l xml:id="L67">eran de <term ref="/ecfrasis.alexandre/vc162" type="artistico">cobre</term> 
-                    duro, <caesura/>por en esso <term ref="/ecfrasis.alexandre/vc30" type="artistico">lavrados</term>;</l>		
-                    <l xml:id="L68">todos eran en el <term ref="/ecfrasis.alexandre/vc371" type="enciclopedico">árvol</term> 
-                    <caesura/><term ref="/ecfrasis.alexandre/vc37" type="artistico">metidos</term> e 
-                    <term ref="/ecfrasis.alexandre/vc36" type="artistico">soldados</term>.</l>
+                    <l xml:id="L67">eran de <term ref="vc162" type="artistico">cobre</term> 
+                    duro, <caesura/>por en esso <term ref="vc30" type="artistico">lavrados</term>;</l>		
+                    <l xml:id="L68">todos eran en el <term ref="vc371" type="enciclopedico">árvol</term> 
+                    <caesura/><term ref="vc37" type="artistico">metidos</term> e 
+                    <term ref="vc36" type="artistico">soldados</term>.</l>
                 </lg>
                 
                 <lg n="2136" type="terástico" met="4x14" rhyme="AAAA" ana="#animales">
                     <note type="motivo" target="/ecfrasis.alexandre/vc278" subtype="enciclopedico">Animales</note>
                     <l xml:id="L69">Sollavan con bufetes <caesura/>en aquellos cañones;</l>
-                    <l xml:id="L70">luego dizién las <term ref="/ecfrasis.alexandre/vc282" type="enciclopedico">aves</term> 
-                    <caesura/>cadaúna sus <term ref="/ecfrasis.alexandre/vc137" type="artistico">sones</term>:</l>		
-                    <l xml:id="L71">los <term ref="/ecfrasis.alexandre/vc287" type="enciclopedico">gayos</term>, 
-                    las <term ref="/ecfrasis.alexandre/vc288" type="enciclopedico">calandrias</term>, 
-                    <caesura/><term ref="/ecfrasis.alexandre/vc289" type="enciclopedico">tordos</term> 
-                    e los <term ref="/ecfrasis.alexandre/vc290" type="enciclopedico">gaviones</term>;</l>		
-                    <l xml:id="L72">el <term ref="/ecfrasis.alexandre/vc291" type="enciclopedico">rossiñol</term>, 
-                    que diz’ <caesura/>las <term ref="/ecfrasis.alexandre/vc164" type="artistico">fermosas</term> 
-                    <term ref="/ecfrasis.alexandre/vc136" type="artistico">cançiones</term>.</l>
+                    <l xml:id="L70">luego dizién las <term ref="vc282" type="enciclopedico">aves</term> 
+                    <caesura/>cadaúna sus <term ref="vc137" type="artistico">sones</term>:</l>		
+                    <l xml:id="L71">los <term ref="vc287" type="enciclopedico">gayos</term>, 
+                    las <term ref="vc288" type="enciclopedico">calandrias</term>, 
+                    <caesura/><term ref="vc289" type="enciclopedico">tordos</term> 
+                    e los <term ref="vc290" type="enciclopedico">gaviones</term>;</l>		
+                    <l xml:id="L72">el <term ref="vc291" type="enciclopedico">rossiñol</term>, 
+                    que diz’ <caesura/>las <term ref="vc164" type="artistico">fermosas</term> 
+                    <term ref="vc136" type="artistico">cançiones</term>.</l>
                 </lg>
                 
                 <lg n="2137" type="terástico" met="4x14" rhyme="AAAA" ana="#animales">
                     <note type="motivo" target="/ecfrasis.alexandre/vc278" subtype="enciclopedico">Animales</note>
                     <l xml:id="L73">Luenga serié la conta <caesura/>de las 
-                    <term ref="/ecfrasis.alexandre/vc282" type="enciclopedico">aves</term> 
-                    <term ref="/ecfrasis.alexandre/vc81" type="artistico">contar</term></l>
+                    <term ref="vc282" type="enciclopedico">aves</term> 
+                    <term ref="vc81" type="artistico">contar</term></l>
                     <l xml:id="L74">—la noche va viniendo: <caesura/>quiérovos 
-                    <term ref="/ecfrasis.alexandre/vc79" type="artistico">destajar</term>—.</l>	
+                    <term ref="vc79" type="artistico">destajar</term>—.</l>	
                     <l xml:id="L75">¡Ya non sé quál quisiesse <caesura/>de las otras echar,</l>	
-                    <l xml:id="L76">qüando la <term ref="/ecfrasis.alexandre/vc286" type="enciclopedico">çigala</term> 
+                    <l xml:id="L76">qüando la <term ref="vc286" type="enciclopedico">çigala</term> 
                     <caesura/>non quiso olvidar!</l>
                 </lg>
                 
                 <lg n="2138" type="terástico" met="4x14" rhyme="AAAA">
-                    <l xml:id="L77"><term ref="/ecfrasis.alexandre/vc56" type="artistico">Volvién</term> 
-                    los <term ref="/ecfrasis.alexandre/vc87" type="artistico">estrumentes</term> 
-                    <caesura/>a <term ref="/ecfrasis.alexandre/vc56" type="artistico">buelta</term> 
-                    con las <term ref="/ecfrasis.alexandre/vc282" type="enciclopedico">aves</term>;</l>
-                    <l xml:id="L78"><term ref="/ecfrasis.alexandre/vc57" type="artistico">modulavan</term> 
-                    a çierto <caesura/>las <term ref="/ecfrasis.alexandre/vc88" type="artistico">cuerdas</term> 
-                    e las <term ref="/ecfrasis.alexandre/vc89" type="artistico">claves</term>:</l>	
-                    <l xml:id="L79"><term ref="/ecfrasis.alexandre/vc32" type="artistico">alçando</term> 
-                    e <term ref="/ecfrasis.alexandre/vc58" type="artistico">primiendo</term>, 
-                    <caesura/>fazién <term ref="/ecfrasis.alexandre/vc136" type="artistico">cantos</term> 
-                    <term ref="/ecfrasis.alexandre/vc191" type="artistico">süaves</term>,</l>		
-                    <l xml:id="L80">tales que pora <persName ref="/ecfrasis.alexandre/vc664" type="clasico">Orfeo</persName> 
-                    <caesura/>de <term ref="/ecfrasis.alexandre/vc39" type="artistico">formar</term> serién graves.</l>
+                    <l xml:id="L77"><term ref="vc56" type="artistico">Volvién</term> 
+                    los <term ref="vc87" type="artistico">estrumentes</term> 
+                    <caesura/>a <term ref="vc56" type="artistico">buelta</term> 
+                    con las <term ref="vc282" type="enciclopedico">aves</term>;</l>
+                    <l xml:id="L78"><term ref="vc57" type="artistico">modulavan</term> 
+                    a çierto <caesura/>las <term ref="vc88" type="artistico">cuerdas</term> 
+                    e las <term ref="vc89" type="artistico">claves</term>:</l>	
+                    <l xml:id="L79"><term ref="vc32" type="artistico">alçando</term> 
+                    e <term ref="vc58" type="artistico">primiendo</term>, 
+                    <caesura/>fazién <term ref="vc136" type="artistico">cantos</term> 
+                    <term ref="vc191" type="artistico">süaves</term>,</l>		
+                    <l xml:id="L80">tales que pora <persName ref="vc664" type="clasico">Orfeo</persName> 
+                    <caesura/>de <term ref="vc39" type="artistico">formar</term> serién graves.</l>
                 </lg>
                 
                 <lg n="2139" type="terástico" met="4x14" rhyme="AAAA">
-                    <l xml:id="L81">Allí era la <term ref="/ecfrasis.alexandre/vc134" type="artistico">música</term> 
-                    <caesura/><term ref="/ecfrasis.alexandre/vc55" type="artistico">cantada</term> 
-                    por <term ref="/ecfrasis.alexandre/vc389" type="artistico">razón</term>:</l>
-                    <l xml:id="L82">las <term ref="/ecfrasis.alexandre/vc190" type="artistico">dulçes</term> 
-                    <term ref="/ecfrasis.alexandre/vc138" type="artistico">deballadas</term>, 
-                    <caesura/>el <term ref="/ecfrasis.alexandre/vc193" type="artistico">plorant’</term> 
-                    <term ref="/ecfrasis.alexandre/vc139" type="artistico">semitón’</term>,</l>		
-                    <l xml:id="L83">las <term ref="/ecfrasis.alexandre/vc140" type="artistico">doblas</term>, 
+                    <l xml:id="L81">Allí era la <term ref="vc134" type="artistico">música</term> 
+                    <caesura/><term ref="vc55" type="artistico">cantada</term> 
+                    por <term ref="vc389" type="artistico">razón</term>:</l>
+                    <l xml:id="L82">las <term ref="vc190" type="artistico">dulçes</term> 
+                    <term ref="vc138" type="artistico">deballadas</term>, 
+                    <caesura/>el <term ref="vc193" type="artistico">plorant’</term> 
+                    <term ref="vc139" type="artistico">semitón’</term>,</l>		
+                    <l xml:id="L83">las <term ref="vc140" type="artistico">doblas</term>, 
                     que refieren <caesura/>cuitas del coraçón,</l>	 
-                    <l xml:id="L84">bien podién tirar <term ref="/ecfrasis.alexandre/vc172" type="artistico">preçio</term> 
-                    <caesura/>a una <term ref="/ecfrasis.alexandre/vc535" type="artistico">prosiçïón</term>.</l>
+                    <l xml:id="L84">bien podién tirar <term ref="vc172" type="artistico">preçio</term> 
+                    <caesura/>a una <term ref="vc535" type="artistico">prosiçïón</term>.</l>
                 </lg>
                 
                 <lg n="2140" type="terástico" met="4x14" rhyme="AAAA">
                     <l xml:id="L85">Non es en el mundo <caesura/>omne tan 
-                    <term ref="/ecfrasis.alexandre/vc383" type="artistico">sabidor</term></l>
-                    <l xml:id="L86">que <term ref="/ecfrasis.alexandre/vc384" type="artistico">dezirvos</term> 
-                    pudiesse <caesura/>quál era la <term ref="/ecfrasis.alexandre/vc190" type="artistico">dulçor</term>:</l>		
+                    <term ref="vc383" type="artistico">sabidor</term></l>
+                    <l xml:id="L86">que <term ref="vc384" type="artistico">dezirvos</term> 
+                    pudiesse <caesura/>quál era la <term ref="vc190" type="artistico">dulçor</term>:</l>		
                     <l xml:id="L87">¡mientre omne viviesse <caesura/>en aquella sabor</l>	
                     <l xml:id="L88">non avrié set nin fambre, <caesura/>nin ira nin dolor!</l>
                 </lg>
                 
                 <lg n="2141" type="terástico" met="4x14" rhyme="AAAA">
                     <l xml:id="L89">Podédesvos por otra <caesura/>cosa 
-                    <term ref="/ecfrasis.alexandre/vc199" type="artistico">maravillar</term>:</l>
-                    <l xml:id="L90">si quisiesse, las <term ref="/ecfrasis.alexandre/vc141" type="artistico">medias</term> 
-                    <caesura/>solas farié <term ref="/ecfrasis.alexandre/vc55" type="artistico">cantar</term>;</l>	
-                    <l xml:id="L91"> si quisiesse, la <term ref="/ecfrasis.alexandre/vc142" type="artistico">terçia</term>; 
-                    <caesura/>si quisiesse, un <term ref="/ecfrasis.alexandre/vc143" type="artistico">par</term>.</l>		
-                    <l xml:id="L92">¡<term ref="/ecfrasis.alexandre/vc18" type="artistico">Sotil</term> fue el 
-                    <term ref="/ecfrasis.alexandre/vc3" type="artistico">maestro</term> <caesura/>que lo sopo 
-                    <term ref="/ecfrasis.alexandre/vc30" type="artistico">lavrar</term>!</l>
+                    <term ref="vc199" type="artistico">maravillar</term>:</l>
+                    <l xml:id="L90">si quisiesse, las <term ref="vc141" type="artistico">medias</term> 
+                    <caesura/>solas farié <term ref="vc55" type="artistico">cantar</term>;</l>	
+                    <l xml:id="L91"> si quisiesse, la <term ref="vc142" type="artistico">terçia</term>; 
+                    <caesura/>si quisiesse, un <term ref="vc143" type="artistico">par</term>.</l>		
+                    <l xml:id="L92">¡<term ref="vc18" type="artistico">Sotil</term> fue el 
+                    <term ref="vc3" type="artistico">maestro</term> <caesura/>que lo sopo 
+                    <term ref="vc30" type="artistico">lavrar</term>!</l>
                 </lg>
                 
                 <lg n="2142" type="terástico" met="4x14" rhyme="AAAA">
-                    <l xml:id="L93">Óvolo <persName ref="/ecfrasis.alexandre/vc618" type="alexandre">Alexandre</persName> 
-                    <caesura/>por fiera <term ref="/ecfrasis.alexandre/vc195" type="artistico">estrañeza</term>:</l>
-                    <l xml:id="L94">dixo que nunca <term ref="/ecfrasis.alexandre/vc198" type="artistico">viera</term> 
-                    <caesura/>tan <term ref="/ecfrasis.alexandre/vc195" type="artistico">estraña</term> 
-                    <term ref="/ecfrasis.alexandre/vc183" type="artistico">riqueza</term>.</l>		
+                    <l xml:id="L93">Óvolo <persName ref="vc618" type="alexandre">Alexandre</persName> 
+                    <caesura/>por fiera <term ref="vc195" type="artistico">estrañeza</term>:</l>
+                    <l xml:id="L94">dixo que nunca <term ref="vc198" type="artistico">viera</term> 
+                    <caesura/>tan <term ref="vc195" type="artistico">estraña</term> 
+                    <term ref="vc183" type="artistico">riqueza</term>.</l>		
                     <l xml:id="L95">Todos tenién que era <caesura/>muy 
-                    <term ref="/ecfrasis.alexandre/vc194" type="artistico">adapte nobleza</term>:</l>		
-                    <l xml:id="L96">nunca avién <term ref="/ecfrasis.alexandre/vc204" type="artistico">oído</term> 
-                    <caesura/>de tan <term ref="/ecfrasis.alexandre/vc194" type="artistico">noble alteza</term>.</l>
+                    <term ref="vc194" type="artistico">adapte nobleza</term>:</l>		
+                    <l xml:id="L96">nunca avién <term ref="vc204" type="artistico">oído</term> 
+                    <caesura/>de tan <term ref="vc194" type="artistico">noble alteza</term>.</l>
                 </lg>
                 
                 
