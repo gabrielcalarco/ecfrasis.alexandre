@@ -1,25 +1,14 @@
-source "https://rubygems.org"
-gemspec
-gem "kramdown-parser-gfm"
+# frozen_string_literal: true
 
-gem "webrick", "~> 1.8"
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
-#
-#     bundle exec jekyll serve
-#
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
-gem "jekyll", "~> 4.0.0"
+source 'https://rubygems.org'
 
-# Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
-# and associated library.
-install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
-  gem "tzinfo", "~> 1.2"
-  gem "tzinfo-data"
+unless Gem.win_platform?
+  gem 'image_optim'
+  gem 'image_optim_pack'
 end
+gem 'csv'
+gem 'jekyll'
+gem 'mini_magick'
+gem 'rake'
 
-# Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
-
+gem 'webrick', '~> 1.7'
