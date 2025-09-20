@@ -34,8 +34,6 @@ include:
 collections:
     textosalex:
       output: true
-    pages:
-      output: true
     vocabctrl:
       output: true
     investigacion:
