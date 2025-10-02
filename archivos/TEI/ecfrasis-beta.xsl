@@ -78,7 +78,7 @@
     
     <xsl:template match="//term">
         <a> 
-            <xsl:attribute name="href">/ecfrasis.alexandre/<xsl:value-of select="@ref"/></xsl:attribute>
+            <xsl:attribute name="href">/ecfrasis.alexandre/<xsl:value-of select="@key"/></xsl:attribute>
             <xsl:attribute name="target">blank</xsl:attribute>
             <xsl:attribute name="class">
                 <xsl:value-of select="@type"/>
@@ -90,7 +90,7 @@
 
     <xsl:template match="//placeName">
         <a> 
-            <xsl:attribute name="href">/ecfrasis.alexandre/<xsl:value-of select="@ref"/></xsl:attribute>
+            <xsl:attribute name="href">/ecfrasis.alexandre/<xsl:value-of select="@key"/></xsl:attribute>
             <xsl:attribute name="target">blank</xsl:attribute>
             <xsl:attribute name="class">
                 <xsl:value-of select="@type"/>
@@ -102,7 +102,7 @@
     
     <xsl:template match="//persName">
         <a> 
-            <xsl:attribute name="href">/ecfrasis.alexandre/<xsl:value-of select="@ref"/></xsl:attribute>
+            <xsl:attribute name="href">/ecfrasis.alexandre/<xsl:value-of select="@key"/></xsl:attribute>
             <xsl:attribute name="target">blank</xsl:attribute>
             <xsl:attribute name="class">
                 <xsl:value-of select="@type"/>
