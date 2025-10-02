@@ -7,7 +7,7 @@
             
             <titleStmt>
                 <title type="main">Libro de Alexandre</title>
-                <title type="sub" xml:id="desc_babilon" ref="vc402">Descripción del Babilonia</title>
+                <title type="sub" xml:id="desc_babilon" key="vc402">Descripción del Babilonia</title>
                 <author ref="#ANM">Anónimo</author>
                 <editor xml:id="GAC">Gabriel A. Calarco</editor>
             </titleStmt>
@@ -87,12 +87,12 @@
                 <lg n="1460" type="terástico" met="4x14" rhyme="AAAA">
                     <l xml:id="L1">Quïérovos un poco <caesura/>todo lo ál dexar;</l>
                     <l xml:id="L2">del pleito de 
-                    <placeName ref="vc402" type="enciclopedico">Babiloña</placeName> 
-                    <caesura/>vos quïero <term ref="vc81" type="artistico">contar</term>:</l>	
+                    <placeName key="vc402" type="enciclopedico">Babiloña</placeName> 
+                    <caesura/>vos quïero <term key="vc81" type="artistico">contar</term>:</l>	
                     <l xml:id="L3">cuémo yaz’assentada <caesura/>en tan noble logar,</l>	
                     <l xml:id="L4">cuémo es abondada <caesura/>de 
-                    <term ref="vc231" type="enciclopedico">ríos</term> e de 
-                    <term ref="vc230" type="enciclopedico">mar</term>.</l>
+                    <term key="vc231" type="enciclopedico">ríos</term> e de 
+                    <term key="vc230" type="enciclopedico">mar</term>.</l>
                 </lg>
                 
                 <lg n="1461" type="terástico" met="4x14" rhyme="AAAA">
@@ -108,31 +108,31 @@
                     <l xml:id="L10">passan los mançebillos <caesura/>en dulçor su juventa;</l>	
                     <l xml:id="L11">el viejo la cabeça <caesura/>non la ave tremolienta.</l>	
                     <l xml:id="L12" ana="#especias">En ella son los 
-                    <term ref="vc371" type="enciclopedico">árboles</term> <caesura/>
-                    que llevan la <term ref="vc433" type="enciclopedico">pimienta</term>;</l>
+                    <term key="vc371" type="enciclopedico">árboles</term> <caesura/>
+                    que llevan la <term key="vc433" type="enciclopedico">pimienta</term>;</l>
                 </lg>
             
                 <lg n="1463" type="terástico" met="4x14" rhyme="AAAA" ana="#especias">
                     <note type="motivo" target="/ecfrasis.alexandre/vc432" subtype="enciclopedico">Especias</note>
-                    <l xml:id="L13">allí son las <term ref="vc432" type="enciclopedico">espeçias</term>: 
-                    <caesura/>el puro <term ref="vc434" type="enciclopedico">garengal</term>,</l>
-                    <l xml:id="L14"><term ref="vc435" type="enciclopedico">canela</term> e 
-                    <term ref="vc436" type="enciclopedico">gengibre</term>, <caesura/>
-                    <term ref="vc437" type="enciclopedico">clavos</term> e 
-                    <term ref="vc438" type="enciclopedico">çetüal</term>,</l>		
-                    <l xml:id="L15"><term ref="vc439" type="enciclopedico">ençéns’</term>e 
-                    <term ref="vc440" type="enciclopedico">çinamomo</term>, <caesura/>
-                    <term ref="vc441" type="enciclopedico">bálsamo</term> que más 
-                    <term ref="vc173">val’</term>;</l>	
-                    <l xml:id="L16"><term ref="vc442" type="enciclopedico">girofe</term> e 
-                    <term ref="vc443" type="enciclopedico">nuez moscada</term> <caesura/>e 
-                    <term ref="vc444" type="enciclopedico">nardo</term> natural.</l>
+                    <l xml:id="L13">allí son las <term key="vc432" type="enciclopedico">espeçias</term>: 
+                    <caesura/>el puro <term key="vc434" type="enciclopedico">garengal</term>,</l>
+                    <l xml:id="L14"><term key="vc435" type="enciclopedico">canela</term> e 
+                    <term key="vc436" type="enciclopedico">gengibre</term>, <caesura/>
+                    <term key="vc437" type="enciclopedico">clavos</term> e 
+                    <term key="vc438" type="enciclopedico">çetüal</term>,</l>		
+                    <l xml:id="L15"><term key="vc439" type="enciclopedico">ençéns’</term>e 
+                    <term key="vc440" type="enciclopedico">çinamomo</term>, <caesura/>
+                    <term key="vc441" type="enciclopedico">bálsamo</term> que más 
+                    <term key="vc173">val’</term>;</l>	
+                    <l xml:id="L16"><term key="vc442" type="enciclopedico">girofe</term> e 
+                    <term key="vc443" type="enciclopedico">nuez moscada</term> <caesura/>e 
+                    <term key="vc444" type="enciclopedico">nardo</term> natural.</l>
                 </lg>
             
                 <lg n="1464" type="terástico" met="4x14" rhyme="AAAA" ana="#especias">
                     <note type="motivo" target="/ecfrasis.alexandre/vc432" subtype="enciclopedico">Especias</note>
                     <l xml:id="L17">De sí mismos, los 
-                    <term ref="vc371" type="enciclopedico">árvoles</term> 
+                    <term key="vc371" type="enciclopedico">árvoles</term> 
                     <caesura/>tanto han buen olor</l>
                     <l xml:id="L18">que non avrié ant’ellos <caesura/>fuerça ningún dolor.</l>	
                     <l xml:id="L19">Por esso son los ombres <caesura/>de muy buena color:</l>	
@@ -141,17 +141,17 @@
             
                 <lg n="1465" type="terástico" met="4x14" rhyme="AAAA" ana="#especias">
                     <note type="motivo" target="/ecfrasis.alexandre/vc432" subtype="enciclopedico">Especias</note>
-                    <l xml:id="L21">Los quatro <term ref="vc231" type="enciclopedico">ríos</term> 
+                    <l xml:id="L21">Los quatro <term key="vc231" type="enciclopedico">ríos</term> 
                     santos <caesura/>todos los ha vezinos</l>
                     <l xml:id="L22">—dizen que los dos fazen <caesura/>por ella sus caminos—.</l>
-                    <l xml:id="L23">Muelen solas <term ref="vc432" type="enciclopedico">espeçias</term> 
-                    <caesura/>más de quatro <term ref="vc583" type="enciclopedico">molinos</term>;</l>
-                    <l xml:id="L24">más quatro muelen <term ref="vc445" type="enciclopedico">pebre</term> 
-                    <caesura/>e más quatro, <term ref="vc446" type="enciclopedico">cominos</term>.</l>
+                    <l xml:id="L23">Muelen solas <term key="vc432" type="enciclopedico">espeçias</term> 
+                    <caesura/>más de quatro <term key="vc583" type="enciclopedico">molinos</term>;</l>
+                    <l xml:id="L24">más quatro muelen <term key="vc445" type="enciclopedico">pebre</term> 
+                    <caesura/>e más quatro, <term key="vc446" type="enciclopedico">cominos</term>.</l>
                 </lg>
             
                 <lg n="1466" type="terástico" met="4x14" rhyme="AAAA">
-                    <l xml:id="L25">De ruedas de <term ref="vc583" type="enciclopedico">molinos</term> 
+                    <l xml:id="L25">De ruedas de <term key="vc583" type="enciclopedico">molinos</term> 
                     <caesura/>que muelen las çiveras</l>
                     <l xml:id="L26">e de ricas azeñas <caesura/>que las dizen traperas</l>		
                     <l xml:id="L27">avié grant abondança <caesura/>por todas las riberas;</l>		
@@ -160,22 +160,22 @@
             
                 <lg n="1467" type="terástico" met="4x14" rhyme="AAAA" ana="#animales">
                     <note type="motivo" target="/ecfrasis.alexandre/vc278" subtype="enciclopedico">Animales</note>
-                    <l xml:id="L29">Rica es de <term ref="vc281" type="enciclopedico">pescados</term> 
-                    <caesura/>de <term ref="vc231" type="enciclopedico">ríos</term> e de 
-                    <term ref="vc230" type="enciclopedico">mar</term></l>
+                    <l xml:id="L29">Rica es de <term key="vc281" type="enciclopedico">pescados</term> 
+                    <caesura/>de <term key="vc231" type="enciclopedico">ríos</term> e de 
+                    <term key="vc230" type="enciclopedico">mar</term></l>
                     <l xml:id="L30">—siempre los fallan frescos, <caesura/>non los quieren salar—,</l>
                     <l xml:id="L31">non d’unos, mas de quantos <caesura/>omnes podrién asmar.</l>	
-                    <l xml:id="L32">Son las <term ref="vc229" type="enciclopedico">aguas</term> 
-                    muy sanas <caesura/>pora <term ref="vc284" type="enciclopedico">bestias</term> 
+                    <l xml:id="L32">Son las <term key="vc229" type="enciclopedico">aguas</term> 
+                    muy sanas <caesura/>pora <term key="vc284" type="enciclopedico">bestias</term> 
                     abevrar.</l>
                 </lg>
             
                 <lg n="1468" type="terástico" met="4x14" rhyme="AAAA" ana="#piedras_preciosas">
                     <note type="motivo" target="/ecfrasis.alexandre/vc157" subtype="enciclopedico">Piedras preciosas</note>
-                    <l xml:id="L33">Han essas santas <term ref="vc229" type="enciclopedico">aguas</term> 
+                    <l xml:id="L33">Han essas santas <term key="vc229" type="enciclopedico">aguas</term> 
                     <caesura/>otra mejor costumbre:</l>
                     <l xml:id="L34">de 
-                    <term ref="vc157" type="enciclopedico">piedras de grant preçio</term> 
+                    <term key="vc157" type="enciclopedico">piedras de grant preçio</term> 
                     <caesura/>han una muchedumbre;</l>
                     <l xml:id="L35">unas que dan de noche <caesura/>a luenga tierra lumbre;</l>
                     <l xml:id="L36">otras que dan al flaco <caesura/>salut e fermidumbre.</l>
@@ -183,49 +183,49 @@
             
                 <lg n="1469" type="terástico" met="4x14" rhyme="AAAA" ana="#piedras_preciosas">
                     <note type="motivo" target="/ecfrasis.alexandre/vc157" subtype="enciclopedico">Piedras preciosas</note>
-                    <l xml:id="L37">El <term ref="vc447" type="enciclopedico">esmaragdo verde</term> 
+                    <l xml:id="L37">El <term key="vc447" type="enciclopedico">esmaragdo verde</term> 
                     <caesura/>allí suele seer,</l>
                     <l xml:id="L38">más claro que espejo <caesura/>por ombre se veer;</l>		
-                    <l xml:id="L39">el <term ref="vc448" type="enciclopedico">jaspis</term>, 
+                    <l xml:id="L39">el <term key="vc448" type="enciclopedico">jaspis</term>, 
                     que es bueno <caesura/>por omne lo traer:</l>	
                     <l xml:id="L40">no’l pueden a qui lo trae <caesura/>yervas empeeçer.</l>
                 </lg>
             
                 <lg n="1470" type="terástico" met="4x14" rhyme="AAAA" ana="#piedras_preciosas">
                     <note type="motivo" target="/ecfrasis.alexandre/vc157" subtype="enciclopedico">Piedras preciosas</note>
-                    <l xml:id="L41">Allí son las <term ref="vc449" type="enciclopedico">gagantes</term>, 
+                    <l xml:id="L41">Allí son las <term key="vc449" type="enciclopedico">gagantes</term>, 
                     <caesura/>por natura ardientes,</l>
                     <l xml:id="L42">que sacan los demonios, <caesura/>segudan las sirpientes;</l>
-                    <l xml:id="L43">los <term ref="vc450" type="enciclopedico">magnetes</term>, 
+                    <l xml:id="L43">los <term key="vc450" type="enciclopedico">magnetes</term>, 
                     que son <caesura/>unas piedras valientes</l>	
                     <l xml:id="L44">—estos tiran el fierro, <caesura/>si les metierdes mientes—.</l>
                 </lg>
             
                 <lg n="1471" type="terástico" met="4x14" rhyme="AAAA" ana="#piedras_preciosas">
                     <note type="motivo" target="/ecfrasis.alexandre/vc157" subtype="enciclopedico">Piedras preciosas</note>
-                    <l xml:id="L45"><term ref="vc451" type="enciclopedico">Adamant’</term>, 
+                    <l xml:id="L45"><term key="vc451" type="enciclopedico">Adamant’</term>, 
                     en que fierro <caesura/>nunca fizo señal,</l>
                     <l xml:id="L46">con sangre de cabrito <caesura/>fiéndese, non con ál;</l>		
-                    <l xml:id="L47"><term ref="vc452" type="enciclopedico">estopaçion</term>, 
+                    <l xml:id="L47"><term key="vc452" type="enciclopedico">estopaçion</term>, 
                     que es <caesura/>de color comunal,</l>		
                     <l xml:id="L48">qual color tien’açerca, <caesura/>torna ella en tal.</l>
                 </lg>
             
                 <lg n="1472" type="terástico" met="4x14" rhyme="AAAA" ana="#piedras_preciosas">
                     <note type="motivo" target="/ecfrasis.alexandre/vc157" subtype="enciclopedico">Piedras preciosas</note>
-                    <l xml:id="L49">Allí han la <term ref="vc453" type="enciclopedico">galaica</term>, 
+                    <l xml:id="L49">Allí han la <term key="vc453" type="enciclopedico">galaica</term>, 
                     <caesura/>assaz de buen mercado:</l>
                     <l xml:id="L50">esta tiene al omne <caesura/>alegre e pagado.</l>		
                     <l xml:id="L51">Es en essa ribera <caesura/>el 
-                    <term ref="vc454" type="enciclopedico">melozio</term> trobado,</l>		
+                    <term key="vc454" type="enciclopedico">melozio</term> trobado,</l>		
                     <l xml:id="L52">que por descobrir furtos <caesura/>es muy bueno provado.</l>
                 </lg>
             
                 <lg n="1473" type="terástico" met="4x14" rhyme="AAAA" ana="#piedras_preciosas">
                     <note type="motivo" target="/ecfrasis.alexandre/vc157" subtype="enciclopedico">Piedras preciosas</note>
-                    <l xml:id="L53">La piedra <term ref="vc455" type="enciclopedico">elitropia</term> 
+                    <l xml:id="L53">La piedra <term key="vc455" type="enciclopedico">elitropia</term> 
                     <caesura/>allí suele naçer;</l>
-                    <l xml:id="L54">esta es de grant <term ref="vc172" type="artistico">preçio</term> 
+                    <l xml:id="L54">esta es de grant <term key="vc172" type="artistico">preçio</term> 
                     <caesura/>—¡quí la podiés’aver!—:</l>
                     <l xml:id="L55">esta faz’a la Luna <caesura/>la claredat perder;</l>		
                     <l xml:id="L56">¡al omne que la tiene <caesura/>non lo pueden veer!</l>
@@ -233,39 +233,39 @@
             
                 <lg n="1474" type="terástico" met="4x14" rhyme="AAAA" ana="#piedras_preciosas">
                     <note type="motivo" target="/ecfrasis.alexandre/vc157" subtype="enciclopedico">Piedras preciosas</note>
-                    <l xml:id="L57"><term ref="vc456" type="enciclopedico">Sagda</term>, 
+                    <l xml:id="L57"><term key="vc456" type="enciclopedico">Sagda</term>, 
                     que las naves <caesura/>faze a sí venir;</l>
-                    <l xml:id="L58">el <term ref="vc457" type="enciclopedico">coral</term>, 
+                    <l xml:id="L58">el <term key="vc457" type="enciclopedico">coral</term>, 
                     que los rayos <caesura/>faze bien referir;</l>
-                    <l xml:id="L59">fázelo <term ref="vc458" type="enciclopedico">hematites</term> 
+                    <l xml:id="L59">fázelo <term key="vc458" type="enciclopedico">hematites</term> 
                     <caesura/>al omne salvo ir:</l>
                     <l xml:id="L60">çelada nin engaño <caesura/>no’l podríen nozir.</l>
                 </lg>
             
                 <lg n="1475" type="terástico" met="4x14" rhyme="AAAA" ana="#piedras_preciosas">
                     <note type="motivo" target="/ecfrasis.alexandre/vc157" subtype="enciclopedico">Piedras preciosas</note>
-                    <l xml:id="L61"><term ref="vc459" type="enciclopedico">Jaçinto</term>, 
+                    <l xml:id="L61"><term key="vc459" type="enciclopedico">Jaçinto</term>, 
                     que se torna <caesura/>de la color del día,</l>
                     <l xml:id="L62">non dexa en el omne <caesura/>ardor nin maletía</l>		
                     <l xml:id="L63">—por natura es fría, <caesura/>ende ha tal valentía—;</l>	
-                    <l xml:id="L64">el <term ref="vc451" type="enciclopedico">adamant’</term> 
+                    <l xml:id="L64">el <term key="vc451" type="enciclopedico">adamant’</term> 
                     lo taja, <caesura/>non otra maestría.</l>
                 </lg>
             
                 <lg n="1476" type="terástico" met="4x14" rhyme="AAAA" ana="#piedras_preciosas">
                     <note type="motivo" target="/ecfrasis.alexandre/vc157" subtype="enciclopedico">Piedras preciosas</note>
-                    <l xml:id="L65"><term ref="vc460" type="enciclopedico">Margarita</term>, 
+                    <l xml:id="L65"><term key="vc460" type="enciclopedico">Margarita</term>, 
                     que siempre <caesura/>quiere yazer señera</l>
                     <l xml:id="L66">—siempre la troban sola, <caesura/>nunca ha compañera—,</l>
                     <l xml:id="L67">del roçío se cría, <caesura/>palabra verdadera,</l>		
-                    <l xml:id="L68">ca lo diz’ <persName ref="vc633" type="artistico">san Esidro</persName>, 
+                    <l xml:id="L68">ca lo diz’ <persName key="vc633" type="artistico">san Esidro</persName>, 
                     <caesura/>que sopo la manera.</l>
                 </lg>
                 
                 <lg n="1477" type="terástico" met="4x14" rhyme="AAAA" ana="#piedras_preciosas">
                     <note type="motivo" target="/ecfrasis.alexandre/vc157" subtype="enciclopedico">Piedras preciosas</note>
-                    <l xml:id="L69"><term ref="vc461" type="enciclopedico">Pedorus</term>, 
-                    que tanto <term ref="vc173" type="artistico">val’</term>, 
+                    <l xml:id="L69"><term key="vc461" type="enciclopedico">Pedorus</term>, 
+                    que tanto <term key="vc173" type="artistico">val’</term>, 
                     <caesura/>non es de olvidar:</l>
                     <l xml:id="L70">non es nado qui’l pueda <caesura/>la color terminar;</l>	
                     <l xml:id="L71">de beldat no’l püeden <caesura/>compañera trobar</l>		
@@ -274,17 +274,17 @@
             
                 <lg n="1478" type="terástico" met="4x14" rhyme="AAAA" ana="#piedras_preciosas">
                     <note type="motivo" target="/ecfrasis.alexandre/vc157" subtype="enciclopedico">Piedras preciosas</note>
-                    <l xml:id="L73"><term ref="vc462" type="enciclopedico">Astrites</term> 
+                    <l xml:id="L73"><term key="vc462" type="enciclopedico">Astrites</term> 
                     es poquiella, <caesura/>mas mayor que arbeja,</l>
                     <l xml:id="L74">pesada por natura <caesura/>más que ruvia vermeja;</l>	
                     <l xml:id="L75">parez’ de dentro lumbre <caesura/>que estrella semeja;</l>	
-                    <l xml:id="L76">dan por ella grant <term ref="vc172" type="artistico">preçio</term>, 
+                    <l xml:id="L76">dan por ella grant <term key="vc172" type="artistico">preçio</term>, 
                     <caesura/>maguer que es chiqueja.</l>
                 </lg>
             
                 <lg n="1479" type="terástico" met="4x14" rhyme="AAAA" ana="#piedras_preciosas">
                     <note type="motivo" target="/ecfrasis.alexandre/vc157" subtype="enciclopedico">Piedras preciosas</note>
-                    <l xml:id="L77"><term ref="vc463" type="enciclopedico">Galatites</term> es blanca 
+                    <l xml:id="L77"><term key="vc463" type="enciclopedico">Galatites</term> es blanca 
                     <caesura/>cuemo leche d’oveja;</l>
                     <l xml:id="L78">faze a las nodrizas <caesura/>aver leche sobeja;</l>		
                     <l xml:id="L79">faze purgar la fleuma, <caesura/>maguer sea aneja;</l>		
@@ -293,7 +293,7 @@
             
                 <lg n="1480" type="terástico" met="4x14" rhyme="AAAA" ana="#piedras_preciosas">
                     <note type="motivo" target="/ecfrasis.alexandre/vc157" subtype="enciclopedico">Piedras preciosas</note>
-                    <l xml:id="L81"><term ref="vc464" type="enciclopedico">Galaçio</term> 
+                    <l xml:id="L81"><term key="vc464" type="enciclopedico">Galaçio</term> 
                     es fermosa, <caesura/>mas de fría manera:</l>
                     <l xml:id="L82">non podrié calentarse <caesura/>por ninguna foguera;</l>		
                     <l xml:id="L83">ámanla en verano <caesura/>los que andan carrera,</l>		
@@ -302,17 +302,17 @@
             
                 <lg n="1481" type="terástico" met="4x14" rhyme="AAAA" ana="#piedras_preciosas">
                     <note type="motivo" target="/ecfrasis.alexandre/vc157" subtype="enciclopedico">Piedras preciosas</note>
-                    <l xml:id="L85"><term ref="vc465" type="enciclopedico">Solgema</term> 
+                    <l xml:id="L85"><term key="vc465" type="enciclopedico">Solgema</term> 
                     echa rayos <caesura/>e faz’ lumbre sobejo:</l>
                     <l xml:id="L86">podrié a la su lumbre <caesura/>çenar un grant conçejo.</l>	
-                    <l xml:id="L87">Creo que <term ref="vc466" type="enciclopedico">selenites</term> 
-                    <caesura/><term ref="vc173" type="artistico">val’</term> menos un poquillejo,</l>	
+                    <l xml:id="L87">Creo que <term key="vc466" type="enciclopedico">selenites</term> 
+                    <caesura/><term key="vc173" type="artistico">val’</term> menos un poquillejo,</l>	
                     <l xml:id="L88">que mengua cuemo la Luna <caesura/>e creçe en parejo.</l>
                 </lg>
             
                 <lg n="1482" type="terástico" met="4x14" rhyme="AAAA" ana="#piedras_preciosas">
                     <note type="motivo" target="/ecfrasis.alexandre/vc157" subtype="enciclopedico">Piedras preciosas</note>
-                    <l xml:id="L89"><term ref="vc467" type="enciclopedico">Çinedia</term> 
+                    <l xml:id="L89"><term key="vc467" type="enciclopedico">Çinedia</term> 
                     es longuiella, <caesura/>piedra muy preçïada;</l>
                     <l xml:id="L90">en cabeça de pez <caesura/>suele seer fallada;</l>		
                     <l xml:id="L91">en ella lo entienden <caesura/>los que la han usada</l>		
@@ -321,7 +321,7 @@
             
                 <lg n="1483" type="terástico" met="4x14" rhyme="AAAA" ana="#piedras_preciosas">
                     <note type="motivo" target="/ecfrasis.alexandre/vc157" subtype="enciclopedico">Piedras preciosas</note>
-                    <l xml:id="L93"><term ref="vc468" type="enciclopedico">Acates</term> 
+                    <l xml:id="L93"><term key="vc468" type="enciclopedico">Acates</term> 
                     es negriella, <caesura/>mas de grandes virtudes:</l>
                     <l xml:id="L94">refiere las tempestas <caesura/>que vienen en las nuves;</l>	
                     <l xml:id="L95">faze quedar los ríos, <caesura/>que semejan paúles;</l>		
@@ -330,7 +330,7 @@
             
                 <lg n="1484" type="terástico" met="4x14" rhyme="AAAA" ana="#piedras_preciosas">
                     <note type="motivo" target="/ecfrasis.alexandre/vc157" subtype="enciclopedico">Piedras preciosas</note>
-                    <l xml:id="L97"><term ref="vc469" type="enciclopedico">Absicto</term>, 
+                    <l xml:id="L97"><term key="vc469" type="enciclopedico">Absicto</term>, 
                     cuemo dizen, <caesura/>es negra e pesada,</l>
                     <l xml:id="L98">mas, quando una vez <caesura/>es escalentada,</l>		
                     <l xml:id="L99">fasta los siete días <caesura/>non es esfrïada</l>		
@@ -339,7 +339,7 @@
             
                 <lg n="1485" type="terástico" met="4x14" rhyme="AAAA" ana="#piedras_preciosas">
                     <note type="motivo" target="/ecfrasis.alexandre/vc157" subtype="enciclopedico">Piedras preciosas</note>
-                    <l xml:id="L101">La santa <term ref="vc470" type="enciclopedico">dïonisia</term>, 
+                    <l xml:id="L101">La santa <term key="vc470" type="enciclopedico">dïonisia</term>, 
                     <caesura/>quando es bien molida</l>
                     <l xml:id="L102">e tornada en polvos <caesura/>e en agua metida,</l>		
                     <l xml:id="L103">cuemo si fuesse vino <caesura/>fázela tan saborida</l>		
@@ -348,30 +348,30 @@
             
                 <lg n="1486" type="terástico" met="4x14" rhyme="AAAA" ana="#piedras_preciosas">
                     <note type="motivo" target="/ecfrasis.alexandre/vc157" subtype="enciclopedico">Piedras preciosas</note>
-                    <l xml:id="L105">Non es <term ref="vc471" type="enciclopedico">exocontálitos</term> 
+                    <l xml:id="L105">Non es <term key="vc471" type="enciclopedico">exocontálitos</term> 
                     <caesura/>de todas las peores,</l>
                     <l xml:id="L106">que es entremezclada <caesura/>de sesenta colores.</l>		
-                    <l xml:id="L107">El <term ref="vc451" type="enciclopedico">adamant’</term> seguda 
+                    <l xml:id="L107">El <term key="vc451" type="enciclopedico">adamant’</term> seguda 
                     <caesura/>todos malos pavores;</l>		
                     <l xml:id="L108">el que la tien’ consigo <caesura/>nunca’l matan poçones.</l>
                 </lg>
             
                 <lg n="1487" type="terástico" met="4x14" rhyme="AAAA" ana="#piedras_preciosas">
                     <note type="motivo" target="/ecfrasis.alexandre/vc157" subtype="enciclopedico">Piedras preciosas</note>
-                    <l xml:id="L109"><term ref="vc472" type="enciclopedico">Iris</term>, 
+                    <l xml:id="L109"><term key="vc472" type="enciclopedico">Iris</term>, 
                     si sol’ del rayo <caesura/>del Sol fuere ferida,</l>
                     <l xml:id="L110">faz’ la forma del arco <caesura/>en la pared bastida.</l>		
-                    <l xml:id="L111"><term ref="vc473" type="enciclopedico">Astrïón</term> 
+                    <l xml:id="L111"><term key="vc473" type="enciclopedico">Astrïón</term> 
                     resplandeçe <caesura/>cuemo luna complida,</l>	
                     <l xml:id="L112">pero a poco tiempo <caesura/>es la su luz fallida.</l>
                 </lg>
             
                 <lg n="1488" type="terástico" met="4x14" rhyme="AAAA" ana="#piedras_preciosas">
                     <note type="motivo" target="/ecfrasis.alexandre/vc157" subtype="enciclopedico">Piedras preciosas</note>
-                    <l xml:id="L113"><term ref="vc474" type="enciclopedico">Electria</term> 
-                    hanla pocos, <caesura/>ca es <term ref="vc157" type="enciclopedico">piedra preçiada</term>;</l>
+                    <l xml:id="L113"><term key="vc474" type="enciclopedico">Electria</term> 
+                    hanla pocos, <caesura/>ca es <term key="vc157" type="enciclopedico">piedra preçiada</term>;</l>
                     <l xml:id="L114">en vientre de los 
-                    <term ref="vc287" type="enciclopedico">gallos</term> 
+                    <term key="vc287" type="enciclopedico">gallos</term> 
                     <caesura/>suele seer fallada;</l>	
                     <l xml:id="L115">qui la toviés’ consigo <caesura/>en el cuello atada</l>		
                     <l xml:id="L116">nunca serié vençido <caesura/>nin muerto a espada.</l>
@@ -379,7 +379,7 @@
             
                 <lg n="1489" type="terástico" met="4x14" rhyme="AAAA" ana="#piedras_preciosas">
                     <note type="motivo" target="/ecfrasis.alexandre/vc157" subtype="enciclopedico">Piedras preciosas</note>
-                    <l xml:id="L117"><term ref="vc475" type="enciclopedico">Endros</term> 
+                    <l xml:id="L117"><term key="vc475" type="enciclopedico">Endros</term> 
                     echa grant agua, <caesura/>fría e bien sabrida;</l>
                     <l xml:id="L118">semeja que tien’ dentro <caesura/>una fuent’ascondida:</l>	
                     <l xml:id="L119">manternié doze omnes <caesura/>a larguera medida</l>	
@@ -389,7 +389,7 @@
                 <lg n="1490" type="terástico" met="4x14" rhyme="AAAA" ana="#piedras_preciosas">
                     <note type="motivo" target="/ecfrasis.alexandre/vc157" subtype="enciclopedico">Piedras preciosas</note>
                     <l xml:id="L121">La virtut del 
-                    <term ref="vc158" type="enciclopedico">cristal</term> 
+                    <term key="vc158" type="enciclopedico">cristal</term> 
                     <caesura/>todos nós la sabemos:</l>
                     <l xml:id="L122">cuémo salle d’él fuego <caesura/>cutiano lo veemos,</l>	
                     <l xml:id="L123">mas nós por maravilla <caesura/>esto non lo tenemos,</l>	
@@ -398,8 +398,8 @@
             
                 <lg n="1491" type="terástico" met="4x14" rhyme="AAAA" ana="#piedras_preciosas">
                     <note type="motivo" target="/ecfrasis.alexandre/vc157" subtype="enciclopedico">Piedras preciosas</note>
-                    <l xml:id="L125"><term ref="vc476" type="enciclopedico">Safires</term> 
-                    e <term ref="vc477" type="enciclopedico">girgonças</term>, 
+                    <l xml:id="L125"><term key="vc476" type="enciclopedico">Safires</term> 
+                    e <term key="vc477" type="enciclopedico">girgonças</term>, 
                     <caesura/>essas piedras luzientes,</l>
                     <l xml:id="L126">en essas omne bueno <caesura/>sol’ non ý mete mientes,</l>	
                     <l xml:id="L127">mas las que por natura <caesura/>son frías e calientes,</l>	
@@ -409,29 +409,29 @@
                 <lg n="1492" type="terástico" met="4x14" rhyme="AAAA" ana="#piedras_preciosas">
                     <note type="motivo" target="/ecfrasis.alexandre/vc157" subtype="enciclopedico">Piedras preciosas</note>
                     <l xml:id="L129">Más son de çient atantas <caesura/>las 
-                    <term ref="vc157" type="enciclopedico">piedras adonadas</term>,</l>
+                    <term key="vc157" type="enciclopedico">piedras adonadas</term>,</l>
                     <l xml:id="L130">que son assí las gentes <caesura/>de todas abondadas.</l>	
                     <l xml:id="L131">Quien más quisier’ saber <caesura/>busque do son 
-                    <term ref="vc77" type="artistico">notadas</term>,</l>
+                    <term key="vc77" type="artistico">notadas</term>,</l>
                     <l xml:id="L132">ca quiero yo fincar <caesura/>con las que he 
-                    <term ref="vc81" type="artistico">contadas</term>.</l>
+                    <term key="vc81" type="artistico">contadas</term>.</l>
                 </lg>
             
                 <lg n="1493" type="terástico" met="4x14" rhyme="AAAA">
                     <note type="motivo" target="/ecfrasis.alexandre/vc278" subtype="enciclopedico">Animales</note>
                     <l xml:id="L133">Son dentro en la 
-                    <term ref="vc237" type="enciclopedico">villa</term> 
-                    <caesura/>muchas dulçes <term ref="vc584" type="enciclopedico">fontanas</term>,</l>
+                    <term key="vc237" type="enciclopedico">villa</term> 
+                    <caesura/>muchas dulçes <term key="vc584" type="enciclopedico">fontanas</term>,</l>
                     <l xml:id="L134">que son de día frías, <caesura/>tibias en las mañanas.</l>		
                     <l xml:id="L135" ana="#animales">Nunca crían en ellas <caesura/>nin 
-                    <term ref="vc478" type="enciclopedico">gusanos</term> 
-                    nin <term ref="vc479" type="enciclopedico">ranas</term>:</l>	
+                    <term key="vc478" type="enciclopedico">gusanos</term> 
+                    nin <term key="vc479" type="enciclopedico">ranas</term>:</l>	
                     <l xml:id="L136">como son perenales, <caesura/>son sabrosas e sanas.</l>
                 </lg>
             
                 <lg n="1494" type="terástico" met="4x14" rhyme="AAAA">
                     <l xml:id="L137">De panes e de vinos <caesura/>es 
-                    <term ref="vc237" type="enciclopedico">villa</term> avondada:</l>
+                    <term key="vc237" type="enciclopedico">villa</term> avondada:</l>
                     <l xml:id="L138">non podrién doze omnes <caesura/>comer la dinarada.</l>	
                     <l xml:id="L139">Yo leí —¡assí aya <caesura/>en Paraiso posada!—</l>	
                     <l xml:id="L140">que vendimian en el año <caesura/>la segunda vegada.</l>
@@ -439,11 +439,11 @@
             
                 <lg n="1495" type="terástico" met="4x14" rhyme="AAAA" ana="#animales">
                     <note type="motivo" target="/ecfrasis.alexandre/vc278" subtype="enciclopedico">Animales</note>
-                    <l xml:id="L141">Las <term ref="vc585" type="enciclopedico">florestas</term> 
+                    <l xml:id="L141">Las <term key="vc585" type="enciclopedico">florestas</term> 
                     son grandes <caesura/>redor de la 
-                    <term ref="vc238" type="enciclopedico">çibdat</term>;</l>
+                    <term key="vc238" type="enciclopedico">çibdat</term>;</l>
                     <l xml:id="L142">ý prenden los 
-                    <term ref="vc480" type="enciclopedico">venados</term> 
+                    <term key="vc480" type="enciclopedico">venados</term> 
                     <caesura/>a toda planidat:</l>	
                     <l xml:id="L143">los grandes e los chicos, <caesura/>los de media edat</l>	
                     <l xml:id="L144">assí se ivan a ello <caesura/>cuemo a su heredat.</l>
@@ -452,29 +452,29 @@
                 <lg n="1496" type="terástico" met="4x14" rhyme="AAAA" ana="#animales">
                     <note type="motivo" target="/ecfrasis.alexandre/vc278" subtype="enciclopedico">Animales</note>
                     <note type="motivo" target="/ecfrasis.alexandre/vc282" subtype="enciclopedico">Aves</note>
-                    <l xml:id="L145">De <term ref="vc481" type="enciclopedico">gamos</term> 
-                    e de <term ref="vc482" type="enciclopedico">çiervos</term> <caesura/>
-                    e de otros <term ref="vc480" type="enciclopedico">venados</term>,</l>
-                    <l xml:id="L146">de <term ref="vc483" type="enciclopedico">ossos e de ossas</term> 
-                    <caesura/>e <term ref="vc484" type="enciclopedico">puercos mal domados</term>,</l>	
-                    <l xml:id="L147">de <term ref="vc487" type="enciclopedico">perdiz</term> e de 
-                    <term ref="vc488" type="enciclopedico">garça</term> <caesura/>
-                    e <term ref="vc489" type="enciclopedico">picos lorigados</term>,</l>		
+                    <l xml:id="L145">De <term key="vc481" type="enciclopedico">gamos</term> 
+                    e de <term key="vc482" type="enciclopedico">çiervos</term> <caesura/>
+                    e de otros <term key="vc480" type="enciclopedico">venados</term>,</l>
+                    <l xml:id="L146">de <term key="vc483" type="enciclopedico">ossos e de ossas</term> 
+                    <caesura/>e <term key="vc484" type="enciclopedico">puercos mal domados</term>,</l>	
+                    <l xml:id="L147">de <term key="vc487" type="enciclopedico">perdiz</term> e de 
+                    <term key="vc488" type="enciclopedico">garça</term> <caesura/>
+                    e <term key="vc489" type="enciclopedico">picos lorigados</term>,</l>		
                     <l xml:id="L148">otros omnes en el sieglo <caesura/>non son tan avondados.</l>
                 </lg>
             
                 <lg n="1497" type="terástico" met="4x14" rhyme="AAAA" ana="#aves">
                     <note type="motivo" target="/ecfrasis.alexandre/vc282" subtype="enciclopedico">Aves</note>
-                    <l xml:id="L149">De estas <term ref="vc282" type="enciclopedico">aveziellas</term> 
-                    <caesura/><term ref="vc490" type="enciclopedico">ánades</term> 
-                    e <term ref="vc491" type="enciclopedico">çerçetas</term>,</l>
-                    <l xml:id="L150">traen por la <term ref="vc238" type="enciclopedico">çibdat</term> 
+                    <l xml:id="L149">De estas <term key="vc282" type="enciclopedico">aveziellas</term> 
+                    <caesura/><term key="vc490" type="enciclopedico">ánades</term> 
+                    e <term key="vc491" type="enciclopedico">çerçetas</term>,</l>
+                    <l xml:id="L150">traen por la <term key="vc238" type="enciclopedico">çibdat</term> 
                     <caesura/>plenas grandes carretas;</l>	
-                    <l xml:id="L151"><term ref="vc291" type="enciclopedico">ruiseñores</term> e 
-                    <term ref="vc287" type="enciclopedico">gayos</term>, 
+                    <l xml:id="L151"><term key="vc291" type="enciclopedico">ruiseñores</term> e 
+                    <term key="vc287" type="enciclopedico">gayos</term>, 
                     <caesura/>que son más fermosetas,</l>	
-                    <l xml:id="L152">porque <term ref="vc55" type="artistico">cantan</term> 
-                    <term ref="vc164" type="artistico">fermoso</term>, 
+                    <l xml:id="L152">porque <term key="vc55" type="artistico">cantan</term> 
+                    <term key="vc164" type="artistico">fermoso</term>, 
                     <caesura/>estas son más caretas.</l>
                 </lg>
             
@@ -482,40 +482,40 @@
                     <note type="motivo" target="/ecfrasis.alexandre/vc282" subtype="enciclopedico">Aves</note>
                     <l xml:id="L153">Pero han muchas d’ellas	e <caesura/>todas muy boniellas,</l>
                     <l xml:id="L154">cadauno a su puerta <caesura/>tres o quatro çestiellas:</l>	
-                    <l xml:id="L155">quando empieçan sus <term ref="vc137">sones</term> <caesura/>a fer las <term ref="vc282" type="enciclopedico">aveziellas</term>,</l>	
+                    <l xml:id="L155">quando empieçan sus <term key="vc137">sones</term> <caesura/>a fer las <term key="vc282" type="enciclopedico">aveziellas</term>,</l>	
                     <l xml:id="L156">las madres a los fijos <caesura/>olvidarién por ellas.</l>
                 </lg>
             
                 <lg n="1499" type="terástico" met="4x14" rhyme="AAAA" ana="#aves">
                     <note type="motivo" target="/ecfrasis.alexandre/vc282" subtype="enciclopedico">Aves</note>
                     <note type="motivo" target="/ecfrasis.alexandre/vc278" subtype="enciclopedico">Animales</note>
-                    <l xml:id="L157">Ý son los <term ref="vc492" type="enciclopedico">papagayos</term>, 
-                    <caesura/>unas <term ref="vc282" type="enciclopedico">aves</term> senadas</l>
+                    <l xml:id="L157">Ý son los <term key="vc492" type="enciclopedico">papagayos</term>, 
+                    <caesura/>unas <term key="vc282" type="enciclopedico">aves</term> senadas</l>
                     <l xml:id="L158">que vençen a los omnes <caesura/>de seso a las vegadas.</l>
                     <l xml:id="L159">Ý son las fieras 
-                    <term ref="vc493" type="enciclopedico">tigres</term>, 
+                    <term key="vc493" type="enciclopedico">tigres</term>, 
                     <caesura/>que yazen ençerradas</l>	
-                    <l xml:id="L160">—¡non ha <term ref="vc284" type="enciclopedico">bestias</term> 
+                    <l xml:id="L160">—¡non ha <term key="vc284" type="enciclopedico">bestias</term> 
                     en el mundo <caesura/>que sean tan dubdadas!—.</l>
                 </lg>
             
                 <lg n="1500" type="terástico" met="4x14" rhyme="AAAA">
                     <note type="motivo" target="/ecfrasis.alexandre/vc278" subtype="enciclopedico">Animales</note>
-                    <l xml:id="L161">Las gentes son de <term ref="vc172" type="artistico">preçio</term>, 
+                    <l xml:id="L161">Las gentes son de <term key="vc172" type="artistico">preçio</term>, 
                     <caesura/>mayores e menores:</l>
                     <l xml:id="L162">todos andan vestidos <caesura/>de 
-                    <term ref="vc306" type="artistico">paños</term> de colores;</l>		
-                    <l xml:id="L163">cavalgan <term ref="vc494" type="enciclopedico">palafrenes</term> 
-                    <caesura/>e <term ref="vc495" type="enciclopedico">mulas</term> ambladores;</l>		
+                    <term key="vc306" type="artistico">paños</term> de colores;</l>		
+                    <l xml:id="L163">cavalgan <term key="vc494" type="enciclopedico">palafrenes</term> 
+                    <caesura/>e <term key="vc495" type="enciclopedico">mulas</term> ambladores;</l>		
                     <l xml:id="L164">los pobres omnes visten <caesura/>
-                    <term ref="vc155" type="artistico">xamet’</term>e 
-                    <term ref="vc496" type="artistico">çisclatones</term>.</l>
+                    <term key="vc155" type="artistico">xamet’</term>e 
+                    <term key="vc496" type="artistico">çisclatones</term>.</l>
                 </lg>
             
                 <lg n="1501" type="terástico" met="4x14" rhyme="AAAA">
                     <l xml:id="L165">Que todas sus noblezas <caesura/>vos queramos dezir,</l>
                     <l xml:id="L166">antes podrién tres días <caesura/>e tres noches troçir,</l>	
-                    <l xml:id="L167">ca <persName ref="vc634" type="artistico">Galter</persName> 
+                    <l xml:id="L167">ca <persName key="vc634" type="artistico">Galter</persName> 
                     non las pudo, <caesura/>maguer quiso, complir</l>
                     <l xml:id="L168">—yo contra él non quiero <caesura/>nin podría venir—.</l>
                 </lg>
@@ -523,46 +523,46 @@
                 <lg n="1502" type="terástico" met="4x14" rhyme="AAAA">
                     <l xml:id="L169">Pero ý fincan cosas <caesura/>que non son de dexar:</l>
                     <l xml:id="L170">cuémo vienen ganançias <caesura/>por 
-                    <term ref="vc233" type="enciclopedico">tierra</term> e por 
-                    <term ref="vc230" type="enciclopedico">mar</term>;</l>	
-                    <l xml:id="L171">las más <term ref="vc232" type="enciclopedico">naves</term> 
+                    <term key="vc233" type="enciclopedico">tierra</term> e por 
+                    <term key="vc230" type="enciclopedico">mar</term>;</l>	
+                    <l xml:id="L171">las más <term key="vc232" type="enciclopedico">naves</term> 
                     del mundo <caesura/>allí suelen arribar</l>	
                     <l xml:id="L172">—¡solamente con esso <caesura/>devrié rica estar!—.</l>
                 </lg>
             
                 <lg n="1503" type="terástico" met="4x14" rhyme="AAAA">
-                    <l xml:id="L173">Embían pora <term ref="vc246" type="enciclopedico">África</term> 
-                    <caesura/>e pora <term ref="vc245" type="enciclopedico">Ëuropa</term></l>
-                    <l xml:id="L174">las <term ref="vc232" type="enciclopedico">naves</term> 
+                    <l xml:id="L173">Embían pora <term key="vc246" type="enciclopedico">África</term> 
+                    <caesura/>e pora <term key="vc245" type="enciclopedico">Ëuropa</term></l>
+                    <l xml:id="L174">las <term key="vc232" type="enciclopedico">naves</term> 
                     cargadas <caesura/>
-                    d’<term ref="vc432" type="enciclopedico">espeçias</term> e de 
-                    <term ref="vc61">ropa</term></l>	
+                    d’<term key="vc432" type="enciclopedico">espeçias</term> e de 
+                    <term key="vc61">ropa</term></l>	
                     <l xml:id="L175">—¡por ý traxo 
-                    <persName ref="vc635" type="alexandre">Antípater</persName> 
+                    <persName key="vc635" type="alexandre">Antípater</persName> 
                     <caesura/>en mal punto la copa!:</l>	
                     <l xml:id="L176">¡ý priso 
-                    <persName ref="vc618" type="alexandre">Alexandre</persName> 
+                    <persName key="vc618" type="alexandre">Alexandre</persName> 
                     <caesura/>en mal punto la sopa!—.</l>
                 </lg>
             
                 <lg n="1504" type="terástico" met="4x14" rhyme="AAAA">
                     <l xml:id="L177">Quiero fablar del sito <caesura/>e de la su grandez,</l>
-                    <l xml:id="L178">del alteza del <term ref="vc497" type="artistico">muro</term> 
+                    <l xml:id="L178">del alteza del <term key="vc497" type="artistico">muro</term> 
                     <caesura/>e de la su autez’,</l>		
-                    <l xml:id="L179">de <term ref="vc524" type="artistico">torres</term> 
-                    e de <term ref="vc119" type="artistico">puertas</term> 
+                    <l xml:id="L179">de <term key="vc524" type="artistico">torres</term> 
+                    e de <term key="vc119" type="artistico">puertas</term> 
                     <caesura/>quál a quál obedez’</l>		
-                    <l xml:id="L180">—¡serié pora <persName ref="vc636" type="clasico">Omero</persName> 
+                    <l xml:id="L180">—¡serié pora <persName key="vc636" type="clasico">Omero</persName> 
                     <caesura/>grieve, ca non rafez!—.</l>
                 </lg>
             
                 <lg n="1505" type="terástico" met="4x14" rhyme="AAAA" ana="#torredebabel">
                     <note type="motivo" target="/ecfrasis.alexandre/vc316" subtype="religioso">Torre de Babel</note> 
                     <l xml:id="L181">Creo que bien podiestes <caesura/>alguna vez 
-                    <term ref="vc204" type="artistico">oír</term></l>
+                    <term key="vc204" type="artistico">oír</term></l>
                     <l xml:id="L182">que quisieron al Çielo <caesura/>los 
-                    <term ref="vc315" type="religioso">Gigantes</term> sobir;</l>		
-                    <l xml:id="L183">fizieron una <term ref="vc316" type="religioso">torre</term>; 
+                    <term key="vc315" type="religioso">Gigantes</term> sobir;</l>		
+                    <l xml:id="L183">fizieron una <term key="vc316" type="religioso">torre</term>; 
                     <caesura/>non vos cuedo fallir:</l>		
                     <l xml:id="L184">¡non fue quien la podiés’ <caesura/>mesurar nin medir!</l>
                 </lg>
@@ -581,13 +581,13 @@
                     <l xml:id="L190">fablavan un lenguaje <caesura/>e por una manera:</l>		
                     <l xml:id="L191">en ebraico fablavan, <caesura/>una lengua señera;</l>		
                     <l xml:id="L192">non sabién ál fablar <caesura/>nin 
-                    <term ref="vc76" type="artistico">escrivir</term> en çera.</l>
+                    <term key="vc76" type="artistico">escrivir</term> en çera.</l>
                 </lg>
             
                 <lg n="1508" type="terástico" met="4x14" rhyme="AAAA" ana="#torredebabel">
                     <note type="motivo" target="/ecfrasis.alexandre/vc316" subtype="religioso">Torre de Babel</note> 
                     <l xml:id="L193">Metió Dïos entr’ellos <caesura/>tamaña 
-                    <term ref="vc317" type="religioso">confusión</term></l>
+                    <term key="vc317" type="religioso">confusión</term></l>
                     <l xml:id="L194">que olvidaron todos <caesura/>el natural sermón;</l>		
                     <l xml:id="L195">fablavan cadaúno <caesura/>lenguaje en su son:</l>		
                     <l xml:id="L196">¡non sabié uno a otro <caesura/>qué’l dizié o qué non!</l>
@@ -596,9 +596,9 @@
                 <lg n="1509" type="terástico" met="4x14" rhyme="AAAA" ana="#torredebabel">
                     <note type="motivo" target="/ecfrasis.alexandre/vc316" subtype="religioso">Torre de Babel</note> 
                     <l xml:id="L197">Si’l uno pedié agua, <caesura/>el otro dava 
-                    <term ref="vc710" type="artistico">cal</term>;</l>
-                    <l xml:id="L198">el que pedié <term ref="vc708" type="artistico">mortero</term> 
-                    <caesura/>dávanli el <term ref="vc709" type="artistico">cordal</term>.</l>		
+                    <term key="vc710" type="artistico">cal</term>;</l>
+                    <l xml:id="L198">el que pedié <term key="vc708" type="artistico">mortero</term> 
+                    <caesura/>dávanli el <term key="vc709" type="artistico">cordal</term>.</l>		
                     <l xml:id="L199">Lo que dizié el uno, <caesura/>el otro fazié ál:</l>		
                     <l xml:id="L200">¡ovo toda la obra <caesura/>por ende ir a mal!</l>
                 </lg>
@@ -614,12 +614,12 @@
                 <lg n="1511" type="terástico" met="4x14" rhyme="AAAA" ana="#torredebabel">
                     <note type="motivo" target="/ecfrasis.alexandre/vc316" subtype="religioso">Torre de Babel</note> 
                     <l xml:id="L205">Assí está oy día <caesura/>la 
-                    <term ref="vc316" type="religioso">torre</term> empeçada,</l>
+                    <term key="vc316" type="religioso">torre</term> empeçada,</l>
                     <l xml:id="L206">pero de fiera guisa, <caesura/>sobra mucho alçada.</l>		
-                    <l xml:id="L207">Por la <term ref="vc317" type="religioso">confusïón</term> 
+                    <l xml:id="L207">Por la <term key="vc317" type="religioso">confusïón</term> 
                     <caesura/>que fue entr’ellos dada</l>	
                     <l xml:id="L208">es toda essa tierra <caesura/>
-                    <placeName ref="vc402" type="enciclopedico">Babiloña</placeName> clamada.</l>
+                    <placeName key="vc402" type="enciclopedico">Babiloña</placeName> clamada.</l>
                 </lg>
             
                 <lg n="1512" type="terástico" met="4x14" rhyme="AAAA" ana="#torredebabel">
@@ -632,77 +632,77 @@
             
                 <lg n="1513" type="terástico" met="4x14" rhyme="AAAA" ana="#torredebabel">
                     <note type="motivo" target="/ecfrasis.alexandre/vc316" subtype="religioso">Torre de Babel</note> 
-                    <l xml:id="L213">Los unos son <term ref="vc333" type="enciclopedico">latinos</term>, 
-                    <caesura/>los otros son <term ref="vc498" type="enciclopedico">ebreos</term>;</l>
-                    <l xml:id="L214">a otros dizen <term ref="vc332" type="enciclopedico">griegos</term>, 
-                    <caesura/>a los otros <term ref="vc499" type="enciclopedico">caldeos</term>;</l>	
-                    <l xml:id="L215">a otros dizen <term ref="vc500" type="enciclopedico">áraves</term> 
-                    <caesura/>e a otros <term ref="vc501" type="enciclopedico">sabeos</term>;</l>		
-                    <l xml:id="L216">a los otros <term ref="vc502" type="enciclopedico">egipçios</term>, 
-                    <caesura/>a otros <term ref="vc503" type="enciclopedico">amorreos</term>.</l>
+                    <l xml:id="L213">Los unos son <term key="vc333" type="enciclopedico">latinos</term>, 
+                    <caesura/>los otros son <term key="vc498" type="enciclopedico">ebreos</term>;</l>
+                    <l xml:id="L214">a otros dizen <term key="vc332" type="enciclopedico">griegos</term>, 
+                    <caesura/>a los otros <term key="vc499" type="enciclopedico">caldeos</term>;</l>	
+                    <l xml:id="L215">a otros dizen <term key="vc500" type="enciclopedico">áraves</term> 
+                    <caesura/>e a otros <term key="vc501" type="enciclopedico">sabeos</term>;</l>		
+                    <l xml:id="L216">a los otros <term key="vc502" type="enciclopedico">egipçios</term>, 
+                    <caesura/>a otros <term key="vc503" type="enciclopedico">amorreos</term>.</l>
                 </lg>
             
                 <lg n="1514" type="terástico" met="4x14" rhyme="AAAA" ana="#torredebabel">
                     <note type="motivo" target="/ecfrasis.alexandre/vc316" subtype="religioso">Torre de Babel</note> 
-                    <l xml:id="L217">Otros dizen <term ref="vc337" type="enciclopedico">ingleses</term>, 
-                    <caesura/><term ref="vc335" type="enciclopedico">otros son de 
-                    <placeName ref="vc639" type="enciclopedico">Bretaña</placeName></term>;</l>
-                    <l xml:id="L218"><term ref="vc504" type="enciclopedico">escotes</term> e 
-                    <term ref="vc505" type="enciclopedico">irlandos</term>, <caesura/>
-                    <term ref="vc339" type="enciclopedico">otros de 
-                    <placeName ref="vc640" type="enciclopedico">Alemaña</placeName></term>;</l>		
-                    <l xml:id="L219"><term ref="vc334" type="enciclopedico">
-                    los que viven en <placeName ref="vc416" type="enciclopedico">Galas</placeName>
+                    <l xml:id="L217">Otros dizen <term key="vc337" type="enciclopedico">ingleses</term>, 
+                    <caesura/><term key="vc335" type="enciclopedico">otros son de 
+                    <placeName key="vc639" type="enciclopedico">Bretaña</placeName></term>;</l>
+                    <l xml:id="L218"><term key="vc504" type="enciclopedico">escotes</term> e 
+                    <term key="vc505" type="enciclopedico">irlandos</term>, <caesura/>
+                    <term key="vc339" type="enciclopedico">otros de 
+                    <placeName key="vc640" type="enciclopedico">Alemaña</placeName></term>;</l>		
+                    <l xml:id="L219"><term key="vc334" type="enciclopedico">
+                    los que viven en <placeName key="vc416" type="enciclopedico">Galas</placeName>
                     </term> <caesura/>favlan de otra maña.</l>	
                     <l xml:id="L220">Non es con estos 
-                    <placeName ref="vc602" type="enciclopedico">Siria</placeName> 
+                    <placeName key="vc602" type="enciclopedico">Siria</placeName> 
                     <caesura/>en lenguajes calaña.</l>
                 </lg>
             
                 <lg n="1515" type="terástico" met="4x14" rhyme="AAAA" ana="#torredebabel">
                     <note type="motivo" target="/ecfrasis.alexandre/vc316" subtype="religioso">Torre de Babel</note> 
-                    <l xml:id="L221">Otros son <term ref="vc506" type="enciclopedico">
-                    los de <placeName ref="vc608" type="enciclopedico">Persia</placeName></term>, 
-                    <caesura/>otros son los <term ref="vc507" type="enciclopedico">indianos</term>;</l>
-                    <l xml:id="L222">otros <term ref="vc508" type="enciclopedico">los de 
-                    <placeName ref="vc641" type="enciclopedico">Samaria</placeName></term>, 
-                    <caesura/>otros los <term ref="vc509" type="enciclopedico">medïano</term>s;</l>		
-                    <l xml:id="L223">otros <term ref="vc510" type="enciclopedico">los de 
-                    <placeName ref="vc607" type="enciclopedico">Panfilia</placeName></term> 
-                    <caesura/>e otros los <term ref="vc511" type="enciclopedico">ircanos</term>;</l>		
-                    <l xml:id="L224">otros son <term ref="vc512" type="enciclopedico">los de 
-                    <placeName ref="vc606" type="enciclopedico">Frigia</placeName></term>, 
-                    <caesura/>otros los <term ref="vc513" type="enciclopedico">libïanos</term>.</l>
+                    <l xml:id="L221">Otros son <term key="vc506" type="enciclopedico">
+                    los de <placeName key="vc608" type="enciclopedico">Persia</placeName></term>, 
+                    <caesura/>otros son los <term key="vc507" type="enciclopedico">indianos</term>;</l>
+                    <l xml:id="L222">otros <term key="vc508" type="enciclopedico">los de 
+                    <placeName key="vc641" type="enciclopedico">Samaria</placeName></term>, 
+                    <caesura/>otros los <term key="vc509" type="enciclopedico">medïano</term>s;</l>		
+                    <l xml:id="L223">otros <term key="vc510" type="enciclopedico">los de 
+                    <placeName key="vc607" type="enciclopedico">Panfilia</placeName></term> 
+                    <caesura/>e otros los <term key="vc511" type="enciclopedico">ircanos</term>;</l>		
+                    <l xml:id="L224">otros son <term key="vc512" type="enciclopedico">los de 
+                    <placeName key="vc606" type="enciclopedico">Frigia</placeName></term>, 
+                    <caesura/>otros los <term key="vc513" type="enciclopedico">libïanos</term>.</l>
                 </lg>
             
                 <lg n="1516" type="terástico" met="4x14" rhyme="AAAA" ana="#torredebabel">
                     <note type="motivo" target="/ecfrasis.alexandre/vc316" subtype="religioso">Torre de Babel</note> 
-                    <l xml:id="L225">Otros dizen <term ref="vc514" type="enciclopedico">partos</term>, 
-                    <caesura/>otros <term ref="vc515" type="enciclopedico">elamitanos</term>;</l>
-                    <l xml:id="L226">otros <term ref="vc516" type="enciclopedico">de 
-                    <placeName ref="vc642" type="enciclopedico">Capadoçia</placeName></term>, 
-                    <caesura/>otros <term ref="vc517" type="enciclopedico">ninivitanos</term>;</l>		
-                    <l xml:id="L227">otros son <term ref="vc518" type="enciclopedico">çireneos</term>, 
-                    <caesura/>otros <term ref="vc519" type="enciclopedico">cananitanos</term>;</l>		
-                    <l xml:id="L228">otros los <term ref="vc520" type="enciclopedico">almozones</term> 
-                    <caesura/>e otros los <term ref="vc521" type="enciclopedico">çitanos</term>.</l>
+                    <l xml:id="L225">Otros dizen <term key="vc514" type="enciclopedico">partos</term>, 
+                    <caesura/>otros <term key="vc515" type="enciclopedico">elamitanos</term>;</l>
+                    <l xml:id="L226">otros <term key="vc516" type="enciclopedico">de 
+                    <placeName key="vc642" type="enciclopedico">Capadoçia</placeName></term>, 
+                    <caesura/>otros <term key="vc517" type="enciclopedico">ninivitanos</term>;</l>		
+                    <l xml:id="L227">otros son <term key="vc518" type="enciclopedico">çireneos</term>, 
+                    <caesura/>otros <term key="vc519" type="enciclopedico">cananitanos</term>;</l>		
+                    <l xml:id="L228">otros los <term key="vc520" type="enciclopedico">almozones</term> 
+                    <caesura/>e otros los <term key="vc521" type="enciclopedico">çitanos</term>.</l>
                 </lg>
             
                 <lg n="1517" type="terástico" met="4x14" rhyme="AAAA" ana="#torredebabel">
                     <note type="motivo" target="/ecfrasis.alexandre/vc316" subtype="religioso">Torre de Babel</note> 
                     <l xml:id="L229">El omne que crïado <caesura/>fuesse en 
-                    <placeName ref="vc402" type="enciclopedico">Babilonia</placeName></l>
+                    <placeName key="vc402" type="enciclopedico">Babilonia</placeName></l>
                     <l xml:id="L230">de duro entendrié <caesura/>la lengua de 
-                    <placeName ref="vc643" type="enciclopedico">Iconia</placeName>.</l>		
+                    <placeName key="vc643" type="enciclopedico">Iconia</placeName>.</l>		
                     <l xml:id="L231">Más son de otras tantas <caesura/>que cuenta la estoria,</l>		
                     <l xml:id="L232">mas yo pora saberlas <caesura/>de seso non he copia.</l>
                 </lg>
             
                 <lg n="1518" type="terástico" met="4x14" rhyme="AAAA" ana="#torredebabel">
                     <note type="motivo" target="/ecfrasis.alexandre/vc316" subtype="religioso">Torre de Babel</note> 
-                    <l xml:id="L233"><persName ref="vc637" type="religioso">Semíramis</persName> 
+                    <l xml:id="L233"><persName key="vc637" type="religioso">Semíramis</persName> 
                     la buena, <caesura/>una sabia reína,</l>
-                    <l xml:id="L234">pobló a <placeName ref="vc402" type="enciclopedico">Babiloña</placeName> 
+                    <l xml:id="L234">pobló a <placeName key="vc402" type="enciclopedico">Babiloña</placeName> 
                     <caesura/>por la graçia divina.</l>		
                     <l xml:id="L235">Quando lo quiso Dios, <caesura/>aguisolo aína,</l>		
                     <l xml:id="L236">pero antes despiso <caesura/>mucha buena farina.</l>
@@ -710,7 +710,7 @@
             
                 <lg n="1519" type="terástico" met="4x14" rhyme="AAAA" ana="#torredebabel">
                     <note type="motivo" target="/ecfrasis.alexandre/vc316" subtype="religioso">Torre de Babel</note> 
-                    <l xml:id="L237">Tantas <term ref="vc522" type="enciclopedico">calles</term> 
+                    <l xml:id="L237">Tantas <term key="vc522" type="enciclopedico">calles</term> 
                     ý fizo <caesura/>como son los linajes;</l>
                     <l xml:id="L238">fízolas poblar todas <caesura/>de diversos lenguajes:</l>		
                     <l xml:id="L239">los unos a los otros <caesura/>non sabién fer messajes;</l>	
@@ -720,8 +720,8 @@
                 <lg n="1520" type="terástico" met="4x14" rhyme="AAAA" ana="#torredebabel">
                     <note type="motivo" target="/ecfrasis.alexandre/vc316" subtype="religioso">Torre de Babel</note> 
                     <l xml:id="L241">Qualsequier’ de las 
-                    <term ref="vc522" type="enciclopedico">calles</term> 
-                    <caesura/>es sobre sí <term ref="vc238" type="enciclopedico">çibdat</term>:</l>
+                    <term key="vc522" type="enciclopedico">calles</term> 
+                    <caesura/>es sobre sí <term key="vc238" type="enciclopedico">çibdat</term>:</l>
                     <l xml:id="L242">non sabrién contra otra <caesura/>aver comunidat.</l>	
                     <l xml:id="L243">La más pobre de todas <caesura/>serié grant heredat:</l>	
                     <l xml:id="L244">a un rëy podrié <caesura/>sacar de pobredat.</l>
@@ -737,37 +737,37 @@
             
                 <lg n="1522" type="terástico" met="4x14" rhyme="AAAA" ana="#torredebabel">
                     <note type="motivo" target="/ecfrasis.alexandre/vc316" subtype="religioso">Torre de Babel</note> 
-                    <l xml:id="L249">Por quanto es la <term ref="vc237" type="enciclopedico">villa</term> 
+                    <l xml:id="L249">Por quanto es la <term key="vc237" type="enciclopedico">villa</term> 
                     <caesura/>de tal vuelta poblada</l>
                     <l xml:id="L250">que los unos a los otros <caesura/>non se entienden nada,</l>
                     <l xml:id="L251">por tanto es de nombre <caesura/>de 
-                    <term ref="vc317" type="religioso">confusïón</term> dada,</l>	
-                    <l xml:id="L252">ca <placeName ref="vc402" type="enciclopedico">Babilón</placeName> 
+                    <term key="vc317" type="religioso">confusïón</term> dada,</l>	
+                    <l xml:id="L252">ca <placeName key="vc402" type="enciclopedico">Babilón</placeName> 
                     confusio <caesura/>es en latín clamada.</l>
                 </lg>
             
                 <lg n="1523" type="terástico" met="4x14" rhyme="AAAA">
-                    <l xml:id="L253">La <term ref="vc497" type="artistico">çerca</term> 
-                    es <term ref="vc195" type="artistico">estraña</term>, 
-                    <caesura/>en peña <term ref="vc116">çimentada</term>;</l>
+                    <l xml:id="L253">La <term key="vc497" type="artistico">çerca</term> 
+                    es <term key="vc195" type="artistico">estraña</term>, 
+                    <caesura/>en peña <term key="vc116">çimentada</term>;</l>
                     <l xml:id="L254">maguer yaze en peña, <caesura/>es bien carcaveada:</l>		
-                    <l xml:id="L255">la <term ref="vc523" type="artistico">cárcava</term> 
+                    <l xml:id="L255">la <term key="vc523" type="artistico">cárcava</term> 
                     es fonda, <caesura/>de agua bien rasada;</l>		
-                    <l xml:id="L256"><term ref="vc232" type="enciclopedico">naves</term> 
+                    <l xml:id="L256"><term key="vc232" type="enciclopedico">naves</term> 
                     traen por ella, <caesura/>ca es fonda e lada.</l>
                 </lg>
             
                 <lg n="1524" type="terástico" met="4x14" rhyme="AAAA">
                     <l xml:id="L257">Un trecho de ballesta <caesura/>es en alto el 
-                    <term ref="vc497" type="artistico">muro</term>,</l>
-                    <l xml:id="L258">de biva <term ref="vc525" type="artistico">argamassa</term> 
-                    <caesura/>e de <term ref="vc526" type="artistico">pedreñal</term> duro;</l>		
+                    <term key="vc497" type="artistico">muro</term>,</l>
+                    <l xml:id="L258">de biva <term key="vc525" type="artistico">argamassa</term> 
+                    <caesura/>e de <term key="vc526" type="artistico">pedreñal</term> duro;</l>		
                     <l xml:id="L259">en ancho, otro tanto, <caesura/>si mal non lo mesuro.</l>		
                     <l xml:id="L260">El que estoviés’ dentro <caesura/>devrié seer seguro.</l>
                 </lg>
             
                 <lg n="1525" type="terástico" met="4x14" rhyme="AAAA">
-                    <l xml:id="L261">Las <term ref="vc524" type="artistico">torres</term> 
+                    <l xml:id="L261">Las <term key="vc524" type="artistico">torres</term> 
                     son espessas, <caesura/>segund que aprisiemos;</l>
                     <l xml:id="L262">sobre guisa son muchas <caesura/>—cuenta non les sabemos—:</l>	
                     <l xml:id="L263">los días de un año <caesura/>dizen que serién diezmos</l>	
@@ -775,18 +775,18 @@
                 </lg>
             
                 <lg n="1526" type="terástico" met="4x14" rhyme="AAAA">
-                    <l xml:id="L265">Las demás son de <term ref="vc527" type="artistico">canto</term>, 
-                    <caesura/><term ref="vc166" type="artistico">menudas</term> e 
-                    <term ref="vc167" type="artistico">granadas</term>;</l>
-                    <l xml:id="L266">las otras son de <term ref="vc152" type="artistico">mármol</term>, 
+                    <l xml:id="L265">Las demás son de <term key="vc527" type="artistico">canto</term>, 
+                    <caesura/><term key="vc166" type="artistico">menudas</term> e 
+                    <term key="vc167" type="artistico">granadas</term>;</l>
+                    <l xml:id="L266">las otras son de <term key="vc152" type="artistico">mármol</term>, 
                     <caesura/>redondas e quadradas;</l>
                     <l xml:id="L267">mas estas con aquessas <caesura/>son assí aferradas,</l>	
                     <l xml:id="L268">que sean a aquestas <caesura/>aquessas sobjudgadas.</l>
                 </lg>
             
                 <lg n="1527" type="terástico" met="4x14" rhyme="AAAA">
-                    <l xml:id="L269">Ha ý, sin los <term ref="vc528" type="artistico">postigos</term>, 
-                    <caesura/>treinta <term ref="vc119">puertas</term> cabdales.</l>
+                    <l xml:id="L269">Ha ý, sin los <term key="vc528" type="artistico">postigos</term>, 
+                    <caesura/>treinta <term key="vc119">puertas</term> cabdales.</l>
                     <l xml:id="L270">Guárdanlas sendos rëys <caesura/>que pocos ha de tales:</l>	
                     <l xml:id="L271">todos por natura <caesura/>son rëys naturales;</l>		
                     <l xml:id="L272">dizen que todos tienen <caesura/>regnos generales.</l>
@@ -794,21 +794,21 @@
             
                 <lg n="1528" type="terástico" met="4x14" rhyme="AAAA">
                     <note type="motivo" target="/ecfrasis.alexandre/vc248" subtype="enciclopedico">Astronomía</note>
-                    <l xml:id="L273">El <term ref="vc529" type="artistico">real</term> es en medio, 
-                    <caesura/>fecho a <term ref="vc199" type="artistico">maravellas</term>:</l>
+                    <l xml:id="L273">El <term key="vc529" type="artistico">real</term> es en medio, 
+                    <caesura/>fecho a <term key="vc199" type="artistico">maravellas</term>:</l>
                     <l xml:id="L274" ana="#astronomía">ý es el 
-                    <term ref="vc254" type="enciclopedico">Sol</term> 
-                    <term ref="vc27" type="artistico">pintado</term>, 
-                    <caesura/>la <term ref="vc255" type="enciclopedico">Luna</term> 
-                    e las <term ref="vc257" type="enciclopedico">estrellas</term>;</l>	
-                    <l xml:id="L275">ý están las <term ref="vc118" type="artistico">columnas</term>, 
-                    <caesura/>los <term ref="vc530" type="artistico">espejos</term> en ellas</l>		
+                    <term key="vc254" type="enciclopedico">Sol</term> 
+                    <term key="vc27" type="artistico">pintado</term>, 
+                    <caesura/>la <term key="vc255" type="enciclopedico">Luna</term> 
+                    e las <term key="vc257" type="enciclopedico">estrellas</term>;</l>	
+                    <l xml:id="L275">ý están las <term key="vc118" type="artistico">columnas</term>, 
+                    <caesura/>los <term key="vc530" type="artistico">espejos</term> en ellas</l>		
                     <l xml:id="L276">en que se miran todas, <caesura/>casadas e donzellas.</l>
                 </lg>
             
                 <lg n="1529" type="terástico" met="4x14" rhyme="AAAA">
-                    <l xml:id="L277">Son dentro en la <term ref="vc237" type="enciclopedico">villa</term> 
-                    <caesura/>los naturales <term ref="vc531" type="artistico">baños</term>,</l>
+                    <l xml:id="L277">Son dentro en la <term key="vc237" type="enciclopedico">villa</term> 
+                    <caesura/>los naturales <term key="vc531" type="artistico">baños</term>,</l>
                     <l xml:id="L278">a que vienen las aguas <caesura/>por yus’ tierra en caños.</l>
                     <l xml:id="L279">Están aparejados <caesura/>de ropas e d’escaños:</l>		
                     <l xml:id="L280">nunca ý vino omne <caesura/>a que menguassen paños.</l>
@@ -816,10 +816,10 @@
             
                 <lg n="1530" type="terástico" met="4x14" rhyme="AAAA">
                     <l xml:id="L281">Tiene en quatro cantos <caesura/>quatro 
-                    <term ref="vc524" type="artistico">torres</term> cabdales;</l>
-                    <l xml:id="L282">más claras son que <term ref="vc532" type="artistico">vidrio</term> 
-                    <caesura/>nin que finos <term ref="vc158" type="artistico">cristales</term>:</l>
-                    <l xml:id="L283">si fazen por la <term ref="vc237" type="enciclopedico">villa</term> 
+                    <term key="vc524" type="artistico">torres</term> cabdales;</l>
+                    <l xml:id="L282">más claras son que <term key="vc532" type="artistico">vidrio</term> 
+                    <caesura/>nin que finos <term key="vc158" type="artistico">cristales</term>:</l>
+                    <l xml:id="L283">si fazen por la <term key="vc237" type="enciclopedico">villa</term> 
                     <caesura/>furtos o cosas tales,</l>		
                     <l xml:id="L284">allí lo veen luego <caesura/>por çerteras señales.</l>
                 </lg>
@@ -827,7 +827,7 @@
                 <lg n="1531" type="terástico" met="4x14" rhyme="AAAA">
                     <l xml:id="L285">Nunca podrién a ella <caesura/>enemigos venir</l>
                     <l xml:id="L286">que bien de dos jornadas <caesura/>se pudiessen cobrir.</l>	
-                    <l xml:id="L287"><persName ref="vc227" type="religioso">Nabucodonosor</persName> 
+                    <l xml:id="L287"><persName key="vc227" type="religioso">Nabucodonosor</persName> 
                     <caesura/>allí solié dormir,</l>		
                     <l xml:id="L288">el que se fazié dios <caesura/>a los omnes dezir.</l>
                 </lg>
@@ -842,9 +842,9 @@
                 <lg n="1533" type="terástico" met="4x14" rhyme="AAAA">
                     <l xml:id="L293">Fuera qui lo pudiesse <caesura/>por espaçio veer,</l>
                     <l xml:id="L294">el bien de 
-                    <placeName ref="vc402" type="enciclopedico">Babilonia</placeName> 
+                    <placeName key="vc402" type="enciclopedico">Babilonia</placeName> 
                     <caesura/>non lo podrié creer.</l>		
-                    <l xml:id="L295">¡Busque otro <term ref="vc3" type="artistico">maestro</term> 
+                    <l xml:id="L295">¡Busque otro <term key="vc3" type="artistico">maestro</term> 
                     <caesura/>qui más quisier’ saber,</l>	
                     <l xml:id="L296">ca yo en mi materia <caesura/>quiero torno fazer!</l>
                 </lg>

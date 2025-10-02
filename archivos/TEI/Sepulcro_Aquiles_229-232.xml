@@ -7,7 +7,7 @@
             
             <titleStmt>
                 <title type="main">Libro de Alexandre</title>
-                <title type="sub" xml:id="sepul_aquiles" ref="vc701">Sepulcro de Aquiles</title>
+                <title type="sub" xml:id="sepul_aquiles" key="vc701">Sepulcro de Aquiles</title>
                 <author ref="#ANM">Anónimo</author>
                 <editor xml:id="GAC">Gabriel A. Calarco</editor>
             </titleStmt>
@@ -79,52 +79,52 @@
                 
                 <lg n="329" type="terástico" met="4x14" rhyme="AAAA">
                     <l xml:id="L1">Falló en un bel campo <caesura/>una grant 
-                    <term ref="vc64" type="artistico">sepultura</term>,</l>
+                    <term key="vc64" type="artistico">sepultura</term>,</l>
                     <l xml:id="L2">do yazié soterrada <caesura/>la gente de su natura,</l>		
                     <l xml:id="L3">que tenié cadaúno <caesura/>de suso su 
-                    <term ref="vc147" type="artistico">escriptur</term>a,</l>		
-                    <l xml:id="L4">que <term ref="vc384" type="artistico">dizié</term> 
+                    <term key="vc147" type="artistico">escriptur</term>a,</l>		
+                    <l xml:id="L4">que <term key="vc384" type="artistico">dizié</term> 
                     cadaúno <caesura/>quí fuera su mestura.</l>
             </lg> 
             
                 <lg n="330" type="terástico" met="4x14" rhyme="AAAA">
                     <l xml:id="L5">Falló entre los otros <caesura/>un 
-                    <term ref="vc64" type="artistico">sepulcro honrado</term>,</l>
-                    <l xml:id="L6">todo de buenos <term ref="vc691" type="artistico">viessos</term> 
-                    <caesura/>en derredor <term ref="vc692" type="artistico">orlado</term>;</l>	
-                    <l xml:id="L7">qui lo <term ref="vc693" type="artistico">versificó</term> 
-                    <caesura/>fue omne bien <term ref="vc21" type="artistico">letrado</term>,</l>	
-                    <l xml:id="L8">ca puso grant <term ref="vc389" type="artistico">razón</term> 
-                    <caesura/>en poco de <term ref="vc694" type="artistico">dictado</term>:</l>
+                    <term key="vc64" type="artistico">sepulcro honrado</term>,</l>
+                    <l xml:id="L6">todo de buenos <term key="vc691" type="artistico">viessos</term> 
+                    <caesura/>en derredor <term key="vc692" type="artistico">orlado</term>;</l>	
+                    <l xml:id="L7">qui lo <term key="vc693" type="artistico">versificó</term> 
+                    <caesura/>fue omne bien <term key="vc21" type="artistico">letrado</term>,</l>	
+                    <l xml:id="L8">ca puso grant <term key="vc389" type="artistico">razón</term> 
+                    <caesura/>en poco de <term key="vc694" type="artistico">dictado</term>:</l>
                 </lg> 
             
                 <lg n="331" type="terástico" met="4x14" rhyme="AAAA" ana="#troya">
                     <note type="motivo" target="/ecfrasis.alexandre/vc205" subtype="clasico">Guerra de Troya</note>
-                    <l xml:id="L9">«<persName ref="vc210" type="clasico">Aquiles</persName> 
+                    <l xml:id="L9">«<persName key="vc210" type="clasico">Aquiles</persName> 
                     só, que yago <caesura/>so este 
-                    <term ref="vc152" type="artistico">mármol</term> çerrado,</l>
+                    <term key="vc152" type="artistico">mármol</term> çerrado,</l>
                     <l xml:id="L10">el que ovo a 
-                    <persName ref="vc211" type="clasico">Éctor</persName> 
+                    <persName key="vc211" type="clasico">Éctor</persName> 
                     <caesura/>el troyano rancado;</l>		
                     <l xml:id="L11">matome por la planta <caesura/>
-                    <persName ref="vc209" type="clasico">Paris</persName> el perjurado,</l>		
+                    <persName key="vc209" type="clasico">Paris</persName> el perjurado,</l>		
                     <l xml:id="L12">a furto, sin sospecha, <caesura/>yaziendo desarmado».</l>
                 </lg> 
             
                 <lg n="332" type="terástico" met="4x14" rhyme="AAAA">
                     <l xml:id="L13">Quando ovo 
-                    <persName ref="vc618" type="alexandre">el rëy</persName> 
-                    <caesura/>el <term ref="vc114" type="artistico">pitafio</term> 
-                    <term ref="vc201" type="artistico">catado</term>,</l>
+                    <persName key="vc618" type="alexandre">el rëy</persName> 
+                    <caesura/>el <term key="vc114" type="artistico">pitafio</term> 
+                    <term key="vc201" type="artistico">catado</term>,</l>
                     <l xml:id="L14">dizié que de dos 
-                    <term ref="vc691" type="artistico">viessos</term> 
+                    <term key="vc691" type="artistico">viessos</term> 
                     <caesura/>nunca fue tan pagado;</l>	
                     <l xml:id="L15">tovo que fue 
-                    <persName ref="vc210" type="clasico">Aquiles</persName> 
+                    <persName key="vc210" type="clasico">Aquiles</persName> 
                     <caesura/>omne aventurado,</l>		
-                    <l xml:id="L16">que ovo de su <term ref="vc148" type="artistico">gesta</term> 
-                    <caesura/><term ref="vc695" type="artistico">dictador</term> 
-                    tan <term ref="vc392" type="artistico">honrado</term>.</l>
+                    <l xml:id="L16">que ovo de su <term key="vc148" type="artistico">gesta</term> 
+                    <caesura/><term key="vc695" type="artistico">dictador</term> 
+                    tan <term key="vc392" type="artistico">honrado</term>.</l>
                 </lg>                
            </lg>
         </body>

@@ -7,7 +7,7 @@
             
             <titleStmt>
                 <title type="main">Libro de Alexandre</title>
-                <title type="sub" xml:id="viaje_aereo" ref="vc590">Viaje aéreo</title>
+                <title type="sub" xml:id="viaje_aereo" key="vc590">Viaje aéreo</title>
                 <author ref="#ANM">Anónimo</author>
                 <editor xml:id="GAC">Gabriel A. Calarco</editor>
             </titleStmt>
@@ -78,7 +78,7 @@
                 
                 
                 <lg n="2496" type="terástico" met="4x14" rhyme="AAAA">
-                    <l xml:id="L1"><persName ref="vc618" type="alexandre">Alexandre</persName> 
+                    <l xml:id="L1"><persName key="vc618" type="alexandre">Alexandre</persName> 
                     el bueno, <caesura/>potestat sin frontera,</l>
                     <l xml:id="L2">asmó una cosa <caesura/>yendo por la carrera:</l>			
                     <l xml:id="L3">cómo aguisarié <caesura/>poyo o escalera</l>		
@@ -87,19 +87,19 @@
                 
                 <lg n="2497" type="terástico" met="4x14" rhyme="AAAA" ana="#animales">
                     <note type="motivo" target="/ecfrasis.alexandre/vc278" subtype="enciclopedico">Animales</note>
-                    <l xml:id="L5">Fizo prender dos <term ref="vc283" type="enciclopedico">grifos</term>, 
-                    <caesura/>que son <term ref="vc282" type="enciclopedico">aves</term> valientes.</l>
+                    <l xml:id="L5">Fizo prender dos <term key="vc283" type="enciclopedico">grifos</term>, 
+                    <caesura/>que son <term key="vc282" type="enciclopedico">aves</term> valientes.</l>
                     <l xml:id="L6">Avezolos a carnes <caesura/>saladas e rezientes;</l>		
                     <l xml:id="L7">tóvolos muy viçiosos <caesura/>de carnes convinientes</l>	
                     <l xml:id="L8">fasta que se fizieron <caesura/>gruessos e muy valientes.</l>
                 </lg>
                 
                 <lg n="2498" type="terástico" met="4x14" rhyme="AAAA">
-                    <l xml:id="L9">Fizo fer una <term ref="vc594" type="artistico">capa 
+                    <l xml:id="L9">Fizo fer una <term key="vc594" type="artistico">capa 
                     <caesura/>de cuero</term> muy sovado,</l>
                     <l xml:id="L10">quanto cobrié un omne <caesura/>a anchura posado.</l>	
-                    <l xml:id="L11">Ligola a los <term ref="vc283" type="enciclopedico">grifos</term> 
-                    <caesura/>con un firme <term ref="vc596" type="artistico">filado</term>,</l>		
+                    <l xml:id="L11">Ligola a los <term key="vc283" type="enciclopedico">grifos</term> 
+                    <caesura/>con un firme <term key="vc596" type="artistico">filado</term>,</l>		
                     <l xml:id="L12">que non podrié falsar <caesura/>por un omne pesado.</l>
                 </lg>
                 
@@ -107,27 +107,27 @@
                     <l xml:id="L13">Fízoles el conducho <caesura/>por tres días toller,</l>
                     <l xml:id="L14">por amor que oviessen <caesura/>talento de comer.</l>	
                     <l xml:id="L15">Fízose él demientre <caesura/>en el 
-                    <term ref="vc594" type="artistico">cuero</term> 
-                    <term ref="vc597" type="artistico">coser</term>,</l>		
+                    <term key="vc594" type="artistico">cuero</term> 
+                    <term key="vc597" type="artistico">coser</term>,</l>		
                     <l xml:id="L16">la cara descubierta, <caesura/>que pudiesse veer.</l>
                 </lg>
                 
                 <lg n="2500" type="terástico" met="4x14" rhyme="AAAA">
-                    <l xml:id="L17">Priso en una <term ref="vc595" type="artistico">piértega</term> 
+                    <l xml:id="L17">Priso en una <term key="vc595" type="artistico">piértega</term> 
                     <caesura/>la carne espetada,</l>
-                    <l xml:id="L18">en medio de los <term ref="vc283" type="enciclopedico">grifos</term>, 
+                    <l xml:id="L18">en medio de los <term key="vc283" type="enciclopedico">grifos</term>, 
                     <caesura/>pero bien alongada:</l>	
-                    <l xml:id="L19">los <term ref="vc283" type="enciclopedico">grifos</term> 
+                    <l xml:id="L19">los <term key="vc283" type="enciclopedico">grifos</term> 
                     por prenderla <caesura/>dieron luego volada;</l>	
                     <l xml:id="L20">cuidávanse çevar, <caesura/>mas non les valió nada.</l>
                 </lg>
                 
                 <lg n="2501" type="terástico" met="4x14" rhyme="AAAA">
                     <l xml:id="L21">Quanto ellos volavan, <caesura/>él tanto se erzía:</l>
-                    <l xml:id="L22">el rëy <persName ref="vc618" type="alexandre">Alexandre</persName> 
+                    <l xml:id="L22">el rëy <persName key="vc618" type="alexandre">Alexandre</persName> 
                     <caesura/>toda vía sobía.</l>			
                     <l xml:id="L23">A las vezes alçava, <caesura/>a las vezes premía:</l>		
-                    <l xml:id="L24">allá ivan los <term ref="vc283" type="enciclopedico">grifos</term> 
+                    <l xml:id="L24">allá ivan los <term key="vc283" type="enciclopedico">grifos</term> 
                     <caesura/>do el rëy quería.</l>
                 </lg>
                 
@@ -148,33 +148,33 @@
                 <lg n="2504" type="terástico" met="4x14" rhyme="AAAA" ana="#mapamundi">
                     <note type="motivo" target="/ecfrasis.alexandre/vc12" subtype="enciclopedico">Mapamundi</note>   
                     <l xml:id="L33">Tanto pudo el rëy <caesura/>a las nuves pujar:</l>
-                    <l xml:id="L34">veyé <term ref="vc399" type="enciclopedico">montes</term> 
-                    e <term ref="vc598" type="enciclopedico">valles</term> 
+                    <l xml:id="L34">veyé <term key="vc399" type="enciclopedico">montes</term> 
+                    e <term key="vc598" type="enciclopedico">valles</term> 
                     <caesura/>de yus’ de sí estar;</l>		
-                    <l xml:id="L35">veyé entrar los <term ref="vc231" type="enciclopedico">ríos</term> 
-                    <caesura/>todos en alta <term ref="vc230" type="enciclopedico">mar</term>,</l>		
+                    <l xml:id="L35">veyé entrar los <term key="vc231" type="enciclopedico">ríos</term> 
+                    <caesura/>todos en alta <term key="vc230" type="enciclopedico">mar</term>,</l>		
                     <l xml:id="L36">mas cómo yazié o non <caesura/>nunca lo pudo asmar.</l>
                 </lg>
                 
                 <lg n="2505" type="terástico" met="4x14" rhyme="AAAA" ana="#mapamundi">
                     <note type="motivo" target="/ecfrasis.alexandre/vc12" subtype="enciclopedico">Mapamundi</note>   
-                    <l xml:id="L37">Veyé en quáles <term ref="vc599" type="enciclopedico">puertos</term> 
-                    <caesura/>son angostos los <term ref="vc230" type="enciclopedico">mares</term>;</l>
+                    <l xml:id="L37">Veyé en quáles <term key="vc599" type="enciclopedico">puertos</term> 
+                    <caesura/>son angostos los <term key="vc230" type="enciclopedico">mares</term>;</l>
                     <l xml:id="L38">veyé grandes peligros <caesura/>en muchos de lugares;</l>	
-                    <l xml:id="L39">veyé muchas <term ref="vc600" type="enciclopedico">galeas</term> 
+                    <l xml:id="L39">veyé muchas <term key="vc600" type="enciclopedico">galeas</term> 
                     <caesura/>dar en los peñiscales;</l>		
-                    <l xml:id="L40">otras sallir a <term ref="vc599" type="enciclopedico">puerto</term>, 
+                    <l xml:id="L40">otras sallir a <term key="vc599" type="enciclopedico">puerto</term>, 
                     <caesura/>adobar de yantares.</l>
                 </lg>
                 
                 <lg n="2506" type="terástico" met="4x14" rhyme="AAAA" ana="#mapamundi">
                     <note type="motivo" target="/ecfrasis.alexandre/vc12" subtype="enciclopedico">Mapamundi</note>   
                     <l xml:id="L41">Mesuró toda
-                    <placeName ref="vc246" type="enciclopedico">África</placeName> 
+                    <placeName key="vc246" type="enciclopedico">África</placeName> 
                     <caesura/>cómo yaz’assentada,</l>
                     <l xml:id="L42">por quál parte serié <caesura/>más rafez la entrada:</l>		
                     <l xml:id="L43">luego vío por 
-                    <placeName ref="vc602" type="enciclopedico">Siria</placeName> 
+                    <placeName key="vc602" type="enciclopedico">Siria</placeName> 
                     <caesura/>aver mejor passada,</l>		
                     <l xml:id="L44">ca avié grant sallida <caesura/>e larguera entrada.</l>
                 </lg>
@@ -182,7 +182,7 @@
                 <lg n="2507" type="terástico" met="4x14" rhyme="AAAA" ana="#mapamundi">
                     <note type="motivo" target="/ecfrasis.alexandre/vc12" subtype="enciclopedico">Mapamundi</note>   
                     <l xml:id="L45">Luengo serié de todo <caesura/>quanto vío 
-                    <term ref="vc81" type="artistico">contar</term>:</l>
+                    <term key="vc81" type="artistico">contar</term>:</l>
                     <l xml:id="L46">non podrié a lo medio <caesura/>el día avondar;</l>		
                     <l xml:id="L47">mas en una hora <caesura/>sopo mientes parar</l>		
                     <l xml:id="L48">lo que todos abades <caesura/>non lo sabrién asmar.</l>
@@ -190,8 +190,8 @@
                 
                 <lg n="2508" type="terástico" met="4x14" rhyme="AAAA" ana="#mapamundi">
                     <note type="motivo" target="/ecfrasis.alexandre/vc12" subtype="enciclopedico">Mapamundi</note>   
-                    <l xml:id="L49">Solémoslo <term ref="vc547" type="artistico">leer</term>, 
-                    <caesura/>diz’lo la <term ref="vc147" type="artistico">escriptura</term>,</l>
+                    <l xml:id="L49">Solémoslo <term key="vc547" type="artistico">leer</term>, 
+                    <caesura/>diz’lo la <term key="vc147" type="artistico">escriptura</term>,</l>
                     <l xml:id="L50">que es llamado mundo <caesura/>el omne por figura.</l>	
                     <l xml:id="L51">Qui comedir quisier’ <caesura/>e asmar la fechura</l>		
                     <l xml:id="L52">entendrá que es bien <caesura/>razón sin depresura:</l>
@@ -200,14 +200,14 @@
                 <lg n="2509" type="terástico" met="4x14" rhyme="AAAA" ana="#mapamundi">
                     <note type="motivo" target="/ecfrasis.alexandre/vc12" subtype="enciclopedico">Mapamundi</note> 
                     <note type="motivo" target="/ecfrasis.alexandre/vc248" subtype="enciclopedico">Astronomía</note>
-                    <l xml:id="L53"><placeName ref="vc426" type="enciclopedico">Asïa</placeName> 
+                    <l xml:id="L53"><placeName key="vc426" type="enciclopedico">Asïa</placeName> 
                     es el cuerpo, <caesura/>segunt mio esçïent’;</l>
-                    <l xml:id="L54" ana="#astronomía"><term ref="vc254" type="enciclopedico">Sol</term> 
-                    e <term ref="vc255" type="enciclopedico">Luna</term>, los ojos, 
-                    <caesura/>que naçen de <term ref="vc549" type="enciclopedico">Orient’</term>;</l>		
+                    <l xml:id="L54" ana="#astronomía"><term key="vc254" type="enciclopedico">Sol</term> 
+                    e <term key="vc255" type="enciclopedico">Luna</term>, los ojos, 
+                    <caesura/>que naçen de <term key="vc549" type="enciclopedico">Orient’</term>;</l>		
                     <l xml:id="L55">los braços son la cruz <caesura/>del Rëy Omnipotent’,</l>		
                     <l xml:id="L56">que fue muerto en 
-                    <placeName ref="vc426" type="enciclopedico">Asia</placeName> 
+                    <placeName key="vc426" type="enciclopedico">Asia</placeName> 
                     <caesura/>por salut de la gent’.</l>
                 </lg>
                 
@@ -215,33 +215,33 @@
                     <note type="motivo" target="/ecfrasis.alexandre/vc12" subtype="enciclopedico">Mapamundi</note>   
                     <l xml:id="L57">La pierna que deçende <caesura/>del siniestro costado</l>
                     <l xml:id="L58">es el regno de 
-                    <placeName ref="vc246" type="enciclopedico">África</placeName>, 
+                    <placeName key="vc246" type="enciclopedico">África</placeName>, 
                     <caesura/>por ella figurado.</l>		
-                    <l xml:id="L59">Toda la mandan <term ref="vc689" type="enciclopedico">moros</term>, 
+                    <l xml:id="L59">Toda la mandan <term key="vc689" type="enciclopedico">moros</term>, 
                     <caesura/>un pueblo renegado,</l>	
                     <l xml:id="L60">que oran a 
-                    <persName ref="vc688" type="enciclopedico">Mafómat</persName>, <caesura/>un traedor provado.</l>
+                    <persName key="vc688" type="enciclopedico">Mafómat</persName>, <caesura/>un traedor provado.</l>
                 </lg>
                 
                 <lg n="2511" type="terástico" met="4x14" rhyme="AAAA" ana="#mapamundi">
                     <note type="motivo" target="/ecfrasis.alexandre/vc12" subtype="enciclopedico">Mapamundi</note>   
                     <l xml:id="L61">Es por la pierna diestra <caesura/>
-                    <placeName ref="vc245" type="enciclopedico">Ëuropa</placeName> 
-                    <term ref="vc77" type="artistico">notada</term>;</l>
+                    <placeName key="vc245" type="enciclopedico">Ëuropa</placeName> 
+                    <term key="vc77" type="artistico">notada</term>;</l>
                     <l xml:id="L62">esta es más católica, <caesura/>de la fe más poblada;</l>		
                     <l xml:id="L63">esta es de la diestra <caesura/>del Obispo santiguada:</l>	
-                    <l xml:id="L64">tienen <persName ref="vc690" type="religioso">Petrus</persName> 
-                    e <persName ref="vc651" type="religioso">Paulus</persName> 
+                    <l xml:id="L64">tienen <persName key="vc690" type="religioso">Petrus</persName> 
+                    e <persName key="vc651" type="religioso">Paulus</persName> 
                     <caesura/>en ella su posada.</l>
                 </lg> 
                 
                 <lg n="2512" type="terástico" met="4x14" rhyme="AAAA" ana="#mapamundi">
                     <note type="motivo" target="/ecfrasis.alexandre/vc12" subtype="enciclopedico">Mapamundi</note>   
-                    <l xml:id="L65">La carne es la <term ref="vc233" type="enciclopedico">tierra</term>, 
+                    <l xml:id="L65">La carne es la <term key="vc233" type="enciclopedico">tierra</term>, 
                     <caesura/>espessa e pesada;</l>
-                    <l xml:id="L66">el <term ref="vc230" type="enciclopedico">mar</term> 
+                    <l xml:id="L66">el <term key="vc230" type="enciclopedico">mar</term> 
                     es el pellejo <caesura/>que la tiene çercada;</l>		
-                    <l xml:id="L67">las venas son los <term ref="vc231" type="enciclopedico">ríos</term> 
+                    <l xml:id="L67">las venas son los <term key="vc231" type="enciclopedico">ríos</term> 
                     <caesura/>que la tienen temprada:</l>	
                     <l xml:id="L68">fazen diestro e siniestro <caesura/>mucha tornaviscada.</l>
                 </lg>
@@ -250,17 +250,17 @@
                     <note type="motivo" target="/ecfrasis.alexandre/vc12" subtype="enciclopedico">Mapamundi</note>
                     <note type="motivo" target="/ecfrasis.alexandre/vc278" subtype="enciclopedico">Animales</note>
                     <l xml:id="L69">Los huessos son las 
-                    <term ref="vc399" type="enciclopedico">peñas</term> 
+                    <term key="vc399" type="enciclopedico">peñas</term> 
                     <caesura/>que alçan los collados;</l>
                     <l xml:id="L70">cabellos de cabeça, <caesura/>las yervas de los prados:</l>	
                     <l xml:id="L71" ana="#animales">crían en esta tierra <caesura/>muchos malos 
-                    <term ref="vc480" type="enciclopedico">venados</term>,</l>	
+                    <term key="vc480" type="enciclopedico">venados</term>,</l>	
                     <l xml:id="L72" ana="#animales">que son por majamiento <caesura/>de los nuestros pecados.</l>
                 </lg>
                 
                 <lg n="2514" type="terástico" met="4x14" rhyme="AAAA">
                     <l xml:id="L73">Desque ovo el rëy <caesura/>la tierra bien 
-                    <term ref="vc200" type="artistico">asmada</term>,</l>
+                    <term key="vc200" type="artistico">asmada</term>,</l>
                     <l xml:id="L74">que ovo a su guisa <caesura/>la voluntat pagada,</l>		
                     <l xml:id="L75">senestroles el çevo, <caesura/>guïolos de tornada;</l>		
                     <l xml:id="L76">fue en poco de rato <caesura/>entre la su mesnada.</l>
