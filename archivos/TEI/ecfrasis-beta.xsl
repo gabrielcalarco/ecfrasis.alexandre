@@ -8,7 +8,7 @@
                 
                 <xsl:template match="/">
                     <xsl:variable name="doc_id" select="//title[@type='sub']/@xml:id"/> 
-                    <!-- Recuperamos el id del documento en una variable para nombrar el archivo de salida -->
+                    <!-- Recupera el id del documento en una variable para nombrar el archivo de salida -->
                     <!-- Redirigir el resultado hacia un archivo -->        
                     <xsl:result-document method="html" encoding="utf-8"
                         href="_textosalex/{$doc_id}.html" omit-xml-declaration="yes">---
