@@ -365,7 +365,17 @@ tbody tr:nth-child(odd) th {
   padding-bottom: 1rem;
   text-align: center;
 }
-
+.masthead_sobreproyecto {
+  // display: none;
+  background:fixed;
+  background-image: url("AristotelesyAlejandro.jpg");
+  background-size: cover;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 1rem;
+  padding-top: 175px;
+  padding-bottom: 1rem;
+  text-align: center;
+}
 .masthead-title {
 
   display: none; 

@@ -12,9 +12,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: La écfrasis en el Libro de Alexandre
+title: La écfrasis en el <i>Libro de Alexandre</i>
 email: your-email@example.com
-description: Recurso en construcción para el estudio de la écfrasis en el Libro de Alexandre
+description: Recurso para el estudio de la écfrasis en el <i>Libro de Alexandre</i>
 baseurl: "/ecfrasis.alexandre" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
