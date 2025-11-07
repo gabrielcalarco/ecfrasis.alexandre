@@ -4,7 +4,7 @@ title: Sobre este proyecto
 permalink: sobreproyecto
 ---
 
-La presente edición digital fue desarrollada por Gabriel Alejandro Calarco, estudiante del Doctorado en Literatura de la Universidad de Buenos Aires, como parte de la investigación que llevó a cabo con la dirección del Dr. Leonardo Funes y la Dra. Gimena del Rio Riande. A continuación se detallan los criterios que guiaron su construcción:
+La presente edición digital fue desarrollada por Gabriel Alejandro Calarco, estudiante del Doctorado en Literatura de la Universidad de Buenos Aires, como parte de su investigación sobre el uso de la écfrasis en el *Libro de Alexandre*, que se llevó a cabo entre 2020 y 2025 con la dirección del Dr. Leonardo Funes y la Dra. Gimena del Rio Riande. A continuación se detallan los criterios que guiaron su construcción:
 
 <br/>
 
