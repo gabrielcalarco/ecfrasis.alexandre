@@ -4,17 +4,18 @@ title: Sobre este proyecto
 permalink: sobreproyecto
 ---
 
-{% include feature/nav-menu.html sections="Presentación del proyecto;Fundamentación y objetivos;Antecedentes;Propuesta de codificación semántica;" %}
+{% include feature/nav-menu.html sections="1. Presentación del proyecto;2. Fundamentación y objetivos;3. Antecedentes;4. Propuesta de codificación semántica;5. Decisiones tecnológicas" %}
 
 <br/>
 
-# **Presentación del proyecto**
+# **1. Presentación del proyecto**
 La presente edición digital fue desarrollada por Gabriel Alejandro Calarco, estudiante del Doctorado en Literatura de la Universidad de Buenos Aires. La propuesta de marcado semántico 
 
 
 
 <br/>
-## **Fundamentación y objetivos**
+
+# **2. Fundamentación y objetivos**
 
 El *Libro de Alexandre* cuenta actualmente con varias ediciones críticas de gran calidad,como las de Cañas Murillo (publicada originalmente en 1978 y revisada en 1988), Nelson (1979), Marcos Marín (1987), Casas Rigall (publicada originalmente en 2007 y revisada en 2014) y García López (2010), en las que se abordan diferentes aproximaciones a la reconstrucción del texto, y a las que se suma la [edición digital unificada de Marcos Marín](https://www.cervantesvirtual.com/obra/libro-de-alexandre--0/). En vistas de que tanto la reconstrucción crítica del texto como la disponibilidad del mismo son necedades ya cubiertas por estos antecedentes, el proyecto de edición digital que se presentará a continuación se propuso con objetivos diferentes, aunque complementarios a los de sus predecesores.   
 En primer lugar, la propuesta no es realizar una edición digital integral del poema, sino sólo de los pasajes de écfrasis que forman el corpus del presente estudio filológico. El objetivo de esta edición y publicación digital parcial es ofrecer al lector una plataforma para el estudio de la écfrasis en el *Alexandre*, en donde el texto del poema entre en diálogo con las obras de arte plástico utilizadas como puntos de comparación y de referencia y con los resultados de la presente investigación.  
@@ -26,7 +27,9 @@ Dado que el objetivo de esta edición no es ofrecer al lector una lectura contin
 
 Finalmente, se espera que futuros proyectos que adopten esta aproximación puedan aprovechar la experiencia y la estructura tecnológica que se desarrollará para alojar la edición digital del corpus estudiado. Con este objetivo, se adoptan los principios de la *minimal computing*, que permiten la creación de estructuras tecnológicas menos dependientes de las infraestructuras económicas con las que deben contar la mayoría de los proyectos de Humanidades Digitales, como el trabajo en sitios dinámicos que requieren de la disponibilidad de un servidor para poder ser alojadas o el uso de software de licencia paga.
 
-## **Antecedentes**
+<br/>
+
+# **3. Antecedentes**
 
 Dentro del área de estudios de las Humanidades Digitales, el presente proyecto se introduce en aquellas prácticas que atañen a la producción de ediciones filológicas digitales (Alvite Díez y Rojas Castro, 2022; Pierazzo, 2015, 2016, 2019; Rojas Castro, 2013, 2018; Sahle 2017; Torrent, 2020; Ward, 2017). Esta propuesta se relaciona directamente con las líneas de investigación que vienen avanzando en la creación de un esquema dentro del lenguaje XML-TEI para la codificación y edición digital de poesía medieval castellana, como las desarrolladas en los proyectos ReMetCa[^2] (González Blanco García y Rodríguez, 2014; Martínez Cantón et al., 2014), Diálogo Medieval (Rio Riande y Zubillaga, 2015), y Poesía Medieval[^3] , Este último proyecto tiene una orientación diferente a la de estos antecedentes, ya que, mientras que en estos el foco central había estado en el estudio y marcado de los aspectos formales de las composiciones poéticas editadas, en el plan de edición digital que aquí se presenta para el *Alexandre* el marcado XML-TEI se encuentra predominantemente dedicado a la codificación de aspectos semánticos del texto a través de un vocabulario controlado, lo que permitirá indicar la presencia de diferentes términos y motivos en los fragmentos editados para que puedan ser procesados informáticamente.   
 El uso de vocabularios controlados para el marcado de aspectos semánticos con TEI tiene un antecedente directo en el Vocabulario de la Poesía Medieval Castellana[^4], desarrollado por el proyecto ReMetCa y utilizado en la codificación del corpus de Diálogo Medieval. Esta metodología sería retomada luego en la edición del Viaje al Río de la Plata, de Ulrico Schmidel (Rio Riande et al., 2025), desarrollada por el Laboratorio de Humanidades Digitales (CONICET-IIBICRIT)[^5], en donde se utilizó para agregar notas de alcance para un grupos de términos importantes en el texto, como los elementos de navegación, las armas utilizadas y especialmente los pueblos originarios mencionados a lo largo del relato (Rio  Riande et al., en prensa). En ese sentido, la edición que aquí se presenta se propone retomar este sistema de codificación para dar continuidad a estos antecedentes, a la vez que explorar y seguir desarrollando las posibilidades que ofrece para la codificación y presentación en el texto de información semántica en el contexto de una edición filológica digital.   
@@ -36,8 +39,11 @@ Es importante resaltar que este proyecto no pretende realizar nuevas ediciones c
 
 Finalmente, en lo que respecta a las decisiones tecnológicas tomadas para alojar y publicar los textos codificados en XML-TEI, fue fundamental el antecedente de la adopción por parte del HD LAB \- Laboratorio de Humanidades Digitales (CONICET-IIBICRIT) de los principios y metodologías de la *minimal computing*, como la publicación en sitios estáticos y el uso de software abierto, para el desarrollo de las ediciones de su biblioteca digital[^6] (Rio Riande, 2022a, p. 253; Rio Riande y Viglianti, 2025a, p. 14). En paralelo a la experiencia adquirida durante el trabajo en estas ediciones, fue de gran importancia para la adopción de estas tecnologías en el presente proyecto la realización del curso *Digital Publishing with Minimal Computing/Ediciones digitales con minimal computing*, dictado por Rio Riande y Viglianti, que tuvo su primera edición en el año 2020[^7]. Dado que uno de los objetivos de este proyecto es documentar un flujo de trabajo para la edición y publicación digital académica en español para que pueda ser reutilizado en el futuro por otras iniciativas similares, el uso de software propietario constituye una seria limitación para replicabilidad del proceso. Por ese motivo, las herramientas gratuitas y abiertas que fueron proporcionadas en este curso, desde el editor de código hasta el sistema de alojamiento para los sitios estáticos, fueron de enorme importancia para alcanzar este objetivo.
 
-## **Propuesta de codificación semántica** 
+<br/>
 
+# **4. Propuesta de codificación semántica** 
+
+<br/>
 Dado que uno de los objetivos centrales de este trabajo es el estudio de la representación del rol del arte y el artista en el *Alexandre* a través de la écfrasis, el sistema de codificación adoptado para la edición del corpus debía ser capaz de describir la actividad artística y los temas representados de forma en que estos pudieran ser interpretados informáticamente. Con este fin, uno de los primeros pasos en la preparación de esta edición digital fue la creación de un vocabulario controlado que permitiera agregar una capa de información semántica referida a este tema en la codificación del texto. Como señalan Abaitua et al., retomando la definición de “semántica” de Berners-Lee: 
 
 Para Berners-Lee (1998) el término “semántica” significa específicamente “tratable computacionalmente”, que es una interpretación distinta a la que se usa en lingüística. En esta nueva acepción, la semántica debe transmitir lo que las máquinas deben hacer con los datos. El test semántico será el que permita comprobar si la máquina ha sabido tratar correctamente un dato dado o no. Con todo, pese a lo que pueda parecer, esta semántica, al igual que todo buen sistema simbólico, debe ser declarativa y no procedimental; es decir, debe servir para expresar lo que un dato “significa” y no lo que se quiere hacer con él (Abaitua et al., 2003, p. 26).
@@ -63,6 +69,132 @@ El punto de partida para la creación de una taxonomía en la aplicación utiliz
 Una vez establecido el vocabulario controlado, se procedió a la codificación del texto en el estándar de XML-TEI (ver apartado 2.2.3), mediante la cual se puede convertir a cada uno de los términos mencionados en el texto que pertenezca a una de las categorías arriba descritas en un enlace a la correspondiente entrada del vocabulario controlado, desde donde se pueden consultar notas de alcance para términos complejos u opacos, y en el caso de los temas iconográficos más relevantes, enlaces a ejemplos de arte plástico medieval en donde se encuentran representados. Para ofrecer al público de la edición una referencia visual de la distribución de los temas representados en los pasajes editados, se utiliza un sistema de colores para identificar las principales categorías temáticas del vocabulario controlado: los términos asociados al arte y el artista parecen en rojo, los temas clásicos en verde, los religiosos en violeta, los enciclopédicos en azul y, finalmente las gestas de Alejandro en naranja. Adicionalmente, al comienzo de cada estrofa se añaden, como notas enlazadas al vocabulario controlado, los temas iconográficos representados (si los hubiese).  
 
 
+<br/>
+
+# **5. Decisiones tecnológicas**
+
+<br/>
+
+{% include feature/nav-menu.html sections="5-1. Consideraciones iniciales;5-2. Vocabulario controlado;5-3. Codificación XML-TEI;5-4. Sitios estáticos con Jekyll y GitHub;5-5. Herramientas complementarias;5-6. Consideraciones finales" %}
+
+<br/>
+
+# **5-1. Consideraciones iniciales**
+
+<br/>
+En los siguientes apartados se hará referencia a una variedad de herramientas gratuitas y abiertas que fueron utilizadas en la elaboración de la edición digital de las écfrasis del *Alexandre*. Las decisiones tecnológicas detalladas en este capítulo fueron motivadas tanto por razones prácticas de índole económica, derivadas de la escasez de infraestructura y financiamiento que sufre la práctica profesional de las Humanidades (y en particular las digitales) en la Argentina, pero también derivadas de la convicción de que la ciencia abierta es una cualidad absolutamente necesaria para el desarrollo de una comunidad de investigación más efectiva, diversa y justa (Banzato y González, 2017; Rio Riande, 2016, 2022b), que en nuestro país estableció en 2013 ley 26.899[^8] sancionada en 2013 y destinada a la creación de repositorios digitales institucionales de acceso abierto. El rápido crecimiento de la ciencia abierta, como un conjunto de métodos, metodologías y tecnologías para abrir y reusar el conocimiento y la investigación científica impacta asimismo en los modos es lo que se expresan las Humanidades Digitales, y por ende, la edición filológica digital.  Es por esto que el objetivo de utilizar un método de edición digital que pudiera ser reproducido utilizando enteramente herramientas de código abierto  resulta de gran importancia para los objetivos de este proyecto.   
+La *minimal computing*[^9] puede entenderse, en el caso de esta tesis, como una aproximación teórica a la elección de las tecnologías que se utilizarán para la creación de una edición filológica digital. Alex Gil (2015), una de las figuras fundadoras del concepto de *minimal computing* proponía abordar esa elección a partir de la pregunta “*what do we need?*”, y algunos años más tarde, al revisitar el tema, expandirá ese cuestionamiento inicial con tres preguntas adicionales: “1) *what do we need?*; 2\) *what do we have*; 3\) *what must we prioritize?*; and 4\) *what are we willing to give up?*” (Risam y Gil, 2022). Por su parte, del Rio Riande propone a la *minimal computing* como “un conjunto de principios y tecnologías de código abierto que permiten capacitar a los estudiantes e investigadores para trabajar de manera autónoma y tener más control sobre el futuro de sus propios proyectos” (Rio Riande y Viglianti, 2025b, p. 9).   
+Una idea que aparece recurrentemente en los trabajos dedicados a la edición digital filológica es que las tecnologías utilizadas para su desarrollo, lejos de ser neutras desde el punto de vista académico, condicionan las aproximaciones teóricas con las que se aborda el texto (Alvite Díez y Rojas Castro, 2022; McGann, 2010; Priani Saisó y Guzmán Olmos, 2014; Renear, 2004; Rio Riande, 2020; Torrent, 2020; Ward, 2017). Esto es cierto tanto para ediciones mínimas, restringidas por limitaciones materiales de presupuesto o infraestructura, como para las ediciones de alta tecnología, generalmente desarrolladas en los grandes centros académicos y científicos del Norte Global, en donde la expectativa de utilizar las últimas tecnologías disponibles puede generar la adopción de metodologías y herramientas sin un análisis crítico sobre su adecuación para la aproximación teórica y los objetivos del proyecto en cuestión. Lo que la aproximación propuesta por la *minimal computing* aporta al momento de conceptualizar un proyecto de edición digital no es solo la respuesta a un problema práctico como el del alojamiento, sino una conciencia sobre la necesidad de reflexionar sobre la relación entre los medios tecnológicos materiales que se elige utilizar y las consecuencias teóricas de esas elecciones en la investigación (Risam y Gil, 2022).
+
+<br/>
+
+# **5-2. Vocabulario controlado**
+
+Para la creación del vocabulario controlado de categorías y términos relacionados al estudio de la écfrasis en el *Alexandre* se utilizó el software gratuito TemaTres[^10], que es “una aplicación web para gestionar representaciones lingüísticas formales del conocimiento: vocabularios controlados, taxonomías, tesauros, listas de encabezados, etc.” (Gonzales Aguilar et al., 2012, p. 318). Como ya se desarrolló en el apartado 2.1.3, este programa parte de la base de al menos tres meta-términos para elaborar una taxonomía en la que los términos introducidos se encuentran interconectados por relaciones jerárquicas u horizontales, y en donde cada término es designado con un identificador único en la forma de una URL (Agujetas Ortiz y Sánchez Prieto Borja, 2022, p. 8).   
+La versión original de este vocabulario se creó en la plataforma en línea de TemaTres[^11] y se encuentra actualmente disponible para su consulta a través de de la plataforma de servicios terminológicos de la Facultad de Filosofía y Letras de la Universidad de Buenos Aires[^12]. Sin embargo, para la integración del vocabulario a la edición digital, se decidió crear una réplica de la estructura del vocabulario controlado generado en TemaTres como una colección de archivos HTML con hipervínculos que reproducen la estructura jerárquica y relacional de la taxonomía original. Esto fue posible gracias a las características de TemaTres, que me permitió acceder a un sistema numérico de clasificación independiente de los requerimientos tecnológicos de su plataforma (algo que no hubiera sido posible con otros programas diseñados para la creación de vocabularios controlados, como Skosmos[^13]).   
+Por ejemplo la URL correspondiente al término écfrasis en la plataforma de Tema Tres es [https://vocabularyserver.com/alexandre/index.php?tema=4&/ecfrasis](https://vocabularyserver.com/alexandre/index.php?tema=4&/ecfrasis), aunque el sufijo \&ecfrasis no es obligatorio para acceder a la entrada en el vocabulario. Si se retira este sufijo, el resultado es una raíz común a todas las entradas del vocabulario (https://vocabularyserver.com/alexandre/index.php?tema=) y un valor numérico individual para cada entrada (en el caso de écfrasis, el 4). Este detalle aparentemente trivial fue fundamental para el desarrollo posterior de este proyecto, ya que permitió comprender desde una etapa temprana del trabajo de edición que lo que se estaba referenciando en el marcado no era la URL de una plataforma específica, sino un código numérico individual que representa un término o categoría determinado en una taxonomía conceptual, creada con la ayuda de Tema Tres, pero independiente de su alojamiento en esta plataforma. 
+
+<br/>
+
+# **5-3. Codificación XML-TEI**
+
+<br/>
+
+{% include feature/nav-menu.html sections="5-3-1. El estándar XML-TEI;5-3-2. Software utilizado;5-3-3 Encabezado;5-3-4. Cuerpo del texto" %}
+
+<br/>
+
+### **5-3-1. El estándar XML-TEI**
+
+*Text Encoding Initiative* (TEI) es un estándar internacional basado en XML (un lenguaje de marcado diseñado para almacenar, describir y transportar datos de manera estructurada) que ofrece un conjunto de directrices y esquemas para la representación digital de textos. Su objetivo es proporcionar un marco común y flexible que permita describir de manera estructurada tanto información textual como elementos paratextuales, tales como anotaciones, variantes, entidades nombradas o estructuras documentales, facilitando la preservación, el intercambio y la interoperabilidad de los recursos digitales en el ámbito de las Humanidades. Las ventajas que ofrece el uso de TEI son múltiples:
+
+* El lenguaje XML-TEI no depende de ningún software o programa informático y por tanto es gratuito e independiente. Un documento XML será siempre el mismo en cualquier sistema operativo o aplicación. Este hecho evita que se puedan dar situaciones catastróficas, en las que, por ejemplo, un programa con un formato propietario ya no se mantenga o no se utilice y los documentos queden obsoletos.  
+* XML-TEI ha sido diseñado por y para la comunidad científica que es la encargada en última instancia de promover y mejorar las guías de marcado. Cuantos más usuarios y más gente implicada haya utilizando el mismo sistema de marcado, más se avanzará hacia una propuesta sólida de codificación.  
+* Un marcado a través de un estándar web, independiente de cualquier software o plataforma web, como es el caso de en XML-TEI, permite y facilita la reutilización del mismo material: en diferentes formatos, en contextos diferentes, por diferentes usuarios. Esto permite que proyectos posteriores o contemporáneos puedan establecer un vínculo y un uso diferente del material publicado, evitando el tener que empezar de cero y avanzando en el conocimiento.  
+* XML-TEI se centra en el significado y el contenido del texto y no en su apariencia o en su presentación final, es decir, no es tan relevante el señalar un título en negrita, como definir que efectivamente se trata de un “título” (Alcaraz Martínez y Vázquez Puig, 2016; Burnard, 2013, 2014; Rio Riande, 1016; Rojas Castro, 2017; Romary, 2009; Rosa y Senso, 1999; Fradejas Rueda, 2009; Martín, Aizpuru, 2016; Pierazzo, 2015; Renar 2004; Torrent, 2015; Vanhoutte, 2004).
+
+<br/>
+
+### **5-3-2. Software utilizado para la codificación**
+
+Para realizar el marcado de los textos se utilizó el editor de código gratuito Visual Studio Code[^14]. Cabe señalar que durante la mayor parte de la historia del uso del estándar XML-TEI, debido a la falta de opciones gratuitas que permitieran validar documentos a partir de un esquema y disponer de herramientas predictivas que aceleran considerablemente los tiempos de trabajo, para la codificación de textos con TEI era prácticamente obligatorio el uso de un editor de código pago, como Oxygen[^15]. Sin embargo, gracias al desarrollo en 2020 por parte del Dr. Raffaele Viglianti de la extensión Scholarly XML[^16], esas operaciones se encuentran disponibles en un editor de código gratuito como Visual Studio Code. Este detalle no es menor para los objetivos de este proyecto, ya que como ya se ha señalado, es importante que el proceso de edición digital que aquí se describe pueda ser reproducido utilizando herramientas que se encuentran disponibles para toda la comunidad científica, con la mayor independencia posible de barreras económicas como la que impone el uso de software propietario.
+
+<br/>
+
+### **5-3-3. Encabezado**
+
+El encabezado de TEI recoge los metadatos del documento, y se divide en tres secciones principales, que forman los elementos obligatorios de todo archivo XML-TEI:
+
+* En el \<titleStmt\> se utilizan dos elementos \<title\>, el primero con el atributo @type=”main”[^17] para referir al título del poema, y el segundo con el atributo @type=”sub” para referir al fragmento concreto que constituye la unidad de edición de los archivos XML que forman el corpus. Adicionalmente, el título del fragmento se encuentra referenciado a su correspondiente entrada en el vocabulario controlado mediante el atributo @ref. Además de estos elementos se agrega un \<author\>, que se declara anónimo siguiendo el consenso mayoritario de la crítica (ver apartado 1.1.1.2), y un elemento \<editor\> para declarar al editor del documento digital, diferenciado del editor del texto crítico con el atributo @role=”digital”.   
+* En el \<publicationStmt\> se indica que la publicación se realiza con una licencia *Creative Commons Attributionl \- ShareAlike 4.0 International*[^18], para lo que se utiliza el elemento \<license\> contenido a su vez por un elemento \<availability\>.  
+* En la \<sourceDesc\> se incluyen dos \<listBibl\>, el primero para consignar la edición de Casas Rigall de la que se toma el texto crítico editado, introducido con un elemento \<bibl\> con el atributo @type="book", al que se agrega el título del libro, el editor crítico, la editorial y el lugar y la fecha de publicación. Por otro lado, en el segundo \<listBibl\> se consigna la información referente a los manuscritos descritos en el apartado 1.1.1.1, para esto se utilizan los elementos \<msDesc\> y \<msIdentifier\>, en los que se incluye la ubicación del manuscrito (\<repository\>), el identificador dado por la entidad propietaria (\<idno\>) y las letras con las que la crítica suele identificarlos (nuevamente con \<idno\>, pero en este caso anidado en un \<altIdentifier\>).
+
+<br/>
+
+### **5-3-4. Cuerpo del texto**
+
+En el cuerpo del texto se pueden distinguir, según su función, dos tipos de elementos. En primer lugar se encuentran los estructurales, \<lg\>, \<l\> y \<caesura\>, que describen el ordenamiento del texto en versos y estrofas. Con la excepción de la cesura, el uso de estos elementos fue tomado del esquema utilizado en proyectos anteriores dedicados al estudio de la poesía hispánica medieval, en donde los aspectos formales del verso tienen una gran importancia (ver apartado 2.1.2). Dado que el presente proyecto no se focaliza en este tipo de problemáticas, se ha reducido el uso de algunos atributos y elementos de las propuestas anteriores (por ejemplo, no se codificaron las rimas). Sin embargo, no se eliminaron todos los atributos relacionados con los aspectos métrico-rimáticos, en previsión de la posibilidad de reutilización a futuro de los textos codificados con TEI en un proyecto en donde la presencia de esos datos sea relevante. Esta información se incorpora en el primer elemento \<lg\> que contiene al resto del fragmento editado y se introduce mediante los atributos @type (“fragmento”), @subtype (“épica-culta”), @met (“4x4”), @rhyme (“AAAA”), @unisonancia (“singular”), @isometrismo (“isométrico”), @isoestrofismo (“isoestrófico”) y @asonancia (“consonante”). Adicionalmente en los elementos \<lg\> que contienen cada estrofa se agrega el atributo @type con el valor “tetrástico\_monorrimo”[^19]. Como puede apreciarse por sus nombres en español, varios de estos atributos no son originales del módulo de verso de TEI, sino que fueron creados especialmente para el marcado de poesía medieval española en los proyectos referidos en el apartado 2.1.2.  
+En segundo lugar se encuentran los elementos que se utilizan para introducir la información semántica sobre los términos que forman el vocabulario controlado del estudio de la écfrasis en el poema. En primer lugar se marcan todas las apariciones de los términos de nuestra taxonomía en el texto, con este fin se utilizan tres elementos: \<term\>, \<persName\> y \<placeName\>, de los cuales el más utilizado es por amplio margen el primero, que abarca un abanico mucho más amplio de posibles entradas, mientras que los otros dos se reservan para los casos de nombres propios de lugares o personas que forman parte de los temas representados incluidos en la taxonomía. Estos tres elementos reciben los mismos dos atributos; @key, cuyo valor es el valor numérico derivado de la URL asignada por el vocabulario controlado para cada término; y @type, cuyo valor puede ser una de cinco opciones. Los valores admitidos en el atributo @type son: “artístico” (para todos las entradas incluidas en los dos primeros meta-términos del vocabulario controlado), o alguna de las cuatro subcategorías del meta-término de temas representados, es decir “clasico”, “religioso”, “enciclopedico” o “alexandre” (cuya descripción detallada puede encontrarse en el apartado 2.1.3).  
+Por otra parte, además del marcado de términos en el texto, también se codifica la aparición de los temas iconográficos más importantes para el análisis de los pasajes editados (como el mapamundi o la construcción de la Torre de Babel). Esa función se cubre paralelamente por dos sistemas de marcado. Uno de estos sistemas es el uso del elemento \<note\> al que se añade un atributo @type para indicar que se trata de un motivo, y al que se agregan los atributos @subtype y @key para incluir el mismo tipo de información que los términos individuales (es decir, la referencia a la entrada correspondiente en el vocabulario controlado y la clasificación dentro del sistema de motivos). Al mismo tiempo, se utiliza el atributo @ana en los elementos \<l\> y \<lg\> en los que se desea hacer manifiesta la presencia de uno de los motivos analizados. El valor de los atributos @ana se encuentra determinado por los @xml-id de los motivos marcados, que se encuentra definido a través de la reproducción de la taxonomía creada en TemaTres en un archivo XML-TEI mediante el uso del elemento \<taxonomy\> y sus correspondientes elementos descendientes \<category\>. Sin embargo, entre estas dos alternativas de codificación, la que es recuperada luego en el proceso de transformación para ser visualizada en el sitio de la edición digital es la primera, es decir la incluida a través del elemento \<note\> .
+
+<br/>
+
+## **5-4. Sitios estáticos con Jekyll y GitHub**
+
+Una vez realizada la primera etapa de codificación de los textos en TEI, el siguiente paso fue el desarrollo de un sitio estático que pudiera servir para alojar la edición digital y sus herramientas complementarias. La metodología adoptada para este fin fue el uso del software Jekyll[^20] para la construcción de sitios estáticos y de la plataforma en línea GitHub[^21], que permite el alojamiento de sitios con estas características en forma gratuita. Esto se debe a que los sitios estáticos no usan una base de datos para almacenar información, sino que todo el contenido de cada página se encuentra por completo completo en uno, o varios archivos HTML. Frente a la constante demanda de mantenimiento y actualización de los sitios dinámicos, los sitios estáticos creados con Jekyll pueden mantenerse disponibles por largos períodos de tiempo de forma autónoma (Dombrowski, 2022, p. 19; Rio Riande, 2014, pp. 52-53).   
+La función de Jekyll es facilitar la construcción de esos archivos HTML generando una estructura que permite no tener que escribir las líneas de código que se repiten en varias páginas (como el pié de página del sitio o el menú de navegación) en cada archivo. Jekyll también ofrece una variedad de temas gratuitos con funciones integradas, entre los cuales se encuentra el utilizado en la presente edición. El tema Ed[^22], diseñado específicamente para la publicación digital académica en sitios estáticos, proporciona una estructura inicial en la que se integran dos funciones extremadamente útiles, un buscador de términos discretos y la opción de introducir anotaciones en cualquiera de las páginas del sitio mediante la integración de la aplicación web Hypothesis.is[^23].   
+Por su parte, GitHub ofrece dos servicios de gran importancia, el primero es el almacenamiento y control de versiones del repositorio de archivos que forman la edición digital (desde los textos codificados en XML-TEI hasta los HTML de las páginas del sitio); el segundo es proporcionar el alojamiento para el sitio estático a través del servicio de GitHub Pages. Si bien en una primera etapa del proyecto la plataforma utilizada para realizar estas tareas fue GitLab[^24], debido a un cambio en sus políticas de acceso realizadas en 202, que implicaba la necesidad de introducir un número de tarjeta de crédito para validar a los nuevos usuarios de la plataforma, se decidió migrar el repositorio a GitHub, que no cuenta con este tipo de restricciones de acceso y adicionalmente tiene una base de usuarios mucho más amplia, lo que favorece sus probabilidades de continuidad en el tiempo.  
+Para la presentación del texto en la edición digital, el objetivo principal fue lograr una visualización que destaque los términos incluidos en el vocabulario controlado, que permitiera identificar visualmente la distribución de las principales categorías utilizadas como valores del atributo @type de estos términos, y por último, que estos funcionaran como un hipervínculo a la entrada correspondiente de la taxonomía, y las mismas características se aplicaron a los elementos \<note\> destinados a señalar la aparición de diferentes motivos artísticos en el texto. La estrategia adoptada fue utilizar un sistema de colores para distinguir a los términos y temas representados según la clasificación desarrollada en el apartado 2.1.3.  
+Teniendo en cuenta que uno de los objetivos centrales de la presente investigación es poner en diálogo a las écfrasis del *Alexandre* con un corpus de obras de arte plástico medieval de referencia, se desarrolló de una galería de reproducciones digitales de las obras utilizadas como punto de comparación en los capítulos 1.2, 1.3 y 1.4. Para esta sección específica se decidió utilizar otra plantilla de Jekyll, Collection Builder[^25], que, a diferencia de Ed, no se focaliza en la publicación de texto, sino en la presentación de colecciones documentales en diferentes formatos. Esta integración de plantillas en un mismo espacio de trabajo (ya que ambos sitios se encuentran hipervinculados en sus respectivos menús principales), permite aprovechar diferentes aspectos de la gama de tecnologías disponibles para el desarrollo de sitios estáticos, y se trata de otro ejemplo de las ventajas de adoptar una aproximación abierta para cumplir con el *dictum* fundacional de la *minimal computing*, de adaptar el uso de las infraestructuras tecnológicas a las necesidades de la investigación y no a la inversa. 
+
+<br/>
+
+## **5-5. Herramientas complementarias**
+<br/>
+{% include feature/nav-menu.html sections="5-5-1. Carrusel de fragmentos;5-5-2. Mapa de lugares mencionados;5-5-3. Colección de entradas bibliográficas;5-5-4. Plugin de anotaciones" %}
+<br/>
+
+Si bien se intentó que la mayor cantidad posible de funcionalidades del sitio dependiera exclusivamente de los archivos que componen los repositorios de Github desarrollados en el apartado anterior, algunas funciones específicas necesitan del apoyo de herramientas y plataformas en línea de terceros. A continuación se detallan las herramientas complementarias con estas características.
+<br/>
+
+### **5-5-1. Carrusel de fragmentos**
+
+La herramienta Timeline[^26], desarrollada por KnightLab[^27], constituye un recurso digital orientado a la visualización cronológica de acontecimientos mediante líneas de tiempo interactivas. Su funcionamiento se basa en la estructuración de datos en una hoja de cálculo de Google, lo que permite integrar información textual junto con recursos multimedia como imágenes, videos y enlaces externos. Para crear el carrusel de la página de inicio del sitio de la edición, en donde los fragmentos de écfrasis pueden explorarse en su orden de aparición en el texto, se adaptó la estructura de Timeline reemplazando la columna dedicada a registrar la fecha de los acontecimientos por la numeración de las estrofas de inicio y final de cada fragmento del corpus.
+
+<br/>
+
+### **5-5-2. Mapa de lugares mencionados**
+
+El paso previo para generar cualquier tipo de visualización de la información geográfica de un texto consiste en georreferenciarlo. Para georreferenciar un texto es preciso seguir un proceso que se denomina *geoparsing*, y que consta de dos partes: identificar los topónimos y asignarles las coordenadas de su localización geográfica asociándolos con una entrada correspondiente en un *gazetteer* de información geográfica (Gómez, 2018, p. 121; Gregory et al., 2015, p. 3). Como señalan del Rio Riande y Vitale (2020, p. 1), el término *gazetteer* refiere a una lista de lugares que incluye información sobre los nombres, coordenadas y datos de interés de cada ítem. La herramienta utilizada para realizar este proceso fue la plataforma en línea Recogito[^28], perteneciente a la red de Pelagios Network, que permite realizar la anotación y georreferenciación de fuentes documentales variadas, ya que no solo permite trabajar sobre archivos de texto, sino que también admite la anotación de imágenes en varios formatos. Rio Riande y Marti (2020), se refieren en los siguientes términos al proyecto de desarrolla y mantiene esta herramienta:
+
+Pelagios Commons es una comunidad y una infraestructura que trabaja con tecnologías semánticas como Linked Open Geodata para las humanidades. Su objetivo es fomentar mejores vínculos entre diferentes recursos en línea (fuentes relacionadas con datos históricos, geográficos, mapas) para documentar el pasado. Pelagios Commons ofrece a la comunidad de humanistas digitales herramientas y recursos online que, por un lado, no necesitan de conocimientos de programación y, por el otro, permiten un trabajo en la nube, con capacidad de exportación a diferentes formatos y plataformas. Más aún, Pelagios Commons acerca recursos que posibilitan un trabajo colaborativo y con garantías de autoría y preservación a largo plazo (p. 381).
+
+La primera aproximación a una visualización de la geografía de las descripciones ecfrásticas del *Alexandre* consistió en la creación de un documento en Recogito en donde se cargaron todos los fragmentos del corpus como texto plano y se realizó el *geoparsing* de los lugares mencionados. Recogito ofrece la posibilidad de realizar un reconocimiento automático de topónimos, sin embargo existen varias limitaciones para aplicar esta función automática a textos medievales españoles como el *Alexandre*:
+
+* En primer lugar, no existe un nomenclador español / ibérico medieval para identificar lugares geográficos de fuentes literarias y sus equivalentes en la geografía actual.   
+* Además, también es necesario regularizar nombres y términos, ya que los textos que sobreviven en la Edad Media contienen muchas variantes fonéticas y lingüísticas que no permiten que los sistemas de tecnologías de reconocimiento de entidades nombradas (*Named Entity Recognition*\-NER) los reconozcan automáticamente.   
+* Finalmente, algunos lugares que aparecen en textos literarios fueron inventados por autores medievales, o nombrados de una manera diferente a lo largo de los siglos (Rio Riande y Marti, 2020, p. 385).
+
+Por estos motivos, la georreferenciación debió realizarse en forma manual, aplicando diversos criterios para lograr una aproximación lo más acertada posible para aquellos casos en los que la base de datos de Recogito no ofrecía una coincidencia exacta para uno de los lugares mencionados. A esto es necesario añadir que para conseguir una visualización que pueda servir como un insumo confiable para un proyecto de investigación, el modelado del texto requiere no solo de una lectura humana, sino de una lectura cercana que tenga en cuenta las particularidades lingüísticas y el contexto cultural de los textos analizados. 
+
+<br/>
+
+### **5-5-3. Colección de entradas bibliográficas**
+
+Como parte del trabajo de investigación expuesto en esta tesis, se creó una biblioteca de las entradas bibliográficas relevadas durante el proceso, para lo cual se utilizó el software Zotero[^29], una herramienta digital de gestión bibliográfica que permite recopilar, organizar y citar de manera sistemática fuentes de información académica. Diseñada como un software de código abierto, facilita la extracción automática de metadatos desde catálogos, bases de datos y sitios web, además de ofrecer la posibilidad de almacenar documentos completos, notas y etiquetas. Asimismo, integra funciones de colaboración en línea mediante grupos y bibliotecas compartidas, lo que amplía su utilidad en proyectos colectivos de investigación. Su interoperabilidad con procesadores de texto y su amplia compatibilidad con estilos de citación la convierten en un recurso de gran utilidad para la investigación académica y la producción científica. 
+
+<br/>
+
+### **5-5-4. Plugin de anotaciones**
+
+Las anotaciones son gestionadas a través del plugin externo Hypothesis[^30]. Crear una cuenta de usuario gratuita en este plugin permite añadir comentarios, subrayados y discusiones colaborativas sobre textos disponibles en la web o en documentos en formato PDF. De esta forma, a través de la integración de un servicio abierto, con una amplia comunidad de usuarios, es posible superar una de las principales limitaciones tecnológicas de los sitios estáticos, la imposibilidad de personalizar el contenido que se muestra en el sitio según la configuración personal del usuario que accede a él. Esta herramienta también permite que los lectores de la edición pasen de un rol puramente pasivo a uno activo, en el cual pueden crear su propio contenido, en la forma de anotaciones y comentarios, que pueden utilizarse de forma individual o compartida con otros usuarios.
+
+<br/>
+
+## **5-6. Consideraciones finales**
+
+Las tecnologías que se utilizan para realizar una labor académica no son neutras desde lo económico, lo político e incluso ecológico (Cong Huyen, 2013; Rio Riande, 2022b, p. 251; Wythoff, 2022, párr. 44). Adoptar metodologías de *minimal computing* como la publicación en sitios estáticos, o el uso de software y plataformas abiertas como Jekyll y GitHub, no sólo implica una solución a las propias limitaciones de infraestructura, sino que también significa trabajar en el desarrollo de un flujo de trabajo que, debidamente documentado y puesto a disposición del público, puede ser replicado por estudiantes e investigadores de forma más equitativa que las opciones de publicación de alta costura[^31], dependientes del apoyo económico de las grandes instituciones del Norte Global (De Greiff, 2017). Si algo puede sacarse en claro de esta experiencia de planeamiento y ejecución del desarrollo de un sitio web para alojar una edición filológica digital es la importancia de generar prácticas replicables y accesibles para el desarrollo de una actividad académica inclusiva y sustentable (Rio Riande, 2022a, 2022b; Rio Riande y Viglianti, 2025a, 2025b; Viglianti, 2018; Viglianti et al., 2022). 
+
 [^1]:  (...) *exactly because of their dynamic, non-linear and rhizomatic character, hypertexts – even the only verbal ones – seem to be more suitable for representing the fast intertwining of our thoughts, their moving through intersections, jumps, and links, their constant re-constructing and re-organizing the most heterogeneous features of our experiences. And this is particularly true when we consider that hypertexts are multimedial "objects" and can therefore represent – even though in a still simplified and synthetic way – not only verbal but also nonverbal (for the moment only visual and acoustic) features of many of our experiences* (Cicconi, 1999, p. 13).
 
 [^2]:  Disponible en: [https://proyectoremetca.weebly.com/](https://proyectoremetca.weebly.com/).
@@ -76,3 +208,51 @@ Una vez establecido el vocabulario controlado, se procedió a la codificación d
 [^6]: Disponible en: [https://hdlab.space/biblioteca-digital/](https://hdlab.space/biblioteca-digital/).
 
 [^7]:  El curso *Digital Publishing with Minimal Computing/Ediciones digitales con minimal computing* fue una iniciativa de Global Classrooms, que surgió como colaboración entre la Universidad de Maryland (Estados Unidos) y la Universidad del Salvador (Argentina).
+
+[^8]:  Disponible en: [https://www.argentina.gob.ar/normativa/nacional/ley-26899-223459](https://www.argentina.gob.ar/normativa/nacional/ley-26899-223459).
+
+[^9]:  El concepto de *minimal computing* surge de los trabajos realizados por el grupo de trabajo (*working group*) GO::HD, disponible en: [https://go-dh.github.io/mincomp/about/](https://go-dh.github.io/mincomp/about/).
+
+[^10]:  Disponible en: [https://vocabularyserver.com/web/](https://vocabularyserver.com/web/).
+
+[^11]:  Disponible en: [https://vocabularyserver.com/alexandre/index.php](https://vocabularyserver.com/alexandre/index.php).
+
+[^12]:  Disponible en: [https://terminologias.filo.uba.ar/vocabs/1010/](https://terminologias.filo.uba.ar/vocabs/1010/).
+
+[^13]:  Disponible en: [https://skosmos.org/](https://skosmos.org/).
+
+[^14]:  Disponible en: [https://code.visualstudio.com/](https://code.visualstudio.com/).
+
+[^15]:  Disponible en: [https://www.oxygenxml.com/](https://www.oxygenxml.com/).
+
+[^16]:  Disponible en: [Scholarly XML \- Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml).
+
+[^17]:  Se utiliza la convención común en trabajos dedicados al marcado XML de identificar los nombres de atributos con el signo “@”.
+
+[^18]:  Disponible en: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/).
+
+[^19]:  Para más información sobre los aspectos formales del verso en el *Alexandre* ver [(Rico 1985; Michael 1986; Uría Maqua 2000; González Blanco García 2008\)](https://www.zotero.org/google-docs/?broken=5OGBaJ).
+
+[^20]:  Disponible en: [https://jekyllrb.com/](https://jekyllrb.com/).
+
+[^21]:  Disponible en: [https://github.com/](https://github.com/).
+
+[^22]:  Disponible en: [https://github.com/elotroalex/ed](https://github.com/elotroalex/ed).
+
+[^23]:  Disponible en: [https://via.hypothes.is/](https://via.hypothes.is/).
+
+[^24]:  Disponible en: [https://about.gitlab.com/](https://about.gitlab.com/).
+
+[^25]:  Disponible en: [https://collectionbuilder.github.io/](https://collectionbuilder.github.io/).
+
+[^26]:  Disponible en: [https://timeline.knightlab.com/](https://timeline.knightlab.com/).
+
+[^27]:  Knight Lab es un proyecto desarrollado y sostenido por la Northwestern University (Chicago / San Francisco, E.E.U.U.), disponible en: [https://knightlab.northwestern.edu/](https://knightlab.northwestern.edu/).
+
+[^28]:  Disponible en: [https://recogito.pelagios.org/](https://recogito.pelagios.org/).
+
+[^29]:  Disponible en: [https://www.zotero.org/](https://www.zotero.org/).
+
+[^30]:  Disponible en: [https://web.hypothes.is/](https://web.hypothes.is/).
+
+[^31]:  Pierazzo (2019) utiliza el concepto de ediciones de *Haute Couture* (alta costura) para aludir a proyectos con un carácter personalizado y un alto costo económico de desarrollo.
